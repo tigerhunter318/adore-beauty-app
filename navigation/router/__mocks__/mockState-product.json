@@ -1,0 +1,261 @@
+{
+  "stale": false,
+  "type": "stack",
+  "key": "stack-d_Rvaheu02xudocRnM-EZ",
+  "index": 0,
+  "routeNames": [
+    "MainDrawer",
+    "Login",
+    "ProductQuickView",
+    "HasuraPromoQuickView",
+    "PromoQuickView",
+    "ArticleShopProducts",
+    "DeeplinkLoader",
+    "AdoreSocietyModalScreen",
+    "CMS",
+    "NoInternetConnection"
+  ],
+  "routes": [
+    {
+      "key": "MainDrawer-qcdvNKHEDZ7OTgPbjkAI9",
+      "name": "MainDrawer",
+      "params": {
+        "initial": true,
+        "screen": "Main",
+        "params": {
+          "initial": true,
+          "screen": "ProductStack",
+          "params": {
+            "initial": "true",
+            "params": "[object Object]",
+            "screen": "Product"
+          }
+        }
+      },
+      "state": {
+        "stale": false,
+        "type": "drawer",
+        "key": "drawer-ttg2qAkDtUciWJJAa7Kq8",
+        "index": 0,
+        "routeNames": [
+          "Main"
+        ],
+        "history": [
+          {
+            "type": "route",
+            "key": "Main-uBG3x92W3K7h3b-d819pm"
+          }
+        ],
+        "routes": [
+          {
+            "name": "Main",
+            "key": "Main-uBG3x92W3K7h3b-d819pm",
+            "params": {
+              "initial": true,
+              "screen": "ProductStack",
+              "params": {
+                "initial": "true",
+                "params": "[object Object]",
+                "screen": "Product"
+              }
+            },
+            "state": {
+              "stale": false,
+              "type": "stack",
+              "key": "stack-aYsvtsb8JMnXdwECagzt9",
+              "index": 1,
+              "routeNames": [
+                "MainTab",
+                "Cart",
+                "ProductStack",
+                "GiftCertificate",
+                "PostScreen",
+                "BeautyIQPodcastEpisode",
+                "OrderConfirm"
+              ],
+              "routes": [
+                {
+                  "key": "MainTab-BlVP17sWVFtGPi-QS-5KX",
+                  "name": "MainTab",
+                  "params": {
+                    "initial": true,
+                    "screen": "Shop",
+                    "params": {
+                      "initial": true,
+                      "screen": "ShopCategoryProducts",
+                      "params": {
+                        "fromScreenPath": "/MainDrawer/Main/ProductStack?initial=true&params=%5Bobject%20Object%5D&screen=Product",
+                        "showLoader": true,
+                        "isDeepLink": true,
+                        "url": "estee-lauder",
+                        "name": ""
+                      }
+                    }
+                  },
+                  "state": {
+                    "stale": false,
+                    "type": "tab",
+                    "key": "tab-b2XMG1psmaTyt_QJunbV7",
+                    "index": 1,
+                    "routeNames": [
+                      "Home",
+                      "Shop",
+                      "CartTab",
+                      "Account",
+                      "BeautyIQ"
+                    ],
+                    "history": [
+                      {
+                        "type": "route",
+                        "key": "Home-hk8ll7oNJQwAU99t7mM8I"
+                      },
+                      {
+                        "type": "route",
+                        "key": "Shop-NTmuZzGOswQy_Qu7lWYBV"
+                      }
+                    ],
+                    "routes": [
+                      {
+                        "name": "Home",
+                        "key": "Home-hk8ll7oNJQwAU99t7mM8I",
+                        "state": {
+                          "stale": false,
+                          "type": "stack",
+                          "key": "stack-mvSosZ6jha7Kb66oOFvr5",
+                          "index": 0,
+                          "routeNames": [
+                            "Home"
+                          ],
+                          "routes": [
+                            {
+                              "key": "Home-RxPeC6vASDcCRo3rJOh3H",
+                              "name": "Home",
+                              "params": {
+                                "screenHeaderLogoSource": "https://images.ctfassets.net/pi28xy1s107o/52yUOD2lVWND8WFiTSi0ZL/140510078dd7784734f219dd16fee9be/ab-app-logo-christmas-rust-colour.png"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "name": "Shop",
+                        "key": "Shop-NTmuZzGOswQy_Qu7lWYBV",
+                        "params": {
+                          "initial": true,
+                          "screen": "ShopCategoryProducts",
+                          "params": {
+                            "fromScreenPath": "/MainDrawer/Main/ProductStack?initial=true&params=%5Bobject%20Object%5D&screen=Product",
+                            "showLoader": true,
+                            "isDeepLink": true,
+                            "url": "estee-lauder",
+                            "name": ""
+                          },
+                          "fromScreenPath": "/MainDrawer/Main/MainTab/Shop/ShopCategoryProducts?fromScreenPath=%2FMainDrawer%2FMain%2FMainTab%2FHome%2FHome%3FscreenHeaderLogoSource%3Dhttps%253A%252F%252Fimages.ctfassets.net%252Fpi28xy1s107o%252F52yUOD2lVWND8WFiTSi0ZL%252F140510078dd7784734f219dd16fee9be%252Fab-app-logo-christmas-rust-colour.png&isDeepLink=true&name=Night%20Cream&showLoader=true&url=skin-care%2Fmoisturisers%2Fnight",
+                          "showLoader": true,
+                          "isDeepLink": true
+                        },
+                        "state": {
+                          "stale": false,
+                          "type": "stack",
+                          "key": "stack--YFUTNEnB8hmxLubCqokx",
+                          "index": 0,
+                          "routeNames": [
+                            "Shop",
+                            "ShopCategoryProducts",
+                            "ShopTabs",
+                            "ShopPromotions"
+                          ],
+                          "routes": [
+                            {
+                              "key": "Shop-EzEUbC3oDCUIXSTHhMS4s",
+                              "name": "Shop",
+                              "params": {
+                                "fromScreenPath": "/MainDrawer/Main/MainTab/Shop/ShopCategoryProducts?fromScreenPath=%2FMainDrawer%2FMain%2FMainTab%2FHome%2FHome%3FscreenHeaderLogoSource%3Dhttps%253A%252F%252Fimages.ctfassets.net%252Fpi28xy1s107o%252F52yUOD2lVWND8WFiTSi0ZL%252F140510078dd7784734f219dd16fee9be%252Fab-app-logo-christmas-rust-colour.png&isDeepLink=true&name=Night%20Cream&showLoader=true&url=skin-care%2Fmoisturisers%2Fnight",
+                                "showLoader": true,
+                                "isDeepLink": true
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "name": "CartTab",
+                        "key": "CartTab-zRnK01ka6OjAYp3IfYjIe"
+                      },
+                      {
+                        "name": "Account",
+                        "key": "Account-HgaUqlSE3VpFuxJ6KqCDd"
+                      },
+                      {
+                        "name": "BeautyIQ",
+                        "key": "BeautyIQ-3QJ3M1_VaGFwfF5VbhNNX"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "key": "ProductStack-X-HfeNnrBBxn25jPgOQMS",
+                  "name": "ProductStack",
+                  "params": {
+                    "initial": "true",
+                    "params": "[object Object]",
+                    "screen": "SearchSuggestions"
+                  },
+                  "state": {
+                    "stale": false,
+                    "type": "stack",
+                    "key": "stack-YDyAMK1SBUZFInGi8M8TO",
+                    "index": 1,
+                    "routeNames": [
+                      "Product",
+                      "ProductTab",
+                      "ProductSubmitReview",
+                      "SearchSuggestions",
+                      "SearchResults"
+                    ],
+                    "routes": [
+                      {
+                        "key": "SearchSuggestions-ataVEsbUUQG4rgPmmMfS6",
+                        "name": "SearchSuggestions",
+                        "params": {
+                          "0": "[",
+                          "1": "o",
+                          "2": "b",
+                          "3": "j",
+                          "4": "e",
+                          "5": "c",
+                          "6": "t",
+                          "7": " ",
+                          "8": "O",
+                          "9": "b",
+                          "10": "j",
+                          "11": "e",
+                          "12": "c",
+                          "13": "t",
+                          "14": "]"
+                        }
+                      },
+                      {
+                        "key": "Product-bshAxQyvGjWNKGbi3sf6z",
+                        "name": "Product",
+                        "params": {
+                          "productSku": [
+                            "MB185400"
+                          ],
+                          "product_id": "5232",
+                          "is_consent_needed": false,
+                          "q": "",
+                          "inStock": true
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

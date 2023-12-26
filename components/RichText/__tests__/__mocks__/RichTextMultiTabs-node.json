@@ -1,0 +1,144 @@
+{
+  "title": "Frequently Asked Questions",
+  "displayTitle": true,
+  "tabs": [
+    {
+    "type": "cardsMultiple",
+    "content": {
+      "title": "Refundid Returns",
+      "cards": [
+        {
+        "title": "What is Refundid?",
+        "hideTitle": "No",
+        "image": "",
+        "backgroundColour": null,
+        "textColour": null,
+        "content": "<p>Refundid is a third party online return provider! They pay the refund amount into your nominated bank account within 60 seconds of a return being lodged. No need to wait for your order to be mailed and checked!</p>\n"
+        },
+        {
+        "title": "How do I use Refundid?",
+        "hideTitle": "No",
+        "image": "",
+        "backgroundColour": null,
+        "textColour": null,
+        "content": "<p>If you haven’t already, create an account with Refundid by clicking the link <a href=\"https://refundid.com/stores/adore-beauty\">here</a>.</p>\n<p>1.Select Refundid as your return option.</p>\n<p>2.Enter our order number and email address.</p>\n<p>3.Pick out the items you're returning.</p>\n<p>4.Receive your instant refund!</p>\n<p>5.Send your order back to us. You have 10 days to put your return in the mail, otherwise Refundid will reverse your refund.</p>\n<p>For any questions related to the shipping tracking number, please reach out to Refundid <a href=\"http://www.refundid.com/help\">here</a>.</p>\n"
+        },
+        {
+        "title": "What do I do after receiving my refund from Refundid?",
+        "hideTitle": "No",
+        "image": "",
+        "backgroundColour": null,
+        "textColour": null,
+        "content": "<p>After using Refundid and sending your items back to Adore Beauty your refund process is complete!</p>\n"
+        },
+        {
+        "title": "Where do I receive my Refund?",
+        "hideTitle": "No",
+        "image": "",
+        "backgroundColour": null,
+        "textColour": null,
+        "content": "<p>When signing up to Refundid you’re prompted to provide your BSB and Account Number. Refundid pays you (instantly!) into the account you’ve provided them.</p>\n"
+        },
+        {
+        "title": "What banking details do I need to provide on sign up?",
+        "hideTitle": "No",
+        "image": "",
+        "backgroundColour": null,
+        "textColour": null,
+        "content": "<p>To link your bank, you will be required to provide Refundid with your:</p>\n<ul>\n<li>Account Name</li>\n<li>BSB</li>\n<li>Account Number</li>\n</ul>\n<p>When choosing which account to link, ensure you select a bank account you are actively using.\nBe sure to double check your details when adding your bank to prevent refunds being sent to the incorrect account.</p>\n"
+        },
+        {
+        "title": "What happens if I paid with Afterpay, Zip or Klarna, do I keep making my payments?",
+        "hideTitle": "No",
+        "image": "",
+        "backgroundColour": null,
+        "textColour": null,
+        "content": "<p>Absolutely! Since you haven’t paid for the items in full just yet, you will need to keep up with your instalments to avoid dishonour fees charged by buy now pay later services (such as: Afterpay, Zip or Klarna).</p>\n<p><strong>EXCHANGE/STORE CREDIT:</strong> Your return will be processed as per normal and your Afterpay instalments will remain the same.</p>\n<p>__REFUND: __ The refunded amount all depends on the current status of your Afterpay payments.</p>\n<p>The total amount of the instalments you have paid will be refunded. Any instalments you have not yet paid for will be cancelled.</p>\n"
+        },
+        {
+        "title": "Want to cancel your refund?",
+        "hideTitle": "No",
+        "image": "",
+        "backgroundColour": null,
+        "textColour": null,
+        "content": "<p>If you enter the incorrect details when processing your refund please contact Refundid directly. If you don’t contact Refundid, they will automatically settle the finances. This may include paying you additional money or deducting excess money. Misconduct fees may apply if the merchant declines the return and Refundid is not notified prior to the merchant receiving the order.</p>\n<p>In the event that you'd like to cancel your refund after it has already been issued to you, please contact Refundid. All refund cancellations incur a $1 fee and can take up to 2 business days to finalise.</p>\n"
+        },
+        {
+        "title": "Is there a limit to how much I can refund on a single return?",
+        "hideTitle": "No",
+        "image": "",
+        "backgroundColour": null,
+        "textColour": null,
+        "content": "<p>Yes, Refundid currently offers instant refunds on up to $750 of your order. You will still be able to use the platform if your entire order value exceeds $750, however you will only be able to refund up to $750 of that order.</p>\n"
+        },
+        {
+        "title": "What categories are not eligible for a refund?",
+        "hideTitle": "No",
+        "image": "",
+        "backgroundColour": null,
+        "textColour": null,
+        "content": "<p>Products and brands excluded from our returns policy include electrical devices, menstrual care, oral care, intimate care and sexual wellness products for hygiene and safety reasons. This does not apply to faulty items. In addition, the purchase of gift cards are excluded from our returns policy.  Please note for any phone orders or amended orders they will need to be processed via our returns form.</p>\n"
+        },
+        {
+        "title": "Can I use Refundid if I'm returning an order I purchased with a gift card?",
+        "hideTitle": "No",
+        "image": "",
+        "backgroundColour": null,
+        "textColour": null,
+        "content": "<p>Yes, orders purchased with gift cards or store credit are eligible to be refunded with Refundid.</p>\n"
+        },
+        {
+        "title": "When do I need to return my items?",
+        "hideTitle": "No",
+        "image": "",
+        "backgroundColour": null,
+        "textColour": null,
+        "content": "<p>You have 10 days to post your return! If your return tracking has not updated within 10 days, Refundid will reverse the instant refund they have paid out to you.</p>\n"
+        }
+      ],
+        "cardStyle": "dropDown"
+      }
+    },
+    {
+    "type": "cardsMultiple",
+    "content": {
+      "title": "General Returns",
+      "cards": [
+        {
+        "title": "Am I eligible for free return shipping?",
+        "hideTitle": "No",
+        "image": "",
+        "backgroundColour": null,
+        "textColour": null,
+        "content": "<p>If you'd like to confirm whether your return will be eligible for free return shipping, please contact our customer service team directly. Unfortunately we are not able to cover return postage fees on all return types. If you have shopped via The Scent room, your order is eligible for free returns - please view more details <a href=\"https://www.adorebeauty.com.au/the-scent-room-returns.html\">here</a>.</p>\n"
+        },
+        {
+        "title": "If my Change of Mind return isn't received in resalable condition, what happens?",
+        "hideTitle": "No",
+        "image": "",
+        "backgroundColour": null,
+        "textColour": null,
+        "content": "<p>If we receive your return and it isn't in the condition outlined in our returns policy, the item will be sent back to your original shipping address - we’ll contact you straight away to let you know.</p>\n"
+        },
+        {
+        "title": "I've purchased an electrical item that is still under warranty - what happens now?",
+        "hideTitle": "No",
+        "image": "",
+        "backgroundColour": null,
+        "textColour": null,
+        "content": "<p>Please contact us within the warranty period, and we will be happy to assist. Please note that some electrical warranties are processed through the Australian Distributor directly, and you may be asked to return the product directly to the supplier.</p>\n"
+        },
+        {
+        "title": "Any other questions?",
+        "hideTitle": "No",
+        "image": "",
+        "backgroundColour": null,
+        "textColour": null,
+        "content": "<p>Please contact our customer service team at service@adorebeauty.com.au, or by phoning us on (03) 9344 1671 (9am - 5pm AEST, Monday to Friday, excluding national public holidays). You can also contact us via our online chat for further information. You can view our privacy policy <a href=\"https://www.adorebeauty.com.au/privacy\">here</a>, and our terms and conditions <a href=\"https://www.adorebeauty.com.au/terms-conditions\">here</a>.</p>\n"
+        }
+      ],
+      "cardStyle": "dropDown"
+      }
+    }
+  ]
+}

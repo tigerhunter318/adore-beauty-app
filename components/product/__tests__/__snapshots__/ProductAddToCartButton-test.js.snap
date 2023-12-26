@@ -1,0 +1,789 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductAddToCartButton ArticleShopProductInStock . 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#D6775E",
+        "paddingLeft": 10,
+        "paddingRight": 10,
+      },
+      Object {
+        "alignItems": "center",
+        "borderRadius": 3,
+        "flexDirection": "row",
+        "height": 40,
+        "justifyContent": "center",
+      },
+    ]
+  }
+  testID="Button.AddToCart"
+>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": "#FFFFFF",
+          "fontFamily": "Montserrat-Bold",
+          "fontSize": 12,
+        },
+        Object {
+          "textTransform": "uppercase",
+        },
+      ]
+    }
+    testID="Button.AddToCart.Type"
+  >
+    Add to bag
+  </Text>
+</View>
+`;
+
+exports[`ProductAddToCartButton ArticleShopProductOutOfStock . 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#f5f3f3",
+        "paddingLeft": 10,
+        "paddingRight": 10,
+      },
+      Object {
+        "alignItems": "center",
+        "borderRadius": 3,
+        "flexDirection": "row",
+        "height": 40,
+        "justifyContent": "center",
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+        },
+        Object {},
+      ]
+    }
+  >
+    <AdoreSvgIcon
+      height={14}
+      name="email"
+      width={16}
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "fontFamily": "Montserrat-SemiBold",
+          },
+          Object {
+            "fontSize": 12,
+            "letterSpacing": 1,
+            "paddingLeft": 10,
+            "textTransform": "uppercase",
+          },
+        ]
+      }
+      testID="WaitlistButton.Type"
+    >
+      notify me
+    </Text>
+  </View>
+  <OutOfStockSubscribe />
+</View>
+`;
+
+exports[`ProductAddToCartButton ArticleShopProductSoldOut . 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#f5f3f3",
+        "paddingLeft": 10,
+        "paddingRight": 10,
+      },
+      Object {
+        "alignItems": "center",
+        "borderRadius": 3,
+        "flexDirection": "row",
+        "height": 40,
+        "justifyContent": "center",
+      },
+    ]
+  }
+>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Montserrat-SemiBold",
+          "textAlign": "center",
+        },
+        Array [
+          Object {
+            "fontSize": 12,
+            "letterSpacing": 1,
+            "paddingLeft": 10,
+            "textTransform": "uppercase",
+          },
+          Object {
+            "color": "#777777",
+            "paddingLeft": 0,
+          },
+          Object {
+            "fontSize": 12,
+          },
+        ],
+      ]
+    }
+    testID="SoldOutButton.Type"
+  >
+    sold out
+  </Text>
+</View>
+`;
+
+exports[`ProductAddToCartButton CategoryProductListItemSoldOut . 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#f5f3f3",
+        "paddingLeft": 10,
+        "paddingRight": 10,
+      },
+      Object {
+        "alignItems": "center",
+        "borderRadius": 3,
+        "flexDirection": "row",
+        "height": 40,
+        "justifyContent": "center",
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+        },
+        Object {},
+      ]
+    }
+  >
+    <AdoreSvgIcon
+      height={14}
+      name="email"
+      width={16}
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "fontFamily": "Montserrat-SemiBold",
+          },
+          Object {
+            "fontSize": 12,
+            "letterSpacing": 1,
+            "paddingLeft": 10,
+            "textTransform": "uppercase",
+          },
+        ]
+      }
+      testID="WaitlistButton.Type"
+    >
+      notify me
+    </Text>
+  </View>
+  <OutOfStockSubscribe />
+</View>
+`;
+
+exports[`ProductAddToCartButton CategoryProductListItemWithVariantsInStock . 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#D6775E",
+        "paddingLeft": 10,
+        "paddingRight": 10,
+      },
+      Object {
+        "alignItems": "center",
+        "borderRadius": 3,
+        "flexDirection": "row",
+        "height": 40,
+        "justifyContent": "center",
+      },
+    ]
+  }
+  testID="Button.AddToCart"
+>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": "#FFFFFF",
+          "fontFamily": "Montserrat-Bold",
+          "fontSize": 12,
+        },
+        Object {
+          "textTransform": "uppercase",
+        },
+      ]
+    }
+    testID="Button.AddToCart.Type"
+  >
+    Add to bag
+  </Text>
+</View>
+`;
+
+exports[`ProductAddToCartButton GiftListItemInStock . 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#D6775E",
+        "paddingLeft": 10,
+        "paddingRight": 10,
+      },
+      Object {
+        "alignItems": "center",
+        "borderRadius": 3,
+        "flexDirection": "row",
+        "height": 40,
+        "justifyContent": "center",
+      },
+    ]
+  }
+  testID="Button.AddToCart"
+>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": "#FFFFFF",
+          "fontFamily": "Montserrat-Bold",
+          "fontSize": 12,
+        },
+        Object {
+          "textTransform": "uppercase",
+        },
+      ]
+    }
+    testID="Button.AddToCart.Type"
+  >
+    Add to bag
+  </Text>
+</View>
+`;
+
+exports[`ProductAddToCartButton GiftListItemSoldOut . 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Object {
+        "alignItems": "center",
+        "borderRadius": 3,
+        "flexDirection": "row",
+        "height": 40,
+        "justifyContent": "center",
+      },
+    ]
+  }
+>
+  <Icon
+    color="#000000"
+    name="close"
+    size={20}
+    type="material"
+  />
+  <Text
+    allowFontScaling={false}
+    pl={0.5}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Montserrat-SemiBold",
+          "paddingLeft": 5,
+        },
+        Object {
+          "fontSize": 12,
+          "letterSpacing": 1,
+          "paddingLeft": 10,
+          "textTransform": "uppercase",
+        },
+      ]
+    }
+    testID="GiftlistButton.Type"
+  >
+    sold out
+  </Text>
+</View>
+`;
+
+exports[`ProductAddToCartButton ProductDetailInStock . 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#D6775E",
+        "paddingLeft": 10,
+        "paddingRight": 10,
+      },
+      Object {
+        "alignItems": "center",
+        "borderRadius": 3,
+        "flexDirection": "row",
+        "height": 40,
+        "justifyContent": "center",
+      },
+    ]
+  }
+  testID="Button.AddToCart"
+>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": "#FFFFFF",
+          "fontFamily": "Montserrat-Bold",
+          "fontSize": 12,
+        },
+        Object {
+          "textTransform": "uppercase",
+        },
+      ]
+    }
+    testID="Button.AddToCart.Type"
+  >
+    Add to bag
+  </Text>
+</View>
+`;
+
+exports[`ProductAddToCartButton ProductDetailOutOfStock . 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#f5f3f3",
+        "paddingLeft": 10,
+        "paddingRight": 10,
+      },
+      Object {
+        "alignItems": "center",
+        "borderRadius": 3,
+        "flexDirection": "row",
+        "height": 40,
+        "justifyContent": "center",
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+        },
+        Object {},
+      ]
+    }
+  >
+    <AdoreSvgIcon
+      height={14}
+      name="email"
+      width={16}
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "fontFamily": "Montserrat-SemiBold",
+          },
+          Object {
+            "fontSize": 12,
+            "letterSpacing": 1,
+            "paddingLeft": 10,
+            "textTransform": "uppercase",
+          },
+        ]
+      }
+      testID="WaitlistButton.Type"
+    >
+      notify me
+    </Text>
+  </View>
+  <OutOfStockSubscribe />
+</View>
+`;
+
+exports[`ProductAddToCartButton ProductDetailWithVariants In stock. 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#D6775E",
+        "paddingLeft": 10,
+        "paddingRight": 10,
+      },
+      Object {
+        "alignItems": "center",
+        "borderRadius": 3,
+        "flexDirection": "row",
+        "height": 40,
+        "justifyContent": "center",
+      },
+    ]
+  }
+  testID="Button.AddToCart"
+>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": "#FFFFFF",
+          "fontFamily": "Montserrat-Bold",
+          "fontSize": 12,
+        },
+        Object {
+          "textTransform": "uppercase",
+        },
+      ]
+    }
+    testID="Button.AddToCart.Type"
+  >
+    Add to bag
+  </Text>
+</View>
+`;
+
+exports[`ProductAddToCartButton ProductDetailWithVariants Out of stock. 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#f5f3f3",
+        "paddingLeft": 10,
+        "paddingRight": 10,
+      },
+      Object {
+        "alignItems": "center",
+        "borderRadius": 3,
+        "flexDirection": "row",
+        "height": 40,
+        "justifyContent": "center",
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+        },
+        Object {},
+      ]
+    }
+  >
+    <AdoreSvgIcon
+      height={14}
+      name="email"
+      width={16}
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "fontFamily": "Montserrat-SemiBold",
+          },
+          Object {
+            "fontSize": 12,
+            "letterSpacing": 1,
+            "paddingLeft": 10,
+            "textTransform": "uppercase",
+          },
+        ]
+      }
+      testID="WaitlistButton.Type"
+    >
+      notify me
+    </Text>
+  </View>
+  <OutOfStockSubscribe />
+</View>
+`;
+
+exports[`ProductAddToCartButton SearchProductCardInStock . 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#D6775E",
+        "paddingLeft": 10,
+        "paddingRight": 10,
+      },
+      Object {
+        "alignItems": "center",
+        "borderRadius": 3,
+        "flexDirection": "row",
+        "height": 40,
+        "justifyContent": "center",
+      },
+    ]
+  }
+  testID="Button.AddToCart"
+>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": "#FFFFFF",
+          "fontFamily": "Montserrat-Bold",
+          "fontSize": 12,
+        },
+        Object {
+          "textTransform": "uppercase",
+        },
+      ]
+    }
+    testID="Button.AddToCart.Type"
+  >
+    Add to bag
+  </Text>
+</View>
+`;
+
+exports[`ProductAddToCartButton SearchProductCardOutOfStock . 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#f5f3f3",
+        "paddingLeft": 10,
+        "paddingRight": 10,
+      },
+      Object {
+        "alignItems": "center",
+        "borderRadius": 3,
+        "flexDirection": "row",
+        "height": 40,
+        "justifyContent": "center",
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+        },
+        Object {},
+      ]
+    }
+  >
+    <AdoreSvgIcon
+      height={14}
+      name="email"
+      width={16}
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "fontFamily": "Montserrat-SemiBold",
+          },
+          Object {
+            "fontSize": 12,
+            "letterSpacing": 1,
+            "paddingLeft": 10,
+            "textTransform": "uppercase",
+          },
+        ]
+      }
+      testID="WaitlistButton.Type"
+    >
+      notify me
+    </Text>
+  </View>
+  <OutOfStockSubscribe />
+</View>
+`;
+
+exports[`ProductAddToCartButton SearchProductCardSoldOut . 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#f5f3f3",
+        "paddingLeft": 10,
+        "paddingRight": 10,
+      },
+      Object {
+        "alignItems": "center",
+        "borderRadius": 3,
+        "flexDirection": "row",
+        "height": 40,
+        "justifyContent": "center",
+      },
+    ]
+  }
+>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Montserrat-SemiBold",
+          "textAlign": "center",
+        },
+        Array [
+          Object {
+            "fontSize": 12,
+            "letterSpacing": 1,
+            "paddingLeft": 10,
+            "textTransform": "uppercase",
+          },
+          Object {
+            "color": "#777777",
+            "paddingLeft": 0,
+          },
+          Object {
+            "fontSize": 12,
+          },
+        ],
+      ]
+    }
+    testID="SoldOutButton.Type"
+  >
+    sold out
+  </Text>
+</View>
+`;
+
+exports[`ProductAddToCartButton WishListSoldOut . 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#f5f3f3",
+        "paddingLeft": 10,
+        "paddingRight": 10,
+      },
+      Object {
+        "alignItems": "center",
+        "borderRadius": 3,
+        "flexDirection": "row",
+        "height": 40,
+        "justifyContent": "center",
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+        },
+        Object {},
+      ]
+    }
+  >
+    <AdoreSvgIcon
+      height={14}
+      name="email"
+      width={16}
+    />
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "fontFamily": "Montserrat-SemiBold",
+          },
+          Object {
+            "fontSize": 12,
+            "letterSpacing": 1,
+            "paddingLeft": 10,
+            "textTransform": "uppercase",
+          },
+        ]
+      }
+      testID="WaitlistButton.Type"
+    >
+      notify me
+    </Text>
+  </View>
+  <OutOfStockSubscribe />
+</View>
+`;
+
+exports[`ProductAddToCartButton WishlistInStock . 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#D6775E",
+        "paddingLeft": 10,
+        "paddingRight": 10,
+      },
+      Object {
+        "alignItems": "center",
+        "borderRadius": 3,
+        "flexDirection": "row",
+        "height": 40,
+        "justifyContent": "center",
+      },
+    ]
+  }
+  testID="Button.AddToCart"
+>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": "#FFFFFF",
+          "fontFamily": "Montserrat-Bold",
+          "fontSize": 12,
+        },
+        Object {
+          "textTransform": "uppercase",
+        },
+      ]
+    }
+    testID="Button.AddToCart.Type"
+  >
+    Add to bag
+  </Text>
+</View>
+`;

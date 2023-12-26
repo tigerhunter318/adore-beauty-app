@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PromoBannerItem renders content 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "opacity": 1,
+      "overflow": "hidden",
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {},
+        undefined,
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "overflow": "hidden",
+          },
+          Array [
+            Object {
+              "height": "auto",
+              "width": "100%",
+            },
+            Object {
+              "aspectRatio": 1.4285714285714286,
+              "resizeMode": "contain",
+              "width": 690,
+            },
+          ],
+        ]
+      }
+    >
+      <FastImageView
+        defaultSource={null}
+        imageProps={Object {}}
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "https://images.ctfassets.net/pi28xy1s107o/3WEYZF6P8kUOXOrn3sQGVu/f2bd21256b0ed892166a9651e90e5ac2/Click_Frenzy_May_WEB_AU_Promo_FT1.jpg?fm=webp&w=1000&h=700",
+          }
+        }
+        style={
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+    </View>
+  </View>
+</View>
+`;

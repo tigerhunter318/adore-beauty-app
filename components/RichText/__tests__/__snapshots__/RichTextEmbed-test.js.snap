@@ -1,0 +1,267 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RichTextEmbed renders alterna-air-dry-balm-review instagram embed 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Object {},
+    ]
+  }
+>
+  <View>
+    <View
+      style={
+        Array [
+          Object {
+            "marginBottom": 20,
+          },
+          Object {},
+        ]
+      }
+    >
+      <View>
+        <View
+          style={
+            Array [
+              Object {
+                "flex": 1,
+                "overflow": "hidden",
+              },
+              undefined,
+            ]
+          }
+        >
+          <RNCWebView
+            androidLayerType="hardware"
+            cacheEnabled={true}
+            domStorageEnabled={true}
+            incognito={true}
+            injectedJavaScript="
+  function getHeight(el) {
+      var elHeight = el.scrollHeight;
+      var docHeight = document.body.scrollHeight;
+      var height;
+      if (elHeight < docHeight && elHeight > 0) {
+          height = elHeight;
+      } else {
+          height = docHeight;
+      }
+      return height;
+  }
+
+  var height = 0;
+  var wrapper = document.body.firstChild;
+  function updateSize() {
+      var h = getHeight(wrapper);
+      if (h !== height) {
+          height = h;
+          window.ReactNativeWebView.postMessage(JSON.stringify({\\"height\\": height}));
+      }
+  }
+
+  window.addEventListener(\\"message\\", function(e) {
+      // Listen to all messages to trigger additional size checks.
+      // Includes Iframely resize message, native pings from Twitter & et al
+      
+      // You can also try checking sizes periodically if you have issues
+      // see https://github.com/react-native-community/react-native-webview/issues/154
+
+      updateSize();
+  });
+  window.addEventListener(\\"load\\", function(e) {
+    updateSize();
+  })
+  updateSize()
+"
+            injectedJavaScriptBeforeContentLoadedForMainFrameOnly={true}
+            injectedJavaScriptForMainFrameOnly={true}
+            javaScriptEnabled={true}
+            messagingEnabled={true}
+            onContentProcessDidTerminate={[Function]}
+            onHttpError={[Function]}
+            onLoadingError={[Function]}
+            onLoadingFinish={[Function]}
+            onLoadingProgress={[Function]}
+            onLoadingStart={[Function]}
+            onMessage={[Function]}
+            onShouldStartLoadWithRequest={[Function]}
+            scrollEnabled={false}
+            source={
+              Object {
+                "html": "<head>
+<meta name=\\"viewport\\" content=\\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover\\" />
+<style>
+.iframely-responsive {
+  top: 0; left: 0; width: 100%; height: 0;
+  position: relative; padding-bottom: 56.25%;
+}
+.iframely-responsive>* {
+  top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;
+}
+</style>
+<script async src=\\"https://www.instagram.com/embed.js\\"></script><script src=\\"https://cdn.embedly.com/widgets/platform.js\\"></script><script>window.instgrm.Embeds.process()</script></head><body><blockquote class=\\"instagram-media\\" data-instgrm-permalink=\\"https://www.instagram.com/p/CX9CYy1hAc8/?utm_source=ig_embed&utm_campaign=loading\\" data-instgrm-version=\\"14\\" style=\\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);; max-width:100% !important; min-width:auto !important;\\"><div style=\\"padding:16px;\\"> <a href=\\"https://www.instagram.com/p/CX9CYy1hAc8/?utm_source=ig_embed&utm_campaign=loading\\" style=\\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\\" target=\\"_blank\\" data-card-key=\\"542239e8d5144167ac6474a184f2d244\\"> <div style=\\" display: flex; flex-direction: row; align-items: center;\\"> <div style=\\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\\"> </div></div> <div style=\\"display:block; height:50px; margin:0 auto 12px; width:50px;\\"><svg width=\\"50px\\" height=\\"50px\\" viewBox=\\"0 0 60 60\\" version=\\"1.1\\" xmlns=\\"https://www.w3.org/2000/svg\\" xmlns:xlink=\\"https://www.w3.org/1999/xlink\\"><g stroke=\\"none\\" stroke-width=\\"1\\" fill=\\"none\\" fill-rule=\\"evenodd\\"><g transform=\\"translate(-511.000000, -20.000000)\\" fill=\\"#000000\\"><g/></g></g></svg></div><div style=\\"padding-top: 8px;\\"> <div style=\\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\\">View this post on Instagram</div></div> <div style=\\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\\"><div> </div><div style=\\"margin-left: 8px;\\"> </div><div style=\\"margin-left: auto;\\"> </div></div> <div style=\\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\\"> </div></a><p style=\\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\\"><a href=\\"https://www.instagram.com/p/CX9CYy1hAc8/?utm_source=ig_embed&utm_campaign=loading\\" style=\\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;\\" target=\\"_blank\\" data-card-key=\\"542239e8d5144167ac6474a184f2d244\\">A post shared by Alterna Haircare (@alternahaircare)</a></p></div></blockquote></body>",
+              }
+            }
+            style={
+              Array [
+                Object {
+                  "flex": 1,
+                  "overflow": "hidden",
+                },
+                Object {
+                  "backgroundColor": "#ffffff",
+                },
+                Object {
+                  "height": 0,
+                },
+              ]
+            }
+            textInteractionEnabled={true}
+            useSharedProcessPool={true}
+            useWebKit={true}
+          />
+          <ActivityIndicator
+            animating={false}
+            color="#ACACAC"
+            size="small"
+          />
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`RichTextEmbed renders what-is-a-serum instagram embed 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Object {},
+    ]
+  }
+>
+  <View>
+    <View
+      style={
+        Array [
+          Object {
+            "marginBottom": 20,
+          },
+          Object {},
+        ]
+      }
+    >
+      <View>
+        <View
+          style={
+            Array [
+              Object {
+                "flex": 1,
+                "overflow": "hidden",
+              },
+              undefined,
+            ]
+          }
+        >
+          <RNCWebView
+            androidLayerType="hardware"
+            cacheEnabled={true}
+            domStorageEnabled={true}
+            incognito={true}
+            injectedJavaScript="
+  function getHeight(el) {
+      var elHeight = el.scrollHeight;
+      var docHeight = document.body.scrollHeight;
+      var height;
+      if (elHeight < docHeight && elHeight > 0) {
+          height = elHeight;
+      } else {
+          height = docHeight;
+      }
+      return height;
+  }
+
+  var height = 0;
+  var wrapper = document.body.firstChild;
+  function updateSize() {
+      var h = getHeight(wrapper);
+      if (h !== height) {
+          height = h;
+          window.ReactNativeWebView.postMessage(JSON.stringify({\\"height\\": height}));
+      }
+  }
+
+  window.addEventListener(\\"message\\", function(e) {
+      // Listen to all messages to trigger additional size checks.
+      // Includes Iframely resize message, native pings from Twitter & et al
+      
+      // You can also try checking sizes periodically if you have issues
+      // see https://github.com/react-native-community/react-native-webview/issues/154
+
+      updateSize();
+  });
+  window.addEventListener(\\"load\\", function(e) {
+    updateSize();
+  })
+  updateSize()
+"
+            injectedJavaScriptBeforeContentLoadedForMainFrameOnly={true}
+            injectedJavaScriptForMainFrameOnly={true}
+            javaScriptEnabled={true}
+            messagingEnabled={true}
+            onContentProcessDidTerminate={[Function]}
+            onHttpError={[Function]}
+            onLoadingError={[Function]}
+            onLoadingFinish={[Function]}
+            onLoadingProgress={[Function]}
+            onLoadingStart={[Function]}
+            onMessage={[Function]}
+            onShouldStartLoadWithRequest={[Function]}
+            scrollEnabled={false}
+            source={
+              Object {
+                "html": "<head>
+<meta name=\\"viewport\\" content=\\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover\\" />
+<style>
+.iframely-responsive {
+  top: 0; left: 0; width: 100%; height: 0;
+  position: relative; padding-bottom: 56.25%;
+}
+.iframely-responsive>* {
+  top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;
+}
+</style>
+<script async src=\\"https://www.instagram.com/embed.js\\"></script><script src=\\"https://cdn.embedly.com/widgets/platform.js\\"></script><script>window.instgrm.Embeds.process()</script></head><body><blockquote class=\\"instagram-media\\" data-instgrm-permalink=\\"https://www.instagram.com/p/CVpehWZhCYU/?utm_source=ig_embed&utm_campaign=loading\\" data-instgrm-version=\\"14\\" style=\\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);; max-width:100% !important; min-width:auto !important;\\"><div style=\\"padding:16px;\\"> <a href=\\"https://www.instagram.com/p/CVpehWZhCYU/?utm_source=ig_embed&utm_campaign=loading\\" style=\\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\\" target=\\"_blank\\" data-card-key=\\"542239e8d5144167ac6474a184f2d244\\"> <div style=\\" display: flex; flex-direction: row; align-items: center;\\"> <div style=\\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\\"> </div></div> <div style=\\"display:block; height:50px; margin:0 auto 12px; width:50px;\\"><svg width=\\"50px\\" height=\\"50px\\" viewBox=\\"0 0 60 60\\" version=\\"1.1\\" xmlns=\\"https://www.w3.org/2000/svg\\" xmlns:xlink=\\"https://www.w3.org/1999/xlink\\"><g stroke=\\"none\\" stroke-width=\\"1\\" fill=\\"none\\" fill-rule=\\"evenodd\\"><g transform=\\"translate(-511.000000, -20.000000)\\" fill=\\"#000000\\"><g/></g></g></svg></div><div style=\\"padding-top: 8px;\\"> <div style=\\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\\">View this post on Instagram</div></div> <div style=\\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\\"><div> </div><div style=\\"margin-left: 8px;\\"> </div><div style=\\"margin-left: auto;\\"> </div></div> <div style=\\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;\\"> </div></a><p style=\\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\\"><a href=\\"https://www.instagram.com/p/CVpehWZhCYU/?utm_source=ig_embed&utm_campaign=loading\\" style=\\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;\\" target=\\"_blank\\" data-card-key=\\"542239e8d5144167ac6474a184f2d244\\">A post shared by BIODERMA Australia (@biodermaaustralia)</a></p></div></blockquote></body>",
+              }
+            }
+            style={
+              Array [
+                Object {
+                  "flex": 1,
+                  "overflow": "hidden",
+                },
+                Object {
+                  "backgroundColor": "#ffffff",
+                },
+                Object {
+                  "height": 0,
+                },
+              ]
+            }
+            textInteractionEnabled={true}
+            useSharedProcessPool={true}
+            useWebKit={true}
+          />
+          <ActivityIndicator
+            animating={false}
+            color="#ACACAC"
+            size="small"
+          />
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

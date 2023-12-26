@@ -1,0 +1,38 @@
+{
+  "name":"Ultra Violette Lean Screen SPF50 Skinscreen 75ml",
+  "product_id":10971,
+  "big_commerce_product_id":null,
+  "objectId":68128,
+  "description":null,
+  "ingredients":null,
+  "comestri_product_id":68128,
+  "magento_product_id":null,
+  "productImage":"/pim_media/000/355/327/Ultra_Violette_Lean_Screen_SPF50__Sunscreen_75mL.png",
+  "productImages":[
+     "/pim_media/000/355/327/Ultra_Violette_Lean_Screen_SPF50__Sunscreen_75mL.png"
+  ],
+  "short_description":null,
+  "facet_groups":[
+     
+  ],
+  "reviewAverage":3.923076923076923,
+  "reviewTotal":13,
+  "has_special_price":false,
+  "productSku":"41LEAN75ML",
+  "is_consent_needed":null,
+  "productType":"simple",
+  "category_name":"Sunscreen",
+  "category_id":10514,
+  "magento_category_id":null,
+  "brand_name":"Ultra Violette",
+  "brand_identifier_s":"ultra-violette",
+  "amount":null,
+  "product_sales_year":10581,
+  "price":49,
+  "is_luxury":false,
+  "afterpayInstallments":"4 instalments of $12.25",
+  "attributeOptions":[
+     
+  ],
+  "inventory":{}
+}

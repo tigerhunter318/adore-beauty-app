@@ -1,0 +1,143 @@
+{
+  "stale": false,
+  "type": "stack",
+  "key": "stack-ND4CpSjpTnb-1C3h4gs2h",
+  "index": 0,
+  "routeNames": [
+    "MainDrawer",
+    "Login",
+    "ProductQuickView",
+    "HasuraPromoQuickView",
+    "PromoQuickView",
+    "ArticleShopProducts",
+    "DeeplinkLoader",
+    "AdoreSocietyModalScreen",
+    "CMS",
+    "NoInternetConnection"
+  ],
+  "routes": [
+    {
+      "key": "MainDrawer-34orCYFcY9niQFI_evSQS",
+      "name": "MainDrawer",
+      "state": {
+        "stale": false,
+        "type": "drawer",
+        "key": "drawer-cJnUbTewQUImrQEnIBwQI",
+        "index": 0,
+        "routeNames": [
+          "Main"
+        ],
+        "history": [
+          {
+            "type": "route",
+            "key": "Main-FkOPQVKNv1TVWc4cY_TKX"
+          }
+        ],
+        "routes": [
+          {
+            "name": "Main",
+            "key": "Main-FkOPQVKNv1TVWc4cY_TKX",
+            "state": {
+              "stale": false,
+              "type": "stack",
+              "key": "stack-JbYzuh7ntGhF8JvF4OMTj",
+              "index": 0,
+              "routeNames": [
+                "MainTab",
+                "Cart",
+                "ProductStack",
+                "GiftCertificate",
+                "PostScreen",
+                "BeautyIQPodcastEpisode",
+                "OrderConfirm"
+              ],
+              "routes": [
+                {
+                  "key": "MainTab-odFB8UsmP9gftXngI-XiC",
+                  "name": "MainTab",
+                  "params": {
+                    "initial": true,
+                    "screen": "Home",
+                    "params": {
+                      "screenHeaderLogoSource": "",
+                      "showLoader": true,
+                      "isDeepLink": true
+                    }
+                  },
+                  "state": {
+                    "stale": false,
+                    "type": "tab",
+                    "key": "tab-WJuXdwSZG8qRyx_UUdfX_",
+                    "index": 1,
+                    "routeNames": [
+                      "Home",
+                      "Shop",
+                      "CartTab",
+                      "Account",
+                      "BeautyIQ"
+                    ],
+                    "history": [
+                      {
+                        "type": "route",
+                        "key": "Home-vV8xfWV_1GqXAc22EP4f4"
+                      },
+                      {
+                        "type": "route",
+                        "key": "Shop-JhjYbGnGKxk8M-5rYsUmM"
+                      }
+                    ],
+                    "routes": [
+                      {
+                        "name": "Home",
+                        "key": "Home-vV8xfWV_1GqXAc22EP4f4",
+                        "params": {
+                          "screenHeaderLogoSource": "",
+                          "showLoader": true,
+                          "isDeepLink": true
+                        },
+                        "state": {
+                          "stale": false,
+                          "type": "stack",
+                          "key": "stack-gBYCx8kB6ErIdao2VoPVt",
+                          "index": 0,
+                          "routeNames": [
+                            "Home"
+                          ],
+                          "routes": [
+                            {
+                              "key": "Home-ROu2hL5yOT18zEiciSo59",
+                              "name": "Home",
+                              "params": {
+                                "screenHeaderLogoSource": "https://images.ctfassets.net/pi28xy1s107o/52yUOD2lVWND8WFiTSi0ZL/140510078dd7784734f219dd16fee9be/ab-app-logo-christmas-rust-colour.png"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "name": "Shop",
+                        "key": "Shop-JhjYbGnGKxk8M-5rYsUmM"
+                      },
+                      {
+                        "name": "CartTab",
+                        "key": "CartTab-D60pLbtMgi0T78KKbT9uV"
+                      },
+                      {
+                        "name": "Account",
+                        "key": "Account-S2fhVqdf3aULrZ-affjXm"
+                      },
+                      {
+                        "name": "BeautyIQ",
+                        "key": "BeautyIQ-nMTJBYgk9GX0ax737nRpu"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

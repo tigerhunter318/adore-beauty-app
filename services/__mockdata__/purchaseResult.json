@@ -1,0 +1,43 @@
+{
+  "name": "PURCHASE",
+  "contentItems": [
+    {
+      "ident": "MOCK-IDENT"
+    },
+    {
+      "ident": "MOCK-IDENT"
+    }
+  ],
+  "transactionID": "1200307380",
+  "currency": "AUD",
+  "revenue": "66.9000",
+  "shipping": "0.0000",
+  "tax": "6.0800",
+  "coupon": "67",
+  "affiliation": null,
+  "description": null,
+  "searchQuery": null,
+  "customData": {
+    "customer_id": "21",
+    "product_brand": "The Ordinary,The Ordinary,",
+    "product_category": "Skin Care,The Ordinary,Targets Sensitivity,Targets Dehydration,Moisturiser & Oils,Skincare for Combination Skin,Moisturisers,Oily Skin,Skin Care,The Ordinary,Targets Dehydration,Moisturiser & Oils,Night Serums,Morning Serums,Supersize,Skincare Concerns,Skincare For Sensitive Skin,Skincare for Dry Skin,Skincare for Combination Skin,Serums & Treatments,Hydrating and Hyaluronic Acid Serums,",
+    "product_id": "674269,1000273,29481",
+    "product_name": "The Ordinary Natural Moisturizing Factors + HA 100ml,The Ordinary Supersize Hyaluronic Acid 2% + B5 - 60ml,ASPCGWP - Asap Super B Complex 5ml Gift With Purchase",
+    "product_price": "12.9000,27.0000,0.0000",
+    "product_quantity": "1,2,1",
+    "product_sku": "769915193657,769915194982,ASPCGWP",
+    "cart_total_items": "3",
+    "cart_total_value": "",
+    "customer_first_name": "App-Automated",
+    "customer_last_name": "Testing",
+    "order_id": "1200307380",
+    "customer_city": "NORTHCOTE",
+    "customer_state": "Victoria",
+    "customer_zip": "3070",
+    "order_payment_type": "braintree",
+    "order_subtotal": "66.9000",
+    "order_tax": "6.0800",
+    "order_total": "66.9000"
+  },
+  "alias": null
+}

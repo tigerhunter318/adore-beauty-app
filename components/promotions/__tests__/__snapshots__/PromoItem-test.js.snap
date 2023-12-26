@@ -1,0 +1,207 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PromoItem renders content 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Object {
+        "borderRadius": 1,
+        "borderStyle": "dashed",
+        "borderWidth": 0.5,
+      },
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "paddingBottom": 33.5,
+          "paddingLeft": 20,
+          "paddingRight": 20,
+          "paddingTop": 33.5,
+        },
+        Object {},
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {},
+          Object {
+            "alignItems": "center",
+          },
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "overflow": "hidden",
+            },
+            Array [
+              Object {
+                "height": "auto",
+                "width": "100%",
+              },
+              Object {
+                "aspectRatio": 3.5384615384615383,
+                "height": 65,
+                "resizeMode": "contain",
+                "width": 160,
+              },
+            ],
+          ]
+        }
+      >
+        <FastImageView
+          defaultSource={null}
+          imageProps={Object {}}
+          resizeMode="contain"
+          source={
+            Object {
+              "uri": "https://www.adorebeauty.com.au/pim_brand_logo/000/002/156/Jo_Loves_Logo_160_x_65.png?w=460&h=130&fmt=webp",
+            }
+          }
+          style={
+            Object {
+              "bottom": 0,
+              "left": 0,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            }
+          }
+        />
+      </View>
+    </View>
+    <Text
+      allowFontScaling={false}
+      mt={3}
+      style={
+        Array [
+          Object {
+            "fontFamily": "Montserrat-Bold",
+            "marginTop": 30,
+          },
+          Object {
+            "letterSpacing": 1.5,
+            "lineHeight": 20,
+            "textAlign": "center",
+            "textTransform": "uppercase",
+          },
+        ]
+      }
+    >
+      Jo Loves Jo by Jo Loves 70g Candle*
+    </Text>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "marginTop": 10,
+          },
+          Object {},
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {},
+            Object {},
+          ]
+        }
+      >
+        <View>
+          <Text
+            onLongPress={null}
+            onPress={null}
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "fontFamily": "Montserrat-Regular",
+                  },
+                  Object {
+                    "color": "#404040",
+                    "fontSize": 13,
+                    "letterSpacing": 0.1,
+                    "lineHeight": 24,
+                    "marginBottom": 5,
+                    "paddingHorizontal": 0,
+                    "textAlign": "left",
+                  },
+                ]
+              }
+            >
+              Your gift when you spend $90 or more on Jo Loves* While Stocks Last
+            </Text>
+          </Text>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "marginTop": 20,
+          },
+          Object {},
+        ]
+      }
+    >
+      <View
+        accessibilityState={
+          Object {
+            "disabled": false,
+          }
+        }
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "#000000",
+            "opacity": 1,
+            "paddingHorizontal": 20,
+            "paddingVertical": 10,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            Array [
+              Object {
+                "fontFamily": "Montserrat-SemiBold",
+              },
+              Object {
+                "color": "#FFFFFF",
+                "fontSize": 16,
+                "textTransform": "uppercase",
+              },
+            ]
+          }
+        >
+          SHOP NOW
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;

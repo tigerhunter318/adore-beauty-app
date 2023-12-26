@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "au.com.adorebeauty.shop",
+    "sha256_cert_fingerprints":
+    ["5B:74:A6:A0:C6:FB:00:31:02:37:F5:0F:D3:E8:6E:97:CB:4F:13:E4:7E:0D:DC:21:D6:3D:5D:5A:48:48:98:13",
+      "B9:EF:37:0D:D7:04:C2:EB:77:DC:4D:3E:2A:24:A9:67:23:DD:F5:CD:0E:77:7B:58:FB:AD:0B:DA:A4:BB:A8:C6"]
+  }
+}]

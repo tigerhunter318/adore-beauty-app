@@ -1,0 +1,210 @@
+{
+  "redeem_url": "/new-arrivals.html?dir=desc&order=news_from_date",
+  "message": "<div>Choose your Beauty Bonus Gift!</div>",
+  "site_message": "<div>Choose your gift when you spend $99 or more sitewide*</div>",
+  "display_name": "Choose your Beauty Bonus Gift!",
+  "id": 1981,
+  "promotion_code_settings": [
+    {
+      "code": "BONUS",
+      "__typename": "promotion_code_settings"
+    }
+  ],
+  "promotion_rules": [
+    {
+      "promotion_rule_actions": [
+        {
+          "add_free_item": false,
+          "amount": 100,
+          "brands": [],
+          "categories": [],
+          "products": [
+            {
+              "product": {
+                "id": 18490,
+                "name": "Jane Iredale Lash Duo Gift With Purchase",
+                "description": "Jane Iredale Lash Duo Gift With Purchase",
+                "comestri_product_id": 23718,
+                "images": [
+                  {
+                    "image": {
+                      "url": "https://www.adorebeauty.com.au/media/catalog/product/j/a/jane-iredale-lash-duo-gift-with-purchase-by-member-reward-605_1.png",
+                      "__typename": "images"
+                    },
+                    "__typename": "imageables"
+                  },
+                  {
+                    "image": {
+                      "url": "https://www.adorebeauty.com.au/media/catalog/product/j/a/jane-iredale-lash-duo-gift-with-purchase-by-member-reward-605.png",
+                      "__typename": "images"
+                    },
+                    "__typename": "imageables"
+                  },
+                  {
+                    "image": {
+                      "url": "https://www.adorebeauty.com.au/media/catalog/product/p/r/promo-image-jane-iredale-lashes-duo.png",
+                      "__typename": "images"
+                    },
+                    "__typename": "imageables"
+                  }
+                ],
+                "brands": [
+                  {
+                    "brand": {
+                      "image_link": "https://www.adorebeauty.com.au/media/catalog/category/160_65_jane_iredale_logo_11.png",
+                      "comestri_brand_id": 85,
+                      "__typename": "brands"
+                    },
+                    "__typename": "productables_brand_view"
+                  }
+                ],
+                "__typename": "products"
+              },
+              "__typename": "promotion_action_product_view"
+            },
+            {
+              "product": {
+                "id": 8094,
+                "name": "La Roche-Posay Effacular Duo 15ml Gift With Purchase",
+                "description": "<span id=\"docs-internal-guid-75ac98fc-7fff-ae72-8070-68f3c55fb6b1\"><span style=\"font-size: 11pt; font-family: Montserrat, sans-serif; color: rgb(64, 64, 64); font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">One of the highest-rated acne treatments in Europe.</span></span>",
+                "comestri_product_id": 26098,
+                "images": [
+                  {
+                    "image": {
+                      "url": "https://www.adorebeauty.com.au/media/catalog/product/p/r/promo-image-la-roche-posay-effaclar.png",
+                      "__typename": "images"
+                    },
+                    "__typename": "imageables"
+                  }
+                ],
+                "brands": [
+                  {
+                    "brand": {
+                      "image_link": "https://s3-ap-southeast-2.amazonaws.com/fusionfactory.commerceconnect.adorebeauty.production/pim_brand_logo/000/000/058/LRP_Logo.png?1630981172",
+                      "comestri_brand_id": 58,
+                      "__typename": "brands"
+                    },
+                    "__typename": "productables_brand_view"
+                  }
+                ],
+                "__typename": "products"
+              },
+              "__typename": "promotion_action_product_view"
+            },
+            {
+              "product": {
+                "id": 2673,
+                "name": "Dermalogica Breakout Clearing Minis Trio 3 Piece Gift With Purchase",
+                "description": "<span id=\"docs-internal-guid-17ca3bc5-7fff-92af-db3f-39f274c4898a\"><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 10.5pt; font-family: Montserrat, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Dermalogica Breakout Clearing Minis Set:&nbsp;</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 10.5pt; font-family: Montserrat, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Breakout Clearing Foaming Wash 15ml</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 10.5pt; font-family: Montserrat, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Breakout Clearing Booster 4ml</span></p><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 10.5pt; font-family: Montserrat, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Skin Soothing Hydrating Lotion 30ml</span></p><div><span style=\"font-size: 10.5pt; font-family: Montserrat, sans-serif; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><br></span></div></span>",
+                "comestri_product_id": 73878,
+                "images": [
+                  {
+                    "image": {
+                      "url": "https://s3-ap-southeast-2.amazonaws.com/fusionfactory.commerceconnect.adorebeauty.production/pim_media/000/392/447/Dermalogica-Promo-Image-Breakout-Clearing-Minis.png?1631057298",
+                      "__typename": "images"
+                    },
+                    "__typename": "imageables"
+                  }
+                ],
+                "brands": [
+                  {
+                    "brand": {
+                      "image_link": "https://www.adorebeauty.com.au/media/catalog/category/dermalogica_1.png",
+                      "comestri_brand_id": 30,
+                      "__typename": "brands"
+                    },
+                    "__typename": "productables_brand_view"
+                  }
+                ],
+                "__typename": "products"
+              },
+              "__typename": "promotion_action_product_view"
+            },
+            {
+              "product": {
+                "id": 32143,
+                "name": "Hada Labo Moisturising Facial Sheet Mask Gift With Purchase",
+                "description": "Hada Labo Moisturising Facial Sheet Mask Gift With Purchase",
+                "comestri_product_id": 81979,
+                "images": [
+                  {
+                    "image": {
+                      "url": "https://s3-ap-southeast-2.amazonaws.com/fusionfactory.commerceconnect.adorebeauty.production/pim_media/000/408/240/Hada-Labo-promo-image-Moisturising-Facial-Sheet-Mask-20ml.png?1652674160",
+                      "__typename": "images"
+                    },
+                    "__typename": "imageables"
+                  }
+                ],
+                "brands": [
+                  {
+                    "brand": {
+                      "image_link": "https://s3-ap-southeast-2.amazonaws.com/fusionfactory.commerceconnect.adorebeauty.production/pim_brand_logo/000/002/651/Hada_Labo_Logo.png?1649811788",
+                      "comestri_brand_id": 2651,
+                      "__typename": "brands"
+                    },
+                    "__typename": "productables_brand_view"
+                  }
+                ],
+                "__typename": "products"
+              },
+              "__typename": "promotion_action_product_view"
+            },
+            {
+              "product": {
+                "id": 32144,
+                "name": " Hada Labo Smoothing Anti-Fatigue Eye Cream 15ml Gift With Purchase",
+                "description": "&nbsp;Hada Labo Smoothing Anti-Fatigue Eye Mask 15ml Gift With Purchase",
+                "comestri_product_id": 81977,
+                "images": [
+                  {
+                    "image": {
+                      "url": "https://s3-ap-southeast-2.amazonaws.com/fusionfactory.commerceconnect.adorebeauty.production/pim_media/000/408/241/Hada-Labo-promo-image-Smoothing-Anti-Fatigue-Eye-Mask-15ml.png?1652674275",
+                      "__typename": "images"
+                    },
+                    "__typename": "imageables"
+                  }
+                ],
+                "brands": [
+                  {
+                    "brand": {
+                      "image_link": "https://s3-ap-southeast-2.amazonaws.com/fusionfactory.commerceconnect.adorebeauty.production/pim_brand_logo/000/002/651/Hada_Labo_Logo.png?1649811788",
+                      "comestri_brand_id": 2651,
+                      "__typename": "brands"
+                    },
+                    "__typename": "productables_brand_view"
+                  }
+                ],
+                "__typename": "products"
+              },
+              "__typename": "promotion_action_product_view"
+            }
+          ],
+          "__typename": "promotion_rule_actions"
+        }
+      ],
+      "promotion_rule_conditions": [
+        {
+          "categories": [
+            {
+              "item_matcher_condition": "NotItemMatcher",
+              "category": null,
+              "__typename": "promotion_condition_category_view"
+            },
+            {
+              "item_matcher_condition": "NotItemMatcher",
+              "category": {
+                "comestri_category_id": 6782,
+                "name": "Gift Cards",
+                "__typename": "categories"
+              },
+              "__typename": "promotion_condition_category_view"
+            }
+          ],
+          "__typename": "promotion_rule_conditions"
+        }
+      ],
+      "__typename": "promotion_rules"
+    }
+  ],
+  "__typename": "promotions"
+}

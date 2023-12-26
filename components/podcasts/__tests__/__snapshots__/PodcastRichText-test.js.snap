@@ -1,0 +1,990 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PodcastRichText renders for a program 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Object {},
+    ]
+  }
+>
+  <View>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.1,
+          "lineHeight": 24,
+          "marginBottom": 10,
+          "marginTop": 10,
+          "paddingHorizontal": 20,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            Array [
+              Object {
+                "color": "#404040",
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+                "marginBottom": 10,
+                "marginTop": 10,
+                "paddingHorizontal": 20,
+              },
+              Object {
+                "color": "#404040",
+                "paddingHorizontal": 0,
+                "textAlign": "left",
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        Introducing
+      </Text>
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            undefined,
+          ]
+        }
+      >
+         
+        <Text
+          allowFontScaling={false}
+          onPress={[Function]}
+          style={
+            Array [
+              Object {
+                "fontFamily": "Montserrat-Regular",
+              },
+              Array [
+                Object {
+                  "color": "#404040",
+                  "fontSize": 16,
+                  "letterSpacing": 0.1,
+                  "lineHeight": 24,
+                  "marginBottom": 10,
+                  "marginTop": 10,
+                  "paddingHorizontal": 20,
+                },
+                Object {
+                  "color": "#404040",
+                  "paddingHorizontal": 0,
+                  "textAlign": "left",
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Adore Beauty
+        </Text>
+         
+      </Text>
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            Array [
+              Object {
+                "color": "#404040",
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+                "marginBottom": 10,
+                "marginTop": 10,
+                "paddingHorizontal": 20,
+              },
+              Object {
+                "color": "#404040",
+                "paddingHorizontal": 0,
+                "textAlign": "left",
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        's new podcast Beauty IQ Uncensored, with hosts Beauty Editor Joanna and beauty newbie Hannah getting real about every aspect of beauty. No topic is off-limits - from retinol to bum hair - and you can expect a healthy dose of education and laughs. Warning: Not suitable for the school pick up.
+      </Text>
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            undefined,
+          ]
+        }
+      >
+         
+        <Text
+          allowFontScaling={false}
+          onPress={[Function]}
+          style={
+            Array [
+              Object {
+                "fontFamily": "Montserrat-Regular",
+              },
+              Array [
+                Object {
+                  "color": "#404040",
+                  "fontSize": 16,
+                  "letterSpacing": 0.1,
+                  "lineHeight": 24,
+                  "marginBottom": 10,
+                  "marginTop": 10,
+                  "paddingHorizontal": 20,
+                },
+                Object {
+                  "color": "#404040",
+                  "paddingHorizontal": 0,
+                  "textAlign": "left",
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          www.adorebeauty.com.au
+        </Text>
+         
+      </Text>
+      <Text
+        style={
+          Array [
+            null,
+            Object {
+              "color": "#404040",
+              "fontSize": 16,
+              "letterSpacing": 0.1,
+              "lineHeight": 24,
+              "marginBottom": 10,
+              "marginTop": 10,
+              "paddingHorizontal": 20,
+            },
+          ]
+        }
+      >
+         
+      </Text>
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`PodcastRichText renders for an episode 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Object {},
+    ]
+  }
+>
+  <View>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.1,
+          "lineHeight": 24,
+          "marginBottom": 10,
+          "marginTop": 10,
+          "paddingHorizontal": 20,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            undefined,
+          ]
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "Montserrat-Bold",
+              },
+              undefined,
+            ]
+          }
+        >
+          Does The Squatty Potty Actually Work?
+        </Text>
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.1,
+          "lineHeight": 24,
+          "marginBottom": 10,
+          "marginTop": 10,
+          "paddingHorizontal": 20,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            Array [
+              Object {
+                "color": "#404040",
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+                "marginBottom": 10,
+                "marginTop": 10,
+                "paddingHorizontal": 20,
+              },
+              Object {
+                "color": "#000000",
+                "paddingHorizontal": 0,
+                "textAlign": "left",
+              },
+              Object {
+                "color": "#404040",
+              },
+            ],
+          ]
+        }
+      >
+        In true fashion, our resident GP Dr Lucinda is back on the podcast to tackle this topic. Along with discussing the specifics of the squatty potty, Dr Lucinda also schools us on the best poo techniques.
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.1,
+          "lineHeight": 24,
+          "marginBottom": 10,
+          "marginTop": 10,
+          "paddingHorizontal": 20,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            Array [
+              Object {
+                "color": "#404040",
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+                "marginBottom": 10,
+                "marginTop": 10,
+                "paddingHorizontal": 20,
+              },
+              Object {
+                "color": "#000000",
+                "paddingHorizontal": 0,
+                "textAlign": "left",
+              },
+              Object {
+                "color": "#404040",
+              },
+            ],
+          ]
+        }
+      >
+        Find Dr Lucinda on Instagram here:
+      </Text>
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            undefined,
+          ]
+        }
+      >
+         
+        <Text
+          allowFontScaling={false}
+          onPress={[Function]}
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "Montserrat-Regular",
+                "letterSpacing": 0.1,
+                "textDecorationLine": "underline",
+              },
+              undefined,
+            ]
+          }
+        >
+          https://www.instagram.com/todaywithdrlucia/
+        </Text>
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.1,
+          "lineHeight": 24,
+          "marginBottom": 10,
+          "marginTop": 10,
+          "paddingHorizontal": 20,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            undefined,
+          ]
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "Montserrat-Bold",
+              },
+              undefined,
+            ]
+          }
+        >
+          Rosacea
+        </Text>
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.1,
+          "lineHeight": 24,
+          "marginBottom": 10,
+          "marginTop": 10,
+          "paddingHorizontal": 20,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            Array [
+              Object {
+                "color": "#404040",
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+                "marginBottom": 10,
+                "marginTop": 10,
+                "paddingHorizontal": 20,
+              },
+              Object {
+                "color": "#000000",
+                "paddingHorizontal": 0,
+                "textAlign": "left",
+              },
+              Object {
+                "color": "#404040",
+              },
+            ],
+          ]
+        }
+      >
+        Dr Cara McDonald joins us for our first ever segment dedicated to rosacea (how has it taken us this long?)
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.1,
+          "lineHeight": 24,
+          "marginBottom": 10,
+          "marginTop": 10,
+          "paddingHorizontal": 20,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            Array [
+              Object {
+                "color": "#404040",
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+                "marginBottom": 10,
+                "marginTop": 10,
+                "paddingHorizontal": 20,
+              },
+              Object {
+                "color": "#000000",
+                "paddingHorizontal": 0,
+                "textAlign": "left",
+              },
+              Object {
+                "color": "#404040",
+              },
+            ],
+          ]
+        }
+      >
+        You can learn more about Dr Cara McDonald here:
+      </Text>
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            undefined,
+          ]
+        }
+      >
+         
+        <Text
+          allowFontScaling={false}
+          onPress={[Function]}
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "Montserrat-Regular",
+                "letterSpacing": 0.1,
+                "textDecorationLine": "underline",
+              },
+              undefined,
+            ]
+          }
+        >
+          https://completeskinspecialists.com.au/our-team/dr-cara-mcdonald-dermatologist/
+        </Text>
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.1,
+          "lineHeight": 24,
+          "marginBottom": 10,
+          "marginTop": 10,
+          "paddingHorizontal": 20,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            undefined,
+          ]
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "Montserrat-Bold",
+              },
+              undefined,
+            ]
+          }
+        >
+          PWDKWN:
+        </Text>
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.1,
+          "lineHeight": 24,
+          "marginBottom": 10,
+          "marginTop": 10,
+          "paddingHorizontal": 20,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            Array [
+              Object {
+                "color": "#404040",
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+                "marginBottom": 10,
+                "marginTop": 10,
+                "paddingHorizontal": 20,
+              },
+              Object {
+                "color": "#000000",
+                "paddingHorizontal": 0,
+                "textAlign": "left",
+              },
+              Object {
+                "color": "#404040",
+              },
+            ],
+          ]
+        }
+      >
+        Jo: Olaplex No. 9 Bond Protector Nourishing Hair Serum
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.1,
+          "lineHeight": 24,
+          "marginBottom": 10,
+          "marginTop": 10,
+          "paddingHorizontal": 20,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            undefined,
+          ]
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          onPress={[Function]}
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "Montserrat-Regular",
+                "letterSpacing": 0.1,
+                "textDecorationLine": "underline",
+              },
+              undefined,
+            ]
+          }
+        >
+          https://www.adorebeauty.com.au/olaplex/olaplex-no-9-bond-protector-nourishing-hair-serum.html
+        </Text>
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.1,
+          "lineHeight": 24,
+          "marginBottom": 10,
+          "marginTop": 10,
+          "paddingHorizontal": 20,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            Array [
+              Object {
+                "color": "#404040",
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+                "marginBottom": 10,
+                "marginTop": 10,
+                "paddingHorizontal": 20,
+              },
+              Object {
+                "color": "#000000",
+                "paddingHorizontal": 0,
+                "textAlign": "left",
+              },
+              Object {
+                "color": "#404040",
+              },
+            ],
+          ]
+        }
+      >
+        Hannah: Alpha-H Generation Glow Daily Resurfacing Essence
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.1,
+          "lineHeight": 24,
+          "marginBottom": 10,
+          "marginTop": 10,
+          "paddingHorizontal": 20,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            undefined,
+          ]
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          onPress={[Function]}
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "Montserrat-Regular",
+                "letterSpacing": 0.1,
+                "textDecorationLine": "underline",
+              },
+              undefined,
+            ]
+          }
+        >
+          https://www.adorebeauty.com.au/alpha-h/alpha-h-generation-glow-daily-resurfacing-essence.html
+        </Text>
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.1,
+          "lineHeight": 24,
+          "marginBottom": 10,
+          "marginTop": 10,
+          "paddingHorizontal": 20,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            Array [
+              Object {
+                "color": "#404040",
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+                "marginBottom": 10,
+                "marginTop": 10,
+                "paddingHorizontal": 20,
+              },
+              Object {
+                "color": "#000000",
+                "paddingHorizontal": 0,
+                "textAlign": "left",
+              },
+              Object {
+                "color": "#404040",
+              },
+            ],
+          ]
+        }
+      >
+        We have a Facebook Group! Join the Beauty IQ Uncensored FB group to share beauty tips, chat about the podcast and share your own cringey stories:
+      </Text>
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            undefined,
+          ]
+        }
+      >
+         
+        <Text
+          allowFontScaling={false}
+          onPress={[Function]}
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "Montserrat-Regular",
+                "letterSpacing": 0.1,
+                "textDecorationLine": "underline",
+              },
+              undefined,
+            ]
+          }
+        >
+          https://www.facebook.com/groups/484267299748882/
+        </Text>
+      </Text>
+    </Text>
+    <Text
+      allowFontScaling={false}
+      ph={2}
+      style={
+        Array [
+          Object {
+            "fontFamily": "Montserrat-Regular",
+            "paddingLeft": 20,
+            "paddingRight": 20,
+          },
+          Array [
+            Object {
+              "color": "#404040",
+              "fontSize": 16,
+              "letterSpacing": 0.1,
+              "lineHeight": 24,
+              "marginBottom": 10,
+              "marginTop": 10,
+              "paddingHorizontal": 20,
+            },
+            Object {
+              "color": "#000000",
+              "paddingHorizontal": 0,
+              "textAlign": "left",
+            },
+            Object {
+              "color": "#404040",
+            },
+          ],
+        ]
+      }
+    >
+      Disclaimer: 
+       
+      <Text
+        allowFontScaling={false}
+        onPress={[Function]}
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Montserrat-Regular",
+              "letterSpacing": 0.1,
+              "textDecorationLine": "underline",
+            },
+            undefined,
+          ]
+        }
+      >
+        https://www.adorebeauty.com.au/disclaimer.html
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.1,
+          "lineHeight": 24,
+          "marginBottom": 10,
+          "marginTop": 10,
+          "paddingHorizontal": 20,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            Array [
+              Object {
+                "color": "#404040",
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+                "marginBottom": 10,
+                "marginTop": 10,
+                "paddingHorizontal": 20,
+              },
+              Object {
+                "color": "#000000",
+                "paddingHorizontal": 0,
+                "textAlign": "left",
+              },
+              Object {
+                "color": "#404040",
+              },
+            ],
+          ]
+        }
+      >
+        Hosts: Joanna Fleming & Hannah Furst
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.1,
+          "lineHeight": 24,
+          "marginBottom": 10,
+          "marginTop": 10,
+          "paddingHorizontal": 20,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            Array [
+              Object {
+                "color": "#404040",
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+                "marginBottom": 10,
+                "marginTop": 10,
+                "paddingHorizontal": 20,
+              },
+              Object {
+                "color": "#000000",
+                "paddingHorizontal": 0,
+                "textAlign": "left",
+              },
+              Object {
+                "color": "#404040",
+              },
+            ],
+          ]
+        }
+      >
+        Guests: Dr Lucinda & Dr Cara McDonald
+      </Text>
+    </Text>
+  </View>
+</View>
+`;

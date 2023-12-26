@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+<!-- required for metro bundler debug, should not be added to production build -->
+  <base-config cleartextTrafficPermitted="true"></base-config>
+<!--  //TODO consider using debug overrides (metro did not pick up on first attempt)-->
+<!--  <debug-overrides cleartextTrafficPermitted="true"></debug-overrides>-->
+</network-security-config>

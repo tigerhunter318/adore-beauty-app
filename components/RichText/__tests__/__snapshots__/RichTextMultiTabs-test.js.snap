@@ -1,0 +1,4494 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RichTextMultiTabs renders multiple tabs with accordion 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "paddingBottom": 20,
+      },
+      Object {},
+    ]
+  }
+>
+  <Text
+    allowFontScaling={false}
+    pb={4}
+    pt={2}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Montserrat-SemiBold",
+          "paddingBottom": 40,
+          "paddingTop": 20,
+          "textAlign": "center",
+        },
+        Object {
+          "fontSize": 23,
+          "lineHeight": 24,
+        },
+      ]
+    }
+  >
+    Frequently Asked Questions
+  </Text>
+  <View
+    style={
+      Array [
+        Object {},
+        Object {},
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+          Array [
+            Object {
+              "marginBottom": 10,
+            },
+            Object {},
+          ],
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "borderBottomWidth": 1.5,
+            "borderColor": "#000000",
+            "flex": 1,
+            "opacity": 1,
+            "paddingBottom": 12,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            Array [
+              Object {
+                "color": "#000000",
+                "fontFamily": "Montserrat-SemiBold",
+                "textAlign": "center",
+              },
+              Object {
+                "fontSize": 13,
+                "letterSpacing": 1,
+                "lineHeight": 18,
+                "textTransform": "uppercase",
+              },
+            ]
+          }
+        >
+          Refundid Returns
+        </Text>
+      </View>
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "flex": 1,
+            "opacity": 1,
+            "paddingBottom": 12,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            Array [
+              Object {
+                "color": "rgba(74, 74, 74, 0.5)",
+                "fontFamily": "Montserrat-Regular",
+                "textAlign": "center",
+              },
+              Object {
+                "fontSize": 13,
+                "letterSpacing": 1,
+                "lineHeight": 18,
+                "textTransform": "uppercase",
+              },
+            ]
+          }
+        >
+          General Returns
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Array [
+          Object {},
+          Object {},
+        ]
+      }
+    >
+      <View>
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E1DFDF",
+              "borderBottomWidth": 1,
+              "height": "auto",
+              "paddingBottom": 18,
+              "paddingTop": 18,
+            }
+          }
+        >
+          <View
+            accessibilityState={
+              Object {
+                "expanded": false,
+              }
+            }
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  },
+                  Object {},
+                ]
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "fontFamily": "Montserrat-Regular",
+                      "fontSize": 15,
+                      "letterSpacing": 1.2,
+                    },
+                    Object {
+                      "width": 525,
+                    },
+                  ]
+                }
+              >
+                What is Refundid?
+              </Text>
+              <Icon
+                color="#000000"
+                name="ios-add"
+                size={22}
+                type="ion"
+              />
+            </View>
+          </View>
+          <View
+            collapsable={false}
+            pointerEvents="none"
+            style={
+              Object {
+                "height": 0,
+                "overflow": "hidden",
+              }
+            }
+          >
+            <View
+              collapsable={false}
+              forwardedRef={[Function]}
+              onLayout={[Function]}
+              style={Object {}}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginRight": 20,
+                      "marginTop": 10,
+                      "paddingTop": 20,
+                    },
+                    Object {},
+                  ]
+                }
+              >
+                <RCTScrollView>
+                  <View>
+                    <View
+                      style={
+                        Array [
+                          Object {},
+                          Object {},
+                        ]
+                      }
+                    >
+                      <View>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            Refundid is a third party online return provider! They pay the refund amount into your nominated bank account within 60 seconds of a return being lodged. No need to wait for your order to be mailed and checked!
+                          </Text>
+                        </Text>
+                      </View>
+                      <react-native-modal
+                        animationInTiming={10}
+                        animationOutTiming={100}
+                        backdropColor="#FFFFFF"
+                        backdropOpacity={1}
+                        easing="ease-in"
+                        hideModalContentWhileAnimating={true}
+                        isVisible={false}
+                        onBackdropPress={[Function]}
+                        onModalHide={[Function]}
+                        style={
+                          Array [
+                            Object {
+                              "paddingBottom": 40,
+                              "paddingTop": 40,
+                            },
+                            Object {
+                              "alignItems": "center",
+                              "justifyContent": "center",
+                              "margin": 0,
+                              "paddingBottom": 0,
+                              "paddingTop": 0,
+                            },
+                            false,
+                          ]
+                        }
+                        useNativeDriver={true}
+                        useNativeDriverForBackdrop={true}
+                      >
+                        <View
+                          style={
+                            Array [
+                              Object {
+                                "alignItems": "center",
+                                "backgroundColor": "white",
+                                "flex": 1,
+                                "justifyContent": "space-between",
+                              },
+                              Array [
+                                Object {},
+                                Object {},
+                              ],
+                            ]
+                          }
+                        >
+                          <View
+                            accessible={true}
+                            collapsable={false}
+                            focusable={true}
+                            onClick={[Function]}
+                            onResponderGrant={[Function]}
+                            onResponderMove={[Function]}
+                            onResponderRelease={[Function]}
+                            onResponderTerminate={[Function]}
+                            onResponderTerminationRequest={[Function]}
+                            onStartShouldSetResponder={[Function]}
+                            style={
+                              Object {
+                                "opacity": 1,
+                                "position": "absolute",
+                                "right": 2,
+                                "top": 40,
+                                "zIndex": 9,
+                              }
+                            }
+                          >
+                            <View
+                              style={
+                                Array [
+                                  Object {
+                                    "alignItems": "center",
+                                    "justifyContent": "center",
+                                  },
+                                  Array [
+                                    Object {
+                                      "alignItems": "center",
+                                      "backgroundColor": "rgba(255, 255, 255, 0.70)",
+                                      "borderRadius": 30,
+                                      "height": 56,
+                                      "justifyContent": "center",
+                                      "width": 56,
+                                    },
+                                    Object {},
+                                  ],
+                                ]
+                              }
+                            >
+                              <Icon
+                                color="#000000"
+                                name="close"
+                                size={27}
+                                type="material"
+                              />
+                            </View>
+                          </View>
+                          <View
+                            style={
+                              Array [
+                                Object {},
+                                Array [
+                                  Object {
+                                    "flex": 1,
+                                    "width": "100%",
+                                  },
+                                  Object {},
+                                ],
+                              ]
+                            }
+                          >
+                            <View
+                              onMoveShouldSetResponder={[Function]}
+                              onMoveShouldSetResponderCapture={[Function]}
+                              onResponderEnd={[Function]}
+                              onResponderGrant={[Function]}
+                              onResponderMove={[Function]}
+                              onResponderReject={[Function]}
+                              onResponderRelease={[Function]}
+                              onResponderStart={[Function]}
+                              onResponderTerminate={[Function]}
+                              onResponderTerminationRequest={[Function]}
+                              onStartShouldSetResponder={[Function]}
+                              onStartShouldSetResponderCapture={[Function]}
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "transparent",
+                                  "height": 1334,
+                                  "justifyContent": "center",
+                                  "overflow": "hidden",
+                                  "paddingTop": 0,
+                                  "width": 750,
+                                }
+                              }
+                            >
+                              <View
+                                collapsable={false}
+                                renderToHardwareTextureAndroid={true}
+                                style={
+                                  Object {
+                                    "transform": Array [
+                                      Object {
+                                        "scale": 1,
+                                      },
+                                      Object {
+                                        "translateX": 0,
+                                      },
+                                      Object {
+                                        "translateY": 0,
+                                      },
+                                    ],
+                                  }
+                                }
+                              >
+                                <View
+                                  onLayout={[Function]}
+                                  style={
+                                    Object {
+                                      "height": 1334,
+                                      "width": 750,
+                                    }
+                                  }
+                                />
+                              </View>
+                            </View>
+                          </View>
+                        </View>
+                      </react-native-modal>
+                    </View>
+                  </View>
+                </RCTScrollView>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E1DFDF",
+              "borderBottomWidth": 1,
+              "height": "auto",
+              "paddingBottom": 18,
+              "paddingTop": 18,
+            }
+          }
+        >
+          <View
+            accessibilityState={
+              Object {
+                "expanded": false,
+              }
+            }
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  },
+                  Object {},
+                ]
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "fontFamily": "Montserrat-Regular",
+                      "fontSize": 15,
+                      "letterSpacing": 1.2,
+                    },
+                    Object {
+                      "width": 525,
+                    },
+                  ]
+                }
+              >
+                How do I use Refundid?
+              </Text>
+              <Icon
+                color="#000000"
+                name="ios-add"
+                size={22}
+                type="ion"
+              />
+            </View>
+          </View>
+          <View
+            collapsable={false}
+            pointerEvents="none"
+            style={
+              Object {
+                "height": 0,
+                "overflow": "hidden",
+              }
+            }
+          >
+            <View
+              collapsable={false}
+              forwardedRef={[Function]}
+              onLayout={[Function]}
+              style={Object {}}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginRight": 20,
+                      "marginTop": 10,
+                      "paddingTop": 20,
+                    },
+                    Object {},
+                  ]
+                }
+              >
+                <RCTScrollView>
+                  <View>
+                    <View
+                      style={
+                        Array [
+                          Object {},
+                          Object {},
+                        ]
+                      }
+                    >
+                      <View>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            If you haven’t already, create an account with Refundid by clicking the link
+                          </Text>
+                          <Text
+                            allowFontScaling={false}
+                            onPress={[Function]}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                undefined,
+                              ]
+                            }
+                          >
+                             
+                            <Text
+                              allowFontScaling={false}
+                              style={
+                                Array [
+                                  Object {
+                                    "color": "#404040",
+                                    "fontFamily": "Montserrat-Regular",
+                                    "textDecorationLine": "underline",
+                                  },
+                                  Array [
+                                    Object {
+                                      "fontSize": 16,
+                                      "letterSpacing": 0.1,
+                                      "lineHeight": 24,
+                                    },
+                                    undefined,
+                                  ],
+                                ]
+                              }
+                            >
+                              here
+                            </Text>
+                             
+                          </Text>
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            .
+                          </Text>
+                        </Text>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            1.Select Refundid as your return option.
+                          </Text>
+                        </Text>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            2.Enter our order number and email address.
+                          </Text>
+                        </Text>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            3.Pick out the items you're returning.
+                          </Text>
+                        </Text>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            4.Receive your instant refund!
+                          </Text>
+                        </Text>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            5.Send your order back to us. You have 10 days to put your return in the mail, otherwise Refundid will reverse your refund.
+                          </Text>
+                        </Text>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            For any questions related to the shipping tracking number, please reach out to Refundid
+                          </Text>
+                          <Text
+                            allowFontScaling={false}
+                            onPress={[Function]}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                undefined,
+                              ]
+                            }
+                          >
+                             
+                            <Text
+                              allowFontScaling={false}
+                              style={
+                                Array [
+                                  Object {
+                                    "color": "#404040",
+                                    "fontFamily": "Montserrat-Regular",
+                                    "textDecorationLine": "underline",
+                                  },
+                                  Array [
+                                    Object {
+                                      "fontSize": 16,
+                                      "letterSpacing": 0.1,
+                                      "lineHeight": 24,
+                                    },
+                                    undefined,
+                                  ],
+                                ]
+                              }
+                            >
+                              here
+                            </Text>
+                             
+                          </Text>
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            .
+                          </Text>
+                        </Text>
+                      </View>
+                      <react-native-modal
+                        animationInTiming={10}
+                        animationOutTiming={100}
+                        backdropColor="#FFFFFF"
+                        backdropOpacity={1}
+                        easing="ease-in"
+                        hideModalContentWhileAnimating={true}
+                        isVisible={false}
+                        onBackdropPress={[Function]}
+                        onModalHide={[Function]}
+                        style={
+                          Array [
+                            Object {
+                              "paddingBottom": 40,
+                              "paddingTop": 40,
+                            },
+                            Object {
+                              "alignItems": "center",
+                              "justifyContent": "center",
+                              "margin": 0,
+                              "paddingBottom": 0,
+                              "paddingTop": 0,
+                            },
+                            false,
+                          ]
+                        }
+                        useNativeDriver={true}
+                        useNativeDriverForBackdrop={true}
+                      >
+                        <View
+                          style={
+                            Array [
+                              Object {
+                                "alignItems": "center",
+                                "backgroundColor": "white",
+                                "flex": 1,
+                                "justifyContent": "space-between",
+                              },
+                              Array [
+                                Object {},
+                                Object {},
+                              ],
+                            ]
+                          }
+                        >
+                          <View
+                            accessible={true}
+                            collapsable={false}
+                            focusable={true}
+                            onClick={[Function]}
+                            onResponderGrant={[Function]}
+                            onResponderMove={[Function]}
+                            onResponderRelease={[Function]}
+                            onResponderTerminate={[Function]}
+                            onResponderTerminationRequest={[Function]}
+                            onStartShouldSetResponder={[Function]}
+                            style={
+                              Object {
+                                "opacity": 1,
+                                "position": "absolute",
+                                "right": 2,
+                                "top": 40,
+                                "zIndex": 9,
+                              }
+                            }
+                          >
+                            <View
+                              style={
+                                Array [
+                                  Object {
+                                    "alignItems": "center",
+                                    "justifyContent": "center",
+                                  },
+                                  Array [
+                                    Object {
+                                      "alignItems": "center",
+                                      "backgroundColor": "rgba(255, 255, 255, 0.70)",
+                                      "borderRadius": 30,
+                                      "height": 56,
+                                      "justifyContent": "center",
+                                      "width": 56,
+                                    },
+                                    Object {},
+                                  ],
+                                ]
+                              }
+                            >
+                              <Icon
+                                color="#000000"
+                                name="close"
+                                size={27}
+                                type="material"
+                              />
+                            </View>
+                          </View>
+                          <View
+                            style={
+                              Array [
+                                Object {},
+                                Array [
+                                  Object {
+                                    "flex": 1,
+                                    "width": "100%",
+                                  },
+                                  Object {},
+                                ],
+                              ]
+                            }
+                          >
+                            <View
+                              onMoveShouldSetResponder={[Function]}
+                              onMoveShouldSetResponderCapture={[Function]}
+                              onResponderEnd={[Function]}
+                              onResponderGrant={[Function]}
+                              onResponderMove={[Function]}
+                              onResponderReject={[Function]}
+                              onResponderRelease={[Function]}
+                              onResponderStart={[Function]}
+                              onResponderTerminate={[Function]}
+                              onResponderTerminationRequest={[Function]}
+                              onStartShouldSetResponder={[Function]}
+                              onStartShouldSetResponderCapture={[Function]}
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "transparent",
+                                  "height": 1334,
+                                  "justifyContent": "center",
+                                  "overflow": "hidden",
+                                  "paddingTop": 0,
+                                  "width": 750,
+                                }
+                              }
+                            >
+                              <View
+                                collapsable={false}
+                                renderToHardwareTextureAndroid={true}
+                                style={
+                                  Object {
+                                    "transform": Array [
+                                      Object {
+                                        "scale": 1,
+                                      },
+                                      Object {
+                                        "translateX": 0,
+                                      },
+                                      Object {
+                                        "translateY": 0,
+                                      },
+                                    ],
+                                  }
+                                }
+                              >
+                                <View
+                                  onLayout={[Function]}
+                                  style={
+                                    Object {
+                                      "height": 1334,
+                                      "width": 750,
+                                    }
+                                  }
+                                />
+                              </View>
+                            </View>
+                          </View>
+                        </View>
+                      </react-native-modal>
+                    </View>
+                  </View>
+                </RCTScrollView>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E1DFDF",
+              "borderBottomWidth": 1,
+              "height": "auto",
+              "paddingBottom": 18,
+              "paddingTop": 18,
+            }
+          }
+        >
+          <View
+            accessibilityState={
+              Object {
+                "expanded": false,
+              }
+            }
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  },
+                  Object {},
+                ]
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "fontFamily": "Montserrat-Regular",
+                      "fontSize": 15,
+                      "letterSpacing": 1.2,
+                    },
+                    Object {
+                      "width": 525,
+                    },
+                  ]
+                }
+              >
+                What do I do after receiving my refund from Refundid?
+              </Text>
+              <Icon
+                color="#000000"
+                name="ios-add"
+                size={22}
+                type="ion"
+              />
+            </View>
+          </View>
+          <View
+            collapsable={false}
+            pointerEvents="none"
+            style={
+              Object {
+                "height": 0,
+                "overflow": "hidden",
+              }
+            }
+          >
+            <View
+              collapsable={false}
+              forwardedRef={[Function]}
+              onLayout={[Function]}
+              style={Object {}}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginRight": 20,
+                      "marginTop": 10,
+                      "paddingTop": 20,
+                    },
+                    Object {},
+                  ]
+                }
+              >
+                <RCTScrollView>
+                  <View>
+                    <View
+                      style={
+                        Array [
+                          Object {},
+                          Object {},
+                        ]
+                      }
+                    >
+                      <View>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            After using Refundid and sending your items back to Adore Beauty your refund process is complete!
+                          </Text>
+                        </Text>
+                      </View>
+                      <react-native-modal
+                        animationInTiming={10}
+                        animationOutTiming={100}
+                        backdropColor="#FFFFFF"
+                        backdropOpacity={1}
+                        easing="ease-in"
+                        hideModalContentWhileAnimating={true}
+                        isVisible={false}
+                        onBackdropPress={[Function]}
+                        onModalHide={[Function]}
+                        style={
+                          Array [
+                            Object {
+                              "paddingBottom": 40,
+                              "paddingTop": 40,
+                            },
+                            Object {
+                              "alignItems": "center",
+                              "justifyContent": "center",
+                              "margin": 0,
+                              "paddingBottom": 0,
+                              "paddingTop": 0,
+                            },
+                            false,
+                          ]
+                        }
+                        useNativeDriver={true}
+                        useNativeDriverForBackdrop={true}
+                      >
+                        <View
+                          style={
+                            Array [
+                              Object {
+                                "alignItems": "center",
+                                "backgroundColor": "white",
+                                "flex": 1,
+                                "justifyContent": "space-between",
+                              },
+                              Array [
+                                Object {},
+                                Object {},
+                              ],
+                            ]
+                          }
+                        >
+                          <View
+                            accessible={true}
+                            collapsable={false}
+                            focusable={true}
+                            onClick={[Function]}
+                            onResponderGrant={[Function]}
+                            onResponderMove={[Function]}
+                            onResponderRelease={[Function]}
+                            onResponderTerminate={[Function]}
+                            onResponderTerminationRequest={[Function]}
+                            onStartShouldSetResponder={[Function]}
+                            style={
+                              Object {
+                                "opacity": 1,
+                                "position": "absolute",
+                                "right": 2,
+                                "top": 40,
+                                "zIndex": 9,
+                              }
+                            }
+                          >
+                            <View
+                              style={
+                                Array [
+                                  Object {
+                                    "alignItems": "center",
+                                    "justifyContent": "center",
+                                  },
+                                  Array [
+                                    Object {
+                                      "alignItems": "center",
+                                      "backgroundColor": "rgba(255, 255, 255, 0.70)",
+                                      "borderRadius": 30,
+                                      "height": 56,
+                                      "justifyContent": "center",
+                                      "width": 56,
+                                    },
+                                    Object {},
+                                  ],
+                                ]
+                              }
+                            >
+                              <Icon
+                                color="#000000"
+                                name="close"
+                                size={27}
+                                type="material"
+                              />
+                            </View>
+                          </View>
+                          <View
+                            style={
+                              Array [
+                                Object {},
+                                Array [
+                                  Object {
+                                    "flex": 1,
+                                    "width": "100%",
+                                  },
+                                  Object {},
+                                ],
+                              ]
+                            }
+                          >
+                            <View
+                              onMoveShouldSetResponder={[Function]}
+                              onMoveShouldSetResponderCapture={[Function]}
+                              onResponderEnd={[Function]}
+                              onResponderGrant={[Function]}
+                              onResponderMove={[Function]}
+                              onResponderReject={[Function]}
+                              onResponderRelease={[Function]}
+                              onResponderStart={[Function]}
+                              onResponderTerminate={[Function]}
+                              onResponderTerminationRequest={[Function]}
+                              onStartShouldSetResponder={[Function]}
+                              onStartShouldSetResponderCapture={[Function]}
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "transparent",
+                                  "height": 1334,
+                                  "justifyContent": "center",
+                                  "overflow": "hidden",
+                                  "paddingTop": 0,
+                                  "width": 750,
+                                }
+                              }
+                            >
+                              <View
+                                collapsable={false}
+                                renderToHardwareTextureAndroid={true}
+                                style={
+                                  Object {
+                                    "transform": Array [
+                                      Object {
+                                        "scale": 1,
+                                      },
+                                      Object {
+                                        "translateX": 0,
+                                      },
+                                      Object {
+                                        "translateY": 0,
+                                      },
+                                    ],
+                                  }
+                                }
+                              >
+                                <View
+                                  onLayout={[Function]}
+                                  style={
+                                    Object {
+                                      "height": 1334,
+                                      "width": 750,
+                                    }
+                                  }
+                                />
+                              </View>
+                            </View>
+                          </View>
+                        </View>
+                      </react-native-modal>
+                    </View>
+                  </View>
+                </RCTScrollView>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E1DFDF",
+              "borderBottomWidth": 1,
+              "height": "auto",
+              "paddingBottom": 18,
+              "paddingTop": 18,
+            }
+          }
+        >
+          <View
+            accessibilityState={
+              Object {
+                "expanded": false,
+              }
+            }
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  },
+                  Object {},
+                ]
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "fontFamily": "Montserrat-Regular",
+                      "fontSize": 15,
+                      "letterSpacing": 1.2,
+                    },
+                    Object {
+                      "width": 525,
+                    },
+                  ]
+                }
+              >
+                Where do I receive my Refund?
+              </Text>
+              <Icon
+                color="#000000"
+                name="ios-add"
+                size={22}
+                type="ion"
+              />
+            </View>
+          </View>
+          <View
+            collapsable={false}
+            pointerEvents="none"
+            style={
+              Object {
+                "height": 0,
+                "overflow": "hidden",
+              }
+            }
+          >
+            <View
+              collapsable={false}
+              forwardedRef={[Function]}
+              onLayout={[Function]}
+              style={Object {}}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginRight": 20,
+                      "marginTop": 10,
+                      "paddingTop": 20,
+                    },
+                    Object {},
+                  ]
+                }
+              >
+                <RCTScrollView>
+                  <View>
+                    <View
+                      style={
+                        Array [
+                          Object {},
+                          Object {},
+                        ]
+                      }
+                    >
+                      <View>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            When signing up to Refundid you’re prompted to provide your BSB and Account Number. Refundid pays you (instantly!) into the account you’ve provided them.
+                          </Text>
+                        </Text>
+                      </View>
+                      <react-native-modal
+                        animationInTiming={10}
+                        animationOutTiming={100}
+                        backdropColor="#FFFFFF"
+                        backdropOpacity={1}
+                        easing="ease-in"
+                        hideModalContentWhileAnimating={true}
+                        isVisible={false}
+                        onBackdropPress={[Function]}
+                        onModalHide={[Function]}
+                        style={
+                          Array [
+                            Object {
+                              "paddingBottom": 40,
+                              "paddingTop": 40,
+                            },
+                            Object {
+                              "alignItems": "center",
+                              "justifyContent": "center",
+                              "margin": 0,
+                              "paddingBottom": 0,
+                              "paddingTop": 0,
+                            },
+                            false,
+                          ]
+                        }
+                        useNativeDriver={true}
+                        useNativeDriverForBackdrop={true}
+                      >
+                        <View
+                          style={
+                            Array [
+                              Object {
+                                "alignItems": "center",
+                                "backgroundColor": "white",
+                                "flex": 1,
+                                "justifyContent": "space-between",
+                              },
+                              Array [
+                                Object {},
+                                Object {},
+                              ],
+                            ]
+                          }
+                        >
+                          <View
+                            accessible={true}
+                            collapsable={false}
+                            focusable={true}
+                            onClick={[Function]}
+                            onResponderGrant={[Function]}
+                            onResponderMove={[Function]}
+                            onResponderRelease={[Function]}
+                            onResponderTerminate={[Function]}
+                            onResponderTerminationRequest={[Function]}
+                            onStartShouldSetResponder={[Function]}
+                            style={
+                              Object {
+                                "opacity": 1,
+                                "position": "absolute",
+                                "right": 2,
+                                "top": 40,
+                                "zIndex": 9,
+                              }
+                            }
+                          >
+                            <View
+                              style={
+                                Array [
+                                  Object {
+                                    "alignItems": "center",
+                                    "justifyContent": "center",
+                                  },
+                                  Array [
+                                    Object {
+                                      "alignItems": "center",
+                                      "backgroundColor": "rgba(255, 255, 255, 0.70)",
+                                      "borderRadius": 30,
+                                      "height": 56,
+                                      "justifyContent": "center",
+                                      "width": 56,
+                                    },
+                                    Object {},
+                                  ],
+                                ]
+                              }
+                            >
+                              <Icon
+                                color="#000000"
+                                name="close"
+                                size={27}
+                                type="material"
+                              />
+                            </View>
+                          </View>
+                          <View
+                            style={
+                              Array [
+                                Object {},
+                                Array [
+                                  Object {
+                                    "flex": 1,
+                                    "width": "100%",
+                                  },
+                                  Object {},
+                                ],
+                              ]
+                            }
+                          >
+                            <View
+                              onMoveShouldSetResponder={[Function]}
+                              onMoveShouldSetResponderCapture={[Function]}
+                              onResponderEnd={[Function]}
+                              onResponderGrant={[Function]}
+                              onResponderMove={[Function]}
+                              onResponderReject={[Function]}
+                              onResponderRelease={[Function]}
+                              onResponderStart={[Function]}
+                              onResponderTerminate={[Function]}
+                              onResponderTerminationRequest={[Function]}
+                              onStartShouldSetResponder={[Function]}
+                              onStartShouldSetResponderCapture={[Function]}
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "transparent",
+                                  "height": 1334,
+                                  "justifyContent": "center",
+                                  "overflow": "hidden",
+                                  "paddingTop": 0,
+                                  "width": 750,
+                                }
+                              }
+                            >
+                              <View
+                                collapsable={false}
+                                renderToHardwareTextureAndroid={true}
+                                style={
+                                  Object {
+                                    "transform": Array [
+                                      Object {
+                                        "scale": 1,
+                                      },
+                                      Object {
+                                        "translateX": 0,
+                                      },
+                                      Object {
+                                        "translateY": 0,
+                                      },
+                                    ],
+                                  }
+                                }
+                              >
+                                <View
+                                  onLayout={[Function]}
+                                  style={
+                                    Object {
+                                      "height": 1334,
+                                      "width": 750,
+                                    }
+                                  }
+                                />
+                              </View>
+                            </View>
+                          </View>
+                        </View>
+                      </react-native-modal>
+                    </View>
+                  </View>
+                </RCTScrollView>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E1DFDF",
+              "borderBottomWidth": 1,
+              "height": "auto",
+              "paddingBottom": 18,
+              "paddingTop": 18,
+            }
+          }
+        >
+          <View
+            accessibilityState={
+              Object {
+                "expanded": false,
+              }
+            }
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  },
+                  Object {},
+                ]
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "fontFamily": "Montserrat-Regular",
+                      "fontSize": 15,
+                      "letterSpacing": 1.2,
+                    },
+                    Object {
+                      "width": 525,
+                    },
+                  ]
+                }
+              >
+                What banking details do I need to provide on sign up?
+              </Text>
+              <Icon
+                color="#000000"
+                name="ios-add"
+                size={22}
+                type="ion"
+              />
+            </View>
+          </View>
+          <View
+            collapsable={false}
+            pointerEvents="none"
+            style={
+              Object {
+                "height": 0,
+                "overflow": "hidden",
+              }
+            }
+          >
+            <View
+              collapsable={false}
+              forwardedRef={[Function]}
+              onLayout={[Function]}
+              style={Object {}}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginRight": 20,
+                      "marginTop": 10,
+                      "paddingTop": 20,
+                    },
+                    Object {},
+                  ]
+                }
+              >
+                <RCTScrollView>
+                  <View>
+                    <View
+                      style={
+                        Array [
+                          Object {},
+                          Object {},
+                        ]
+                      }
+                    >
+                      <View>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            To link your bank, you will be required to provide Refundid with your:
+                          </Text>
+                        </Text>
+                        <View
+                          style={
+                            Array [
+                              Object {
+                                "paddingBottom": 10,
+                                "paddingTop": 10,
+                              },
+                              Object {},
+                            ]
+                          }
+                        >
+                          <View
+                            style={
+                              Array [
+                                Object {
+                                  "flexDirection": "row",
+                                  "marginBottom": 10,
+                                  "paddingBottom": 5,
+                                  "paddingLeft": 20,
+                                  "paddingRight": 20,
+                                  "paddingTop": 5,
+                                },
+                                Object {},
+                              ]
+                            }
+                          >
+                            <View
+                              style={
+                                Array [
+                                  Object {},
+                                  Object {
+                                    "position": "absolute",
+                                    "top": 8,
+                                  },
+                                ]
+                              }
+                            >
+                              <AdoreSvgIcon
+                                color="#979797"
+                                height={18}
+                                name="check-item"
+                                width={18}
+                              />
+                            </View>
+                            <View
+                              ml={1}
+                              style={
+                                Array [
+                                  Object {
+                                    "flex": 1,
+                                    "marginLeft": 10,
+                                  },
+                                  Object {},
+                                ]
+                              }
+                            >
+                              <Text
+                                allowFontScaling={false}
+                                style={
+                                  Array [
+                                    Object {
+                                      "fontFamily": "Montserrat-Regular",
+                                    },
+                                    Array [
+                                      Object {
+                                        "fontSize": 16,
+                                        "letterSpacing": 0.1,
+                                        "lineHeight": 24,
+                                      },
+                                      undefined,
+                                      Object {
+                                        "color": "#777777",
+                                        "textAlign": "left",
+                                      },
+                                    ],
+                                  ]
+                                }
+                              >
+                                <Text
+                                  allowFontScaling={false}
+                                  style={
+                                    Array [
+                                      Object {
+                                        "fontFamily": "Montserrat-Regular",
+                                      },
+                                      undefined,
+                                    ]
+                                  }
+                                >
+                                  Account Name
+                                </Text>
+                              </Text>
+                            </View>
+                          </View>
+                          <View
+                            style={
+                              Array [
+                                Object {
+                                  "flexDirection": "row",
+                                  "marginBottom": 10,
+                                  "paddingBottom": 5,
+                                  "paddingLeft": 20,
+                                  "paddingRight": 20,
+                                  "paddingTop": 5,
+                                },
+                                Object {},
+                              ]
+                            }
+                          >
+                            <View
+                              style={
+                                Array [
+                                  Object {},
+                                  Object {
+                                    "position": "absolute",
+                                    "top": 8,
+                                  },
+                                ]
+                              }
+                            >
+                              <AdoreSvgIcon
+                                color="#979797"
+                                height={18}
+                                name="check-item"
+                                width={18}
+                              />
+                            </View>
+                            <View
+                              ml={1}
+                              style={
+                                Array [
+                                  Object {
+                                    "flex": 1,
+                                    "marginLeft": 10,
+                                  },
+                                  Object {},
+                                ]
+                              }
+                            >
+                              <Text
+                                allowFontScaling={false}
+                                style={
+                                  Array [
+                                    Object {
+                                      "fontFamily": "Montserrat-Regular",
+                                    },
+                                    Array [
+                                      Object {
+                                        "fontSize": 16,
+                                        "letterSpacing": 0.1,
+                                        "lineHeight": 24,
+                                      },
+                                      undefined,
+                                      Object {
+                                        "color": "#777777",
+                                        "textAlign": "left",
+                                      },
+                                    ],
+                                  ]
+                                }
+                              >
+                                <Text
+                                  allowFontScaling={false}
+                                  style={
+                                    Array [
+                                      Object {
+                                        "fontFamily": "Montserrat-Regular",
+                                      },
+                                      undefined,
+                                    ]
+                                  }
+                                >
+                                  BSB
+                                </Text>
+                              </Text>
+                            </View>
+                          </View>
+                          <View
+                            style={
+                              Array [
+                                Object {
+                                  "flexDirection": "row",
+                                  "marginBottom": 10,
+                                  "paddingBottom": 5,
+                                  "paddingLeft": 20,
+                                  "paddingRight": 20,
+                                  "paddingTop": 5,
+                                },
+                                Object {},
+                              ]
+                            }
+                          >
+                            <View
+                              style={
+                                Array [
+                                  Object {},
+                                  Object {
+                                    "position": "absolute",
+                                    "top": 8,
+                                  },
+                                ]
+                              }
+                            >
+                              <AdoreSvgIcon
+                                color="#979797"
+                                height={18}
+                                name="check-item"
+                                width={18}
+                              />
+                            </View>
+                            <View
+                              ml={1}
+                              style={
+                                Array [
+                                  Object {
+                                    "flex": 1,
+                                    "marginLeft": 10,
+                                  },
+                                  Object {},
+                                ]
+                              }
+                            >
+                              <Text
+                                allowFontScaling={false}
+                                style={
+                                  Array [
+                                    Object {
+                                      "fontFamily": "Montserrat-Regular",
+                                    },
+                                    Array [
+                                      Object {
+                                        "fontSize": 16,
+                                        "letterSpacing": 0.1,
+                                        "lineHeight": 24,
+                                      },
+                                      undefined,
+                                      Object {
+                                        "color": "#777777",
+                                        "textAlign": "left",
+                                      },
+                                    ],
+                                  ]
+                                }
+                              >
+                                <Text
+                                  allowFontScaling={false}
+                                  style={
+                                    Array [
+                                      Object {
+                                        "fontFamily": "Montserrat-Regular",
+                                      },
+                                      undefined,
+                                    ]
+                                  }
+                                >
+                                  Account Number
+                                </Text>
+                              </Text>
+                            </View>
+                          </View>
+                        </View>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            When choosing which account to link, ensure you select a bank account you are actively using.Be sure to double check your details when adding your bank to prevent refunds being sent to the incorrect account.
+                          </Text>
+                        </Text>
+                      </View>
+                      <react-native-modal
+                        animationInTiming={10}
+                        animationOutTiming={100}
+                        backdropColor="#FFFFFF"
+                        backdropOpacity={1}
+                        easing="ease-in"
+                        hideModalContentWhileAnimating={true}
+                        isVisible={false}
+                        onBackdropPress={[Function]}
+                        onModalHide={[Function]}
+                        style={
+                          Array [
+                            Object {
+                              "paddingBottom": 40,
+                              "paddingTop": 40,
+                            },
+                            Object {
+                              "alignItems": "center",
+                              "justifyContent": "center",
+                              "margin": 0,
+                              "paddingBottom": 0,
+                              "paddingTop": 0,
+                            },
+                            false,
+                          ]
+                        }
+                        useNativeDriver={true}
+                        useNativeDriverForBackdrop={true}
+                      >
+                        <View
+                          style={
+                            Array [
+                              Object {
+                                "alignItems": "center",
+                                "backgroundColor": "white",
+                                "flex": 1,
+                                "justifyContent": "space-between",
+                              },
+                              Array [
+                                Object {},
+                                Object {},
+                              ],
+                            ]
+                          }
+                        >
+                          <View
+                            accessible={true}
+                            collapsable={false}
+                            focusable={true}
+                            onClick={[Function]}
+                            onResponderGrant={[Function]}
+                            onResponderMove={[Function]}
+                            onResponderRelease={[Function]}
+                            onResponderTerminate={[Function]}
+                            onResponderTerminationRequest={[Function]}
+                            onStartShouldSetResponder={[Function]}
+                            style={
+                              Object {
+                                "opacity": 1,
+                                "position": "absolute",
+                                "right": 2,
+                                "top": 40,
+                                "zIndex": 9,
+                              }
+                            }
+                          >
+                            <View
+                              style={
+                                Array [
+                                  Object {
+                                    "alignItems": "center",
+                                    "justifyContent": "center",
+                                  },
+                                  Array [
+                                    Object {
+                                      "alignItems": "center",
+                                      "backgroundColor": "rgba(255, 255, 255, 0.70)",
+                                      "borderRadius": 30,
+                                      "height": 56,
+                                      "justifyContent": "center",
+                                      "width": 56,
+                                    },
+                                    Object {},
+                                  ],
+                                ]
+                              }
+                            >
+                              <Icon
+                                color="#000000"
+                                name="close"
+                                size={27}
+                                type="material"
+                              />
+                            </View>
+                          </View>
+                          <View
+                            style={
+                              Array [
+                                Object {},
+                                Array [
+                                  Object {
+                                    "flex": 1,
+                                    "width": "100%",
+                                  },
+                                  Object {},
+                                ],
+                              ]
+                            }
+                          >
+                            <View
+                              onMoveShouldSetResponder={[Function]}
+                              onMoveShouldSetResponderCapture={[Function]}
+                              onResponderEnd={[Function]}
+                              onResponderGrant={[Function]}
+                              onResponderMove={[Function]}
+                              onResponderReject={[Function]}
+                              onResponderRelease={[Function]}
+                              onResponderStart={[Function]}
+                              onResponderTerminate={[Function]}
+                              onResponderTerminationRequest={[Function]}
+                              onStartShouldSetResponder={[Function]}
+                              onStartShouldSetResponderCapture={[Function]}
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "transparent",
+                                  "height": 1334,
+                                  "justifyContent": "center",
+                                  "overflow": "hidden",
+                                  "paddingTop": 0,
+                                  "width": 750,
+                                }
+                              }
+                            >
+                              <View
+                                collapsable={false}
+                                renderToHardwareTextureAndroid={true}
+                                style={
+                                  Object {
+                                    "transform": Array [
+                                      Object {
+                                        "scale": 1,
+                                      },
+                                      Object {
+                                        "translateX": 0,
+                                      },
+                                      Object {
+                                        "translateY": 0,
+                                      },
+                                    ],
+                                  }
+                                }
+                              >
+                                <View
+                                  onLayout={[Function]}
+                                  style={
+                                    Object {
+                                      "height": 1334,
+                                      "width": 750,
+                                    }
+                                  }
+                                />
+                              </View>
+                            </View>
+                          </View>
+                        </View>
+                      </react-native-modal>
+                    </View>
+                  </View>
+                </RCTScrollView>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E1DFDF",
+              "borderBottomWidth": 1,
+              "height": "auto",
+              "paddingBottom": 18,
+              "paddingTop": 18,
+            }
+          }
+        >
+          <View
+            accessibilityState={
+              Object {
+                "expanded": false,
+              }
+            }
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  },
+                  Object {},
+                ]
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "fontFamily": "Montserrat-Regular",
+                      "fontSize": 15,
+                      "letterSpacing": 1.2,
+                    },
+                    Object {
+                      "width": 525,
+                    },
+                  ]
+                }
+              >
+                What happens if I paid with Afterpay, Zip or Klarna, do I keep making my payments?
+              </Text>
+              <Icon
+                color="#000000"
+                name="ios-add"
+                size={22}
+                type="ion"
+              />
+            </View>
+          </View>
+          <View
+            collapsable={false}
+            pointerEvents="none"
+            style={
+              Object {
+                "height": 0,
+                "overflow": "hidden",
+              }
+            }
+          >
+            <View
+              collapsable={false}
+              forwardedRef={[Function]}
+              onLayout={[Function]}
+              style={Object {}}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginRight": 20,
+                      "marginTop": 10,
+                      "paddingTop": 20,
+                    },
+                    Object {},
+                  ]
+                }
+              >
+                <RCTScrollView>
+                  <View>
+                    <View
+                      style={
+                        Array [
+                          Object {},
+                          Object {},
+                        ]
+                      }
+                    >
+                      <View>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            Absolutely! Since you haven’t paid for the items in full just yet, you will need to keep up with your instalments to avoid dishonour fees charged by buy now pay later services (such as: Afterpay, Zip or Klarna).
+                          </Text>
+                        </Text>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            mb={4}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                  "marginBottom": 40,
+                                },
+                                Array [
+                                  Object {
+                                    "fontWeight": "700",
+                                  },
+                                  undefined,
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            <Text
+                              allowFontScaling={false}
+                              style={
+                                Array [
+                                  Object {
+                                    "fontFamily": "Montserrat-Bold",
+                                  },
+                                  undefined,
+                                ]
+                              }
+                            >
+                              EXCHANGE/STORE CREDIT:
+                            </Text>
+                          </Text>
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            Your return will be processed as per normal and your Afterpay instalments will remain the same.
+                          </Text>
+                        </Text>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            __REFUND: __ The refunded amount all depends on the current status of your Afterpay payments.
+                          </Text>
+                        </Text>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            The total amount of the instalments you have paid will be refunded. Any instalments you have not yet paid for will be cancelled.
+                          </Text>
+                        </Text>
+                      </View>
+                      <react-native-modal
+                        animationInTiming={10}
+                        animationOutTiming={100}
+                        backdropColor="#FFFFFF"
+                        backdropOpacity={1}
+                        easing="ease-in"
+                        hideModalContentWhileAnimating={true}
+                        isVisible={false}
+                        onBackdropPress={[Function]}
+                        onModalHide={[Function]}
+                        style={
+                          Array [
+                            Object {
+                              "paddingBottom": 40,
+                              "paddingTop": 40,
+                            },
+                            Object {
+                              "alignItems": "center",
+                              "justifyContent": "center",
+                              "margin": 0,
+                              "paddingBottom": 0,
+                              "paddingTop": 0,
+                            },
+                            false,
+                          ]
+                        }
+                        useNativeDriver={true}
+                        useNativeDriverForBackdrop={true}
+                      >
+                        <View
+                          style={
+                            Array [
+                              Object {
+                                "alignItems": "center",
+                                "backgroundColor": "white",
+                                "flex": 1,
+                                "justifyContent": "space-between",
+                              },
+                              Array [
+                                Object {},
+                                Object {},
+                              ],
+                            ]
+                          }
+                        >
+                          <View
+                            accessible={true}
+                            collapsable={false}
+                            focusable={true}
+                            onClick={[Function]}
+                            onResponderGrant={[Function]}
+                            onResponderMove={[Function]}
+                            onResponderRelease={[Function]}
+                            onResponderTerminate={[Function]}
+                            onResponderTerminationRequest={[Function]}
+                            onStartShouldSetResponder={[Function]}
+                            style={
+                              Object {
+                                "opacity": 1,
+                                "position": "absolute",
+                                "right": 2,
+                                "top": 40,
+                                "zIndex": 9,
+                              }
+                            }
+                          >
+                            <View
+                              style={
+                                Array [
+                                  Object {
+                                    "alignItems": "center",
+                                    "justifyContent": "center",
+                                  },
+                                  Array [
+                                    Object {
+                                      "alignItems": "center",
+                                      "backgroundColor": "rgba(255, 255, 255, 0.70)",
+                                      "borderRadius": 30,
+                                      "height": 56,
+                                      "justifyContent": "center",
+                                      "width": 56,
+                                    },
+                                    Object {},
+                                  ],
+                                ]
+                              }
+                            >
+                              <Icon
+                                color="#000000"
+                                name="close"
+                                size={27}
+                                type="material"
+                              />
+                            </View>
+                          </View>
+                          <View
+                            style={
+                              Array [
+                                Object {},
+                                Array [
+                                  Object {
+                                    "flex": 1,
+                                    "width": "100%",
+                                  },
+                                  Object {},
+                                ],
+                              ]
+                            }
+                          >
+                            <View
+                              onMoveShouldSetResponder={[Function]}
+                              onMoveShouldSetResponderCapture={[Function]}
+                              onResponderEnd={[Function]}
+                              onResponderGrant={[Function]}
+                              onResponderMove={[Function]}
+                              onResponderReject={[Function]}
+                              onResponderRelease={[Function]}
+                              onResponderStart={[Function]}
+                              onResponderTerminate={[Function]}
+                              onResponderTerminationRequest={[Function]}
+                              onStartShouldSetResponder={[Function]}
+                              onStartShouldSetResponderCapture={[Function]}
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "transparent",
+                                  "height": 1334,
+                                  "justifyContent": "center",
+                                  "overflow": "hidden",
+                                  "paddingTop": 0,
+                                  "width": 750,
+                                }
+                              }
+                            >
+                              <View
+                                collapsable={false}
+                                renderToHardwareTextureAndroid={true}
+                                style={
+                                  Object {
+                                    "transform": Array [
+                                      Object {
+                                        "scale": 1,
+                                      },
+                                      Object {
+                                        "translateX": 0,
+                                      },
+                                      Object {
+                                        "translateY": 0,
+                                      },
+                                    ],
+                                  }
+                                }
+                              >
+                                <View
+                                  onLayout={[Function]}
+                                  style={
+                                    Object {
+                                      "height": 1334,
+                                      "width": 750,
+                                    }
+                                  }
+                                />
+                              </View>
+                            </View>
+                          </View>
+                        </View>
+                      </react-native-modal>
+                    </View>
+                  </View>
+                </RCTScrollView>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E1DFDF",
+              "borderBottomWidth": 1,
+              "height": "auto",
+              "paddingBottom": 18,
+              "paddingTop": 18,
+            }
+          }
+        >
+          <View
+            accessibilityState={
+              Object {
+                "expanded": false,
+              }
+            }
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  },
+                  Object {},
+                ]
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "fontFamily": "Montserrat-Regular",
+                      "fontSize": 15,
+                      "letterSpacing": 1.2,
+                    },
+                    Object {
+                      "width": 525,
+                    },
+                  ]
+                }
+              >
+                Want to cancel your refund?
+              </Text>
+              <Icon
+                color="#000000"
+                name="ios-add"
+                size={22}
+                type="ion"
+              />
+            </View>
+          </View>
+          <View
+            collapsable={false}
+            pointerEvents="none"
+            style={
+              Object {
+                "height": 0,
+                "overflow": "hidden",
+              }
+            }
+          >
+            <View
+              collapsable={false}
+              forwardedRef={[Function]}
+              onLayout={[Function]}
+              style={Object {}}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginRight": 20,
+                      "marginTop": 10,
+                      "paddingTop": 20,
+                    },
+                    Object {},
+                  ]
+                }
+              >
+                <RCTScrollView>
+                  <View>
+                    <View
+                      style={
+                        Array [
+                          Object {},
+                          Object {},
+                        ]
+                      }
+                    >
+                      <View>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            If you enter the incorrect details when processing your refund please contact Refundid directly. If you don’t contact Refundid, they will automatically settle the finances. This may include paying you additional money or deducting excess money. Misconduct fees may apply if the merchant declines the return and Refundid is not notified prior to the merchant receiving the order.
+                          </Text>
+                        </Text>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            In the event that you'd like to cancel your refund after it has already been issued to you, please contact Refundid. All refund cancellations incur a $1 fee and can take up to 2 business days to finalise.
+                          </Text>
+                        </Text>
+                      </View>
+                      <react-native-modal
+                        animationInTiming={10}
+                        animationOutTiming={100}
+                        backdropColor="#FFFFFF"
+                        backdropOpacity={1}
+                        easing="ease-in"
+                        hideModalContentWhileAnimating={true}
+                        isVisible={false}
+                        onBackdropPress={[Function]}
+                        onModalHide={[Function]}
+                        style={
+                          Array [
+                            Object {
+                              "paddingBottom": 40,
+                              "paddingTop": 40,
+                            },
+                            Object {
+                              "alignItems": "center",
+                              "justifyContent": "center",
+                              "margin": 0,
+                              "paddingBottom": 0,
+                              "paddingTop": 0,
+                            },
+                            false,
+                          ]
+                        }
+                        useNativeDriver={true}
+                        useNativeDriverForBackdrop={true}
+                      >
+                        <View
+                          style={
+                            Array [
+                              Object {
+                                "alignItems": "center",
+                                "backgroundColor": "white",
+                                "flex": 1,
+                                "justifyContent": "space-between",
+                              },
+                              Array [
+                                Object {},
+                                Object {},
+                              ],
+                            ]
+                          }
+                        >
+                          <View
+                            accessible={true}
+                            collapsable={false}
+                            focusable={true}
+                            onClick={[Function]}
+                            onResponderGrant={[Function]}
+                            onResponderMove={[Function]}
+                            onResponderRelease={[Function]}
+                            onResponderTerminate={[Function]}
+                            onResponderTerminationRequest={[Function]}
+                            onStartShouldSetResponder={[Function]}
+                            style={
+                              Object {
+                                "opacity": 1,
+                                "position": "absolute",
+                                "right": 2,
+                                "top": 40,
+                                "zIndex": 9,
+                              }
+                            }
+                          >
+                            <View
+                              style={
+                                Array [
+                                  Object {
+                                    "alignItems": "center",
+                                    "justifyContent": "center",
+                                  },
+                                  Array [
+                                    Object {
+                                      "alignItems": "center",
+                                      "backgroundColor": "rgba(255, 255, 255, 0.70)",
+                                      "borderRadius": 30,
+                                      "height": 56,
+                                      "justifyContent": "center",
+                                      "width": 56,
+                                    },
+                                    Object {},
+                                  ],
+                                ]
+                              }
+                            >
+                              <Icon
+                                color="#000000"
+                                name="close"
+                                size={27}
+                                type="material"
+                              />
+                            </View>
+                          </View>
+                          <View
+                            style={
+                              Array [
+                                Object {},
+                                Array [
+                                  Object {
+                                    "flex": 1,
+                                    "width": "100%",
+                                  },
+                                  Object {},
+                                ],
+                              ]
+                            }
+                          >
+                            <View
+                              onMoveShouldSetResponder={[Function]}
+                              onMoveShouldSetResponderCapture={[Function]}
+                              onResponderEnd={[Function]}
+                              onResponderGrant={[Function]}
+                              onResponderMove={[Function]}
+                              onResponderReject={[Function]}
+                              onResponderRelease={[Function]}
+                              onResponderStart={[Function]}
+                              onResponderTerminate={[Function]}
+                              onResponderTerminationRequest={[Function]}
+                              onStartShouldSetResponder={[Function]}
+                              onStartShouldSetResponderCapture={[Function]}
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "transparent",
+                                  "height": 1334,
+                                  "justifyContent": "center",
+                                  "overflow": "hidden",
+                                  "paddingTop": 0,
+                                  "width": 750,
+                                }
+                              }
+                            >
+                              <View
+                                collapsable={false}
+                                renderToHardwareTextureAndroid={true}
+                                style={
+                                  Object {
+                                    "transform": Array [
+                                      Object {
+                                        "scale": 1,
+                                      },
+                                      Object {
+                                        "translateX": 0,
+                                      },
+                                      Object {
+                                        "translateY": 0,
+                                      },
+                                    ],
+                                  }
+                                }
+                              >
+                                <View
+                                  onLayout={[Function]}
+                                  style={
+                                    Object {
+                                      "height": 1334,
+                                      "width": 750,
+                                    }
+                                  }
+                                />
+                              </View>
+                            </View>
+                          </View>
+                        </View>
+                      </react-native-modal>
+                    </View>
+                  </View>
+                </RCTScrollView>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E1DFDF",
+              "borderBottomWidth": 1,
+              "height": "auto",
+              "paddingBottom": 18,
+              "paddingTop": 18,
+            }
+          }
+        >
+          <View
+            accessibilityState={
+              Object {
+                "expanded": false,
+              }
+            }
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  },
+                  Object {},
+                ]
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "fontFamily": "Montserrat-Regular",
+                      "fontSize": 15,
+                      "letterSpacing": 1.2,
+                    },
+                    Object {
+                      "width": 525,
+                    },
+                  ]
+                }
+              >
+                Is there a limit to how much I can refund on a single return?
+              </Text>
+              <Icon
+                color="#000000"
+                name="ios-add"
+                size={22}
+                type="ion"
+              />
+            </View>
+          </View>
+          <View
+            collapsable={false}
+            pointerEvents="none"
+            style={
+              Object {
+                "height": 0,
+                "overflow": "hidden",
+              }
+            }
+          >
+            <View
+              collapsable={false}
+              forwardedRef={[Function]}
+              onLayout={[Function]}
+              style={Object {}}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginRight": 20,
+                      "marginTop": 10,
+                      "paddingTop": 20,
+                    },
+                    Object {},
+                  ]
+                }
+              >
+                <RCTScrollView>
+                  <View>
+                    <View
+                      style={
+                        Array [
+                          Object {},
+                          Object {},
+                        ]
+                      }
+                    >
+                      <View>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            Yes, Refundid currently offers instant refunds on up to $750 of your order. You will still be able to use the platform if your entire order value exceeds $750, however you will only be able to refund up to $750 of that order.
+                          </Text>
+                        </Text>
+                      </View>
+                      <react-native-modal
+                        animationInTiming={10}
+                        animationOutTiming={100}
+                        backdropColor="#FFFFFF"
+                        backdropOpacity={1}
+                        easing="ease-in"
+                        hideModalContentWhileAnimating={true}
+                        isVisible={false}
+                        onBackdropPress={[Function]}
+                        onModalHide={[Function]}
+                        style={
+                          Array [
+                            Object {
+                              "paddingBottom": 40,
+                              "paddingTop": 40,
+                            },
+                            Object {
+                              "alignItems": "center",
+                              "justifyContent": "center",
+                              "margin": 0,
+                              "paddingBottom": 0,
+                              "paddingTop": 0,
+                            },
+                            false,
+                          ]
+                        }
+                        useNativeDriver={true}
+                        useNativeDriverForBackdrop={true}
+                      >
+                        <View
+                          style={
+                            Array [
+                              Object {
+                                "alignItems": "center",
+                                "backgroundColor": "white",
+                                "flex": 1,
+                                "justifyContent": "space-between",
+                              },
+                              Array [
+                                Object {},
+                                Object {},
+                              ],
+                            ]
+                          }
+                        >
+                          <View
+                            accessible={true}
+                            collapsable={false}
+                            focusable={true}
+                            onClick={[Function]}
+                            onResponderGrant={[Function]}
+                            onResponderMove={[Function]}
+                            onResponderRelease={[Function]}
+                            onResponderTerminate={[Function]}
+                            onResponderTerminationRequest={[Function]}
+                            onStartShouldSetResponder={[Function]}
+                            style={
+                              Object {
+                                "opacity": 1,
+                                "position": "absolute",
+                                "right": 2,
+                                "top": 40,
+                                "zIndex": 9,
+                              }
+                            }
+                          >
+                            <View
+                              style={
+                                Array [
+                                  Object {
+                                    "alignItems": "center",
+                                    "justifyContent": "center",
+                                  },
+                                  Array [
+                                    Object {
+                                      "alignItems": "center",
+                                      "backgroundColor": "rgba(255, 255, 255, 0.70)",
+                                      "borderRadius": 30,
+                                      "height": 56,
+                                      "justifyContent": "center",
+                                      "width": 56,
+                                    },
+                                    Object {},
+                                  ],
+                                ]
+                              }
+                            >
+                              <Icon
+                                color="#000000"
+                                name="close"
+                                size={27}
+                                type="material"
+                              />
+                            </View>
+                          </View>
+                          <View
+                            style={
+                              Array [
+                                Object {},
+                                Array [
+                                  Object {
+                                    "flex": 1,
+                                    "width": "100%",
+                                  },
+                                  Object {},
+                                ],
+                              ]
+                            }
+                          >
+                            <View
+                              onMoveShouldSetResponder={[Function]}
+                              onMoveShouldSetResponderCapture={[Function]}
+                              onResponderEnd={[Function]}
+                              onResponderGrant={[Function]}
+                              onResponderMove={[Function]}
+                              onResponderReject={[Function]}
+                              onResponderRelease={[Function]}
+                              onResponderStart={[Function]}
+                              onResponderTerminate={[Function]}
+                              onResponderTerminationRequest={[Function]}
+                              onStartShouldSetResponder={[Function]}
+                              onStartShouldSetResponderCapture={[Function]}
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "transparent",
+                                  "height": 1334,
+                                  "justifyContent": "center",
+                                  "overflow": "hidden",
+                                  "paddingTop": 0,
+                                  "width": 750,
+                                }
+                              }
+                            >
+                              <View
+                                collapsable={false}
+                                renderToHardwareTextureAndroid={true}
+                                style={
+                                  Object {
+                                    "transform": Array [
+                                      Object {
+                                        "scale": 1,
+                                      },
+                                      Object {
+                                        "translateX": 0,
+                                      },
+                                      Object {
+                                        "translateY": 0,
+                                      },
+                                    ],
+                                  }
+                                }
+                              >
+                                <View
+                                  onLayout={[Function]}
+                                  style={
+                                    Object {
+                                      "height": 1334,
+                                      "width": 750,
+                                    }
+                                  }
+                                />
+                              </View>
+                            </View>
+                          </View>
+                        </View>
+                      </react-native-modal>
+                    </View>
+                  </View>
+                </RCTScrollView>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E1DFDF",
+              "borderBottomWidth": 1,
+              "height": "auto",
+              "paddingBottom": 18,
+              "paddingTop": 18,
+            }
+          }
+        >
+          <View
+            accessibilityState={
+              Object {
+                "expanded": false,
+              }
+            }
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  },
+                  Object {},
+                ]
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "fontFamily": "Montserrat-Regular",
+                      "fontSize": 15,
+                      "letterSpacing": 1.2,
+                    },
+                    Object {
+                      "width": 525,
+                    },
+                  ]
+                }
+              >
+                What categories are not eligible for a refund?
+              </Text>
+              <Icon
+                color="#000000"
+                name="ios-add"
+                size={22}
+                type="ion"
+              />
+            </View>
+          </View>
+          <View
+            collapsable={false}
+            pointerEvents="none"
+            style={
+              Object {
+                "height": 0,
+                "overflow": "hidden",
+              }
+            }
+          >
+            <View
+              collapsable={false}
+              forwardedRef={[Function]}
+              onLayout={[Function]}
+              style={Object {}}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginRight": 20,
+                      "marginTop": 10,
+                      "paddingTop": 20,
+                    },
+                    Object {},
+                  ]
+                }
+              >
+                <RCTScrollView>
+                  <View>
+                    <View
+                      style={
+                        Array [
+                          Object {},
+                          Object {},
+                        ]
+                      }
+                    >
+                      <View>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            Products and brands excluded from our returns policy include electrical devices, menstrual care, oral care, intimate care and sexual wellness products for hygiene and safety reasons. This does not apply to faulty items. In addition, the purchase of gift cards are excluded from our returns policy. Please note for any phone orders or amended orders they will need to be processed via our returns form.
+                          </Text>
+                        </Text>
+                      </View>
+                      <react-native-modal
+                        animationInTiming={10}
+                        animationOutTiming={100}
+                        backdropColor="#FFFFFF"
+                        backdropOpacity={1}
+                        easing="ease-in"
+                        hideModalContentWhileAnimating={true}
+                        isVisible={false}
+                        onBackdropPress={[Function]}
+                        onModalHide={[Function]}
+                        style={
+                          Array [
+                            Object {
+                              "paddingBottom": 40,
+                              "paddingTop": 40,
+                            },
+                            Object {
+                              "alignItems": "center",
+                              "justifyContent": "center",
+                              "margin": 0,
+                              "paddingBottom": 0,
+                              "paddingTop": 0,
+                            },
+                            false,
+                          ]
+                        }
+                        useNativeDriver={true}
+                        useNativeDriverForBackdrop={true}
+                      >
+                        <View
+                          style={
+                            Array [
+                              Object {
+                                "alignItems": "center",
+                                "backgroundColor": "white",
+                                "flex": 1,
+                                "justifyContent": "space-between",
+                              },
+                              Array [
+                                Object {},
+                                Object {},
+                              ],
+                            ]
+                          }
+                        >
+                          <View
+                            accessible={true}
+                            collapsable={false}
+                            focusable={true}
+                            onClick={[Function]}
+                            onResponderGrant={[Function]}
+                            onResponderMove={[Function]}
+                            onResponderRelease={[Function]}
+                            onResponderTerminate={[Function]}
+                            onResponderTerminationRequest={[Function]}
+                            onStartShouldSetResponder={[Function]}
+                            style={
+                              Object {
+                                "opacity": 1,
+                                "position": "absolute",
+                                "right": 2,
+                                "top": 40,
+                                "zIndex": 9,
+                              }
+                            }
+                          >
+                            <View
+                              style={
+                                Array [
+                                  Object {
+                                    "alignItems": "center",
+                                    "justifyContent": "center",
+                                  },
+                                  Array [
+                                    Object {
+                                      "alignItems": "center",
+                                      "backgroundColor": "rgba(255, 255, 255, 0.70)",
+                                      "borderRadius": 30,
+                                      "height": 56,
+                                      "justifyContent": "center",
+                                      "width": 56,
+                                    },
+                                    Object {},
+                                  ],
+                                ]
+                              }
+                            >
+                              <Icon
+                                color="#000000"
+                                name="close"
+                                size={27}
+                                type="material"
+                              />
+                            </View>
+                          </View>
+                          <View
+                            style={
+                              Array [
+                                Object {},
+                                Array [
+                                  Object {
+                                    "flex": 1,
+                                    "width": "100%",
+                                  },
+                                  Object {},
+                                ],
+                              ]
+                            }
+                          >
+                            <View
+                              onMoveShouldSetResponder={[Function]}
+                              onMoveShouldSetResponderCapture={[Function]}
+                              onResponderEnd={[Function]}
+                              onResponderGrant={[Function]}
+                              onResponderMove={[Function]}
+                              onResponderReject={[Function]}
+                              onResponderRelease={[Function]}
+                              onResponderStart={[Function]}
+                              onResponderTerminate={[Function]}
+                              onResponderTerminationRequest={[Function]}
+                              onStartShouldSetResponder={[Function]}
+                              onStartShouldSetResponderCapture={[Function]}
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "transparent",
+                                  "height": 1334,
+                                  "justifyContent": "center",
+                                  "overflow": "hidden",
+                                  "paddingTop": 0,
+                                  "width": 750,
+                                }
+                              }
+                            >
+                              <View
+                                collapsable={false}
+                                renderToHardwareTextureAndroid={true}
+                                style={
+                                  Object {
+                                    "transform": Array [
+                                      Object {
+                                        "scale": 1,
+                                      },
+                                      Object {
+                                        "translateX": 0,
+                                      },
+                                      Object {
+                                        "translateY": 0,
+                                      },
+                                    ],
+                                  }
+                                }
+                              >
+                                <View
+                                  onLayout={[Function]}
+                                  style={
+                                    Object {
+                                      "height": 1334,
+                                      "width": 750,
+                                    }
+                                  }
+                                />
+                              </View>
+                            </View>
+                          </View>
+                        </View>
+                      </react-native-modal>
+                    </View>
+                  </View>
+                </RCTScrollView>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E1DFDF",
+              "borderBottomWidth": 1,
+              "height": "auto",
+              "paddingBottom": 18,
+              "paddingTop": 18,
+            }
+          }
+        >
+          <View
+            accessibilityState={
+              Object {
+                "expanded": false,
+              }
+            }
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  },
+                  Object {},
+                ]
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "fontFamily": "Montserrat-Regular",
+                      "fontSize": 15,
+                      "letterSpacing": 1.2,
+                    },
+                    Object {
+                      "width": 525,
+                    },
+                  ]
+                }
+              >
+                Can I use Refundid if I'm returning an order I purchased with a gift card?
+              </Text>
+              <Icon
+                color="#000000"
+                name="ios-add"
+                size={22}
+                type="ion"
+              />
+            </View>
+          </View>
+          <View
+            collapsable={false}
+            pointerEvents="none"
+            style={
+              Object {
+                "height": 0,
+                "overflow": "hidden",
+              }
+            }
+          >
+            <View
+              collapsable={false}
+              forwardedRef={[Function]}
+              onLayout={[Function]}
+              style={Object {}}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginRight": 20,
+                      "marginTop": 10,
+                      "paddingTop": 20,
+                    },
+                    Object {},
+                  ]
+                }
+              >
+                <RCTScrollView>
+                  <View>
+                    <View
+                      style={
+                        Array [
+                          Object {},
+                          Object {},
+                        ]
+                      }
+                    >
+                      <View>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            Yes, orders purchased with gift cards or store credit are eligible to be refunded with Refundid.
+                          </Text>
+                        </Text>
+                      </View>
+                      <react-native-modal
+                        animationInTiming={10}
+                        animationOutTiming={100}
+                        backdropColor="#FFFFFF"
+                        backdropOpacity={1}
+                        easing="ease-in"
+                        hideModalContentWhileAnimating={true}
+                        isVisible={false}
+                        onBackdropPress={[Function]}
+                        onModalHide={[Function]}
+                        style={
+                          Array [
+                            Object {
+                              "paddingBottom": 40,
+                              "paddingTop": 40,
+                            },
+                            Object {
+                              "alignItems": "center",
+                              "justifyContent": "center",
+                              "margin": 0,
+                              "paddingBottom": 0,
+                              "paddingTop": 0,
+                            },
+                            false,
+                          ]
+                        }
+                        useNativeDriver={true}
+                        useNativeDriverForBackdrop={true}
+                      >
+                        <View
+                          style={
+                            Array [
+                              Object {
+                                "alignItems": "center",
+                                "backgroundColor": "white",
+                                "flex": 1,
+                                "justifyContent": "space-between",
+                              },
+                              Array [
+                                Object {},
+                                Object {},
+                              ],
+                            ]
+                          }
+                        >
+                          <View
+                            accessible={true}
+                            collapsable={false}
+                            focusable={true}
+                            onClick={[Function]}
+                            onResponderGrant={[Function]}
+                            onResponderMove={[Function]}
+                            onResponderRelease={[Function]}
+                            onResponderTerminate={[Function]}
+                            onResponderTerminationRequest={[Function]}
+                            onStartShouldSetResponder={[Function]}
+                            style={
+                              Object {
+                                "opacity": 1,
+                                "position": "absolute",
+                                "right": 2,
+                                "top": 40,
+                                "zIndex": 9,
+                              }
+                            }
+                          >
+                            <View
+                              style={
+                                Array [
+                                  Object {
+                                    "alignItems": "center",
+                                    "justifyContent": "center",
+                                  },
+                                  Array [
+                                    Object {
+                                      "alignItems": "center",
+                                      "backgroundColor": "rgba(255, 255, 255, 0.70)",
+                                      "borderRadius": 30,
+                                      "height": 56,
+                                      "justifyContent": "center",
+                                      "width": 56,
+                                    },
+                                    Object {},
+                                  ],
+                                ]
+                              }
+                            >
+                              <Icon
+                                color="#000000"
+                                name="close"
+                                size={27}
+                                type="material"
+                              />
+                            </View>
+                          </View>
+                          <View
+                            style={
+                              Array [
+                                Object {},
+                                Array [
+                                  Object {
+                                    "flex": 1,
+                                    "width": "100%",
+                                  },
+                                  Object {},
+                                ],
+                              ]
+                            }
+                          >
+                            <View
+                              onMoveShouldSetResponder={[Function]}
+                              onMoveShouldSetResponderCapture={[Function]}
+                              onResponderEnd={[Function]}
+                              onResponderGrant={[Function]}
+                              onResponderMove={[Function]}
+                              onResponderReject={[Function]}
+                              onResponderRelease={[Function]}
+                              onResponderStart={[Function]}
+                              onResponderTerminate={[Function]}
+                              onResponderTerminationRequest={[Function]}
+                              onStartShouldSetResponder={[Function]}
+                              onStartShouldSetResponderCapture={[Function]}
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "transparent",
+                                  "height": 1334,
+                                  "justifyContent": "center",
+                                  "overflow": "hidden",
+                                  "paddingTop": 0,
+                                  "width": 750,
+                                }
+                              }
+                            >
+                              <View
+                                collapsable={false}
+                                renderToHardwareTextureAndroid={true}
+                                style={
+                                  Object {
+                                    "transform": Array [
+                                      Object {
+                                        "scale": 1,
+                                      },
+                                      Object {
+                                        "translateX": 0,
+                                      },
+                                      Object {
+                                        "translateY": 0,
+                                      },
+                                    ],
+                                  }
+                                }
+                              >
+                                <View
+                                  onLayout={[Function]}
+                                  style={
+                                    Object {
+                                      "height": 1334,
+                                      "width": 750,
+                                    }
+                                  }
+                                />
+                              </View>
+                            </View>
+                          </View>
+                        </View>
+                      </react-native-modal>
+                    </View>
+                  </View>
+                </RCTScrollView>
+              </View>
+            </View>
+          </View>
+        </View>
+        <View
+          style={
+            Object {
+              "borderBottomColor": "#E1DFDF",
+              "borderBottomWidth": 1,
+              "height": "auto",
+              "paddingBottom": 18,
+              "paddingTop": 18,
+            }
+          }
+        >
+          <View
+            accessibilityState={
+              Object {
+                "expanded": false,
+              }
+            }
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+          >
+            <View
+              style={
+                Array [
+                  Object {
+                    "alignItems": "center",
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  },
+                  Object {},
+                ]
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "fontFamily": "Montserrat-Regular",
+                      "fontSize": 15,
+                      "letterSpacing": 1.2,
+                    },
+                    Object {
+                      "width": 525,
+                    },
+                  ]
+                }
+              >
+                When do I need to return my items?
+              </Text>
+              <Icon
+                color="#000000"
+                name="ios-add"
+                size={22}
+                type="ion"
+              />
+            </View>
+          </View>
+          <View
+            collapsable={false}
+            pointerEvents="none"
+            style={
+              Object {
+                "height": 0,
+                "overflow": "hidden",
+              }
+            }
+          >
+            <View
+              collapsable={false}
+              forwardedRef={[Function]}
+              onLayout={[Function]}
+              style={Object {}}
+            >
+              <View
+                style={
+                  Array [
+                    Object {
+                      "marginRight": 20,
+                      "marginTop": 10,
+                      "paddingTop": 20,
+                    },
+                    Object {},
+                  ]
+                }
+              >
+                <RCTScrollView>
+                  <View>
+                    <View
+                      style={
+                        Array [
+                          Object {},
+                          Object {},
+                        ]
+                      }
+                    >
+                      <View>
+                        <Text
+                          onLongPress={null}
+                          onPress={null}
+                          style={
+                            Object {
+                              "color": "#777777",
+                              "fontSize": 16,
+                              "letterSpacing": 0.3,
+                              "lineHeight": 24,
+                              "paddingHorizontal": 0,
+                              "textAlign": "left",
+                            }
+                          }
+                        >
+                          <Text
+                            allowFontScaling={false}
+                            style={
+                              Array [
+                                Object {
+                                  "fontFamily": "Montserrat-Regular",
+                                },
+                                Array [
+                                  Object {
+                                    "fontSize": 16,
+                                    "letterSpacing": 0.1,
+                                    "lineHeight": 24,
+                                  },
+                                  undefined,
+                                  Object {
+                                    "color": "#777777",
+                                    "textAlign": "left",
+                                  },
+                                ],
+                              ]
+                            }
+                          >
+                            You have 10 days to post your return! If your return tracking has not updated within 10 days, Refundid will reverse the instant refund they have paid out to you.
+                          </Text>
+                        </Text>
+                      </View>
+                      <react-native-modal
+                        animationInTiming={10}
+                        animationOutTiming={100}
+                        backdropColor="#FFFFFF"
+                        backdropOpacity={1}
+                        easing="ease-in"
+                        hideModalContentWhileAnimating={true}
+                        isVisible={false}
+                        onBackdropPress={[Function]}
+                        onModalHide={[Function]}
+                        style={
+                          Array [
+                            Object {
+                              "paddingBottom": 40,
+                              "paddingTop": 40,
+                            },
+                            Object {
+                              "alignItems": "center",
+                              "justifyContent": "center",
+                              "margin": 0,
+                              "paddingBottom": 0,
+                              "paddingTop": 0,
+                            },
+                            false,
+                          ]
+                        }
+                        useNativeDriver={true}
+                        useNativeDriverForBackdrop={true}
+                      >
+                        <View
+                          style={
+                            Array [
+                              Object {
+                                "alignItems": "center",
+                                "backgroundColor": "white",
+                                "flex": 1,
+                                "justifyContent": "space-between",
+                              },
+                              Array [
+                                Object {},
+                                Object {},
+                              ],
+                            ]
+                          }
+                        >
+                          <View
+                            accessible={true}
+                            collapsable={false}
+                            focusable={true}
+                            onClick={[Function]}
+                            onResponderGrant={[Function]}
+                            onResponderMove={[Function]}
+                            onResponderRelease={[Function]}
+                            onResponderTerminate={[Function]}
+                            onResponderTerminationRequest={[Function]}
+                            onStartShouldSetResponder={[Function]}
+                            style={
+                              Object {
+                                "opacity": 1,
+                                "position": "absolute",
+                                "right": 2,
+                                "top": 40,
+                                "zIndex": 9,
+                              }
+                            }
+                          >
+                            <View
+                              style={
+                                Array [
+                                  Object {
+                                    "alignItems": "center",
+                                    "justifyContent": "center",
+                                  },
+                                  Array [
+                                    Object {
+                                      "alignItems": "center",
+                                      "backgroundColor": "rgba(255, 255, 255, 0.70)",
+                                      "borderRadius": 30,
+                                      "height": 56,
+                                      "justifyContent": "center",
+                                      "width": 56,
+                                    },
+                                    Object {},
+                                  ],
+                                ]
+                              }
+                            >
+                              <Icon
+                                color="#000000"
+                                name="close"
+                                size={27}
+                                type="material"
+                              />
+                            </View>
+                          </View>
+                          <View
+                            style={
+                              Array [
+                                Object {},
+                                Array [
+                                  Object {
+                                    "flex": 1,
+                                    "width": "100%",
+                                  },
+                                  Object {},
+                                ],
+                              ]
+                            }
+                          >
+                            <View
+                              onMoveShouldSetResponder={[Function]}
+                              onMoveShouldSetResponderCapture={[Function]}
+                              onResponderEnd={[Function]}
+                              onResponderGrant={[Function]}
+                              onResponderMove={[Function]}
+                              onResponderReject={[Function]}
+                              onResponderRelease={[Function]}
+                              onResponderStart={[Function]}
+                              onResponderTerminate={[Function]}
+                              onResponderTerminationRequest={[Function]}
+                              onStartShouldSetResponder={[Function]}
+                              onStartShouldSetResponderCapture={[Function]}
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "transparent",
+                                  "height": 1334,
+                                  "justifyContent": "center",
+                                  "overflow": "hidden",
+                                  "paddingTop": 0,
+                                  "width": 750,
+                                }
+                              }
+                            >
+                              <View
+                                collapsable={false}
+                                renderToHardwareTextureAndroid={true}
+                                style={
+                                  Object {
+                                    "transform": Array [
+                                      Object {
+                                        "scale": 1,
+                                      },
+                                      Object {
+                                        "translateX": 0,
+                                      },
+                                      Object {
+                                        "translateY": 0,
+                                      },
+                                    ],
+                                  }
+                                }
+                              >
+                                <View
+                                  onLayout={[Function]}
+                                  style={
+                                    Object {
+                                      "height": 1334,
+                                      "width": 750,
+                                    }
+                                  }
+                                />
+                              </View>
+                            </View>
+                          </View>
+                        </View>
+                      </react-native-modal>
+                    </View>
+                  </View>
+                </RCTScrollView>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

@@ -1,0 +1,29 @@
+{
+  "appVersion": "1.8.0",
+  "buildNumber": 9999,
+  "braintree" : {
+    "clientToken" : "sandbox_zj98dg8k_8q5h8wcrnp47pkb9"
+  },
+  "forterId" : "47899bb0eead",
+  "isStagingApp" : true,
+  "reduxLogger" : true,
+  "isForterEnabled" : false,
+  "disableJailBreak" : false,
+  "enablePushNotifications" : false,
+  "enableYellowBox" : false,
+  "isAfterpayEnabled" : false,
+  "isKlarnaEnabled" : false,
+  "networkOfflineCheck" : false,
+  "firebase": {
+    "dynamicLinkDomain": "https://www.adorebeauty.com.au",
+    "domainUriPrefix": "https://app.adorebeauty.com.au/dl",
+    "isPerformanceMonitoringEnabled": false,
+    "isPerformanceMonitoringDebugEnabled": false
+  },
+  "sentry": {
+    "dsn": "",
+    "enableInExpoDevelopment": false,
+    "debug": false,
+    "ignoreConsoleLogs": true
+  }
+}

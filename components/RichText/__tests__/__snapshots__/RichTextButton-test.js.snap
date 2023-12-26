@@ -1,0 +1,171 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RichTextButton renders for alterna-air-dry-balm-review 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "paddingBottom": 10,
+        "paddingTop": 10,
+      },
+      Object {},
+    ]
+  }
+>
+  <View
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "borderColor": "black",
+        "borderRadius": 0,
+        "borderWidth": 0.5,
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "opacity": 1,
+        "paddingBottom": 10,
+        "paddingLeft": 20,
+        "paddingRight": 20,
+        "paddingTop": 10,
+        "width": "100%",
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "fontFamily": "Montserrat-Regular",
+          },
+          Array [
+            Object {
+              "color": "white",
+              "textAlign": "center",
+              "textTransform": "uppercase",
+            },
+            undefined,
+            Object {},
+            Object {
+              "color": "black",
+              "fontFamily": "Montserrat-Regular",
+              "fontSize": 14,
+            },
+            false,
+            false,
+            false,
+            false,
+            Object {
+              "paddingVertical": 5,
+            },
+          ],
+        ]
+      }
+    >
+      Shop Alterna Hair My Hair My Canvas Easy Does It Air-Dry Balm
+    </Text>
+  </View>
+</View>
+`;
+
+exports[`RichTextButton renders for what-is-a-serum 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "paddingBottom": 10,
+        "paddingTop": 10,
+      },
+      Object {},
+    ]
+  }
+>
+  <View
+    accessibilityState={
+      Object {
+        "disabled": false,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "white",
+        "borderColor": "black",
+        "borderRadius": 0,
+        "borderWidth": 0.5,
+        "flexDirection": "row",
+        "justifyContent": "center",
+        "opacity": 1,
+        "paddingBottom": 10,
+        "paddingLeft": 20,
+        "paddingRight": 20,
+        "paddingTop": 10,
+        "width": "100%",
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "fontFamily": "Montserrat-Regular",
+          },
+          Array [
+            Object {
+              "color": "white",
+              "textAlign": "center",
+              "textTransform": "uppercase",
+            },
+            undefined,
+            Object {},
+            Object {
+              "color": "black",
+              "fontFamily": "Montserrat-Regular",
+              "fontSize": 14,
+            },
+            false,
+            false,
+            false,
+            false,
+            Object {
+              "paddingVertical": 5,
+            },
+          ],
+        ]
+      }
+    >
+      Shop Revolution Skincare 12.5% Vitamin C Serum Here
+    </Text>
+  </View>
+</View>
+`;

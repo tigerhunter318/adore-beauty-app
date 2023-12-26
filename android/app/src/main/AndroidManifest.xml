@@ -1,0 +1,104 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="au.com.adorebeauty.shop" xmlns:tools="http://schemas.android.com/tools">
+  <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+  <uses-permission android:name="android.permission.INTERNET"/>
+  <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+  <uses-permission android:name="android.permission.MANAGE_DOCUMENTS"/>
+  <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE"/>
+  <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+  <uses-permission android:name="android.permission.USE_FINGERPRINT"/>
+  <uses-permission android:name="android.permission.VIBRATE"/>
+  <uses-permission tools:node="remove" android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+  <uses-permission android:name="android.permission.CAMERA"/>
+  <uses-permission tools:node="remove" android:name="android.permission.READ_CONTACTS"/>
+  <uses-permission tools:node="remove" android:name="android.permission.READ_CALENDAR"/>
+  <uses-permission tools:node="remove" android:name="android.permission.WRITE_CALENDAR"/>
+  <uses-permission tools:node="remove" android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+  <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+  <uses-permission tools:node="remove" android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+  <uses-permission android:name="android.permission.WAKE_LOCK"/>
+  <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+  <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+
+  <application
+    android:name=".MainApplication"
+    android:label="@string/app_name"
+    android:icon="@mipmap/icon_launcher"
+    android:roundIcon="@mipmap/icon_launcher_round"
+    android:allowBackup="false"
+    android:theme="@style/AppTheme"
+    tools:replace="android:allowBackup"
+  >
+    <activity
+      android:name=".MainActivity"
+      android:label="@string/app_name"
+      android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+      android:launchMode="singleTask"
+      android:windowSoftInputMode="adjustResize"
+      android:theme="@style/AppTheme"
+      android:screenOrientation="portrait"
+      android:exported="true"
+    >
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN"/>
+        <category android:name="android.intent.category.LAUNCHER"/>
+      </intent-filter>
+
+      <intent-filter android:autoVerify="true">
+        <action android:name="android.intent.action.VIEW"/>
+        <category android:name="android.intent.category.DEFAULT"/>
+        <category android:name="android.intent.category.BROWSABLE"/>
+        <data android:scheme="http" />
+        <data android:scheme="https" />
+        <!-- universal links -->
+        <data android:host="staging.adorebeauty.com.au" />
+        <data android:host="www.adorebeauty.com.au"/>
+        <!-- firebase deeplinks -->
+        <data android:host="app.adorebeauty.com.au" />
+        <!-- Branch App Links -->
+        <data android:host="adorebeauty.app.link" />
+        <!-- Partnerize Links -->
+        <data android:host="adorebeauty.prf.hn" />
+      </intent-filter>
+
+    </activity>
+
+    <activity android:name="com.braintreepayments.api.BraintreeBrowserSwitchActivity" android:launchMode="singleTask" android:exported="true">
+      <intent-filter>
+        <action android:name="android.intent.action.VIEW" />
+        <category android:name="android.intent.category.DEFAULT" />
+        <category android:name="android.intent.category.BROWSABLE" />
+        <data android:scheme="${applicationId}.braintree" />
+      </intent-filter>
+    </activity>
+
+    <service android:name="com.emarsys.service.EmarsysFirebaseMessagingService" android:exported="false">
+      <intent-filter>
+        <action android:name="com.google.firebase.MESSAGING_EVENT" />
+      </intent-filter>
+    </service>
+
+
+
+    <provider
+      android:name="com.emarsys.provider.SharedHardwareIdentificationContentProvider"
+      android:authorities="${applicationId}"
+      android:enabled="true"
+      android:exported="true"
+      android:grantUriPermissions="true" />
+
+    <meta-data android:name="com.emarsys.mobileengage.small_notification_icon" android:resource="@mipmap/ic_notification" />
+    <meta-data android:name="com.emarsys.mobileengage.notification_color" android:resource="@color/colorPrimary" />
+
+    <meta-data android:name="com.google.android.gms.wallet.api.enabled" android:value="true"/>
+    <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
+    <meta-data android:name="com.facebook.sdk.ClientToken" android:value="@string/facebook_client_token"/>
+
+    <!-- Branch keys added to android/app/src/main/assets/branch.json-->
+    <meta-data android:name="io.branch.sdk.BranchKey" android:value="key_live_cj0CoxPc3g78oHRovQY10dmlxEa042HC"/>
+    <meta-data android:name="io.branch.sdk.BranchKey.test" android:value="key_test_miZxcrIc7k48dIVaC7yVHhloCDj937KH"/>
+  </application>
+</manifest>

@@ -1,0 +1,44 @@
+{
+  "networkOfflineCheck": false,
+  "enablePushNotifications": false,
+  "enableYellowBox": false,
+  "enableTrackingTransparency": false,
+  "enableUpdateCheck": false,
+  "disableInAppMessaging": true,
+  "buildNumber": 4341,
+  "jiraId": "MOB-733",
+  "algolia": {
+    "apiKey": "[REDACTED]"
+  },
+  "googleWebClientId": "[REDACTED]",
+  "googleIosClientId": "[REDACTED]",
+  "zendeskAccountKey": "[REDACTED]",
+  "tealium": {
+    "enabled": false
+  },
+  "e2e": {
+    "email": "[REDACTED]",
+    "password": "[REDACTED]"
+  },
+  "smartlook": {
+    "apiKey": "2ea4abf835bb033b614303f4cf40fe8efb47e7d0",
+    "enabled": false
+  },
+  "survicate": {
+    "enabled": false
+  },
+  "firebase": {
+    "isPerformanceMonitoringEnabled": false,
+    "domainUriPrefix": "[REDACTED]"
+  },
+  "emarsys": {
+    "recommendedProductsEnabled": false
+  },
+  "appVersion": "1.0.0",
+  "sentry": {
+    "dsn": "[REDACTED]"
+  },
+  "branch": {
+    "gaTrackingId": 228992428
+  }
+}

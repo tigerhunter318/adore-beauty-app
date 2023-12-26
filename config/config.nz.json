@@ -1,0 +1,19 @@
+{
+  "algolia": {
+    "productIndex": "live_Comestri_Products_NZ",
+    "suggestionIndex": "live_Comestri_Products_NZ_query_suggestions",
+    "categoryIndex": "live_Comestri_Categories_NZ",
+    "sortIndices": [
+      { "label": "Recommended", "value": "live_Comestri_Products_NZ" },
+      { "label": "Lowest Price", "value": "live_Comestri_Products_NZ_price_default_asc" },
+      { "label": "Highest Price", "value": "live_Comestri_Products_NZ_price_default_desc" },
+      { "label": "Top Rated", "value": "live_Comestri_Products_NZ_products_rating_summary_desc" },
+      { "label": "New", "value": "live_Comestri_Products_NZ_news_from_date_desc" },
+      { "label": "Best Sellers", "value": "live_Comestri_Products_NZ_Best_Sellers" }
+    ]
+  },
+  "locale": "en-NZ",
+  "hasura": {
+    "priceBookName": "NZD List Price"
+  }
+}

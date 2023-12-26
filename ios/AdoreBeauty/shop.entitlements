@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aps-environment</key>
+	<string>development</string>
+	<key>com.apple.developer.applesignin</key>
+	<array>
+		<string>Default</string>
+	</array>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:app.adorebeauty.com.au</string>
+		<string>applinks:staging.adorebeauty.com.au</string>
+		<string>applinks:www.adorebeauty.com.au</string>
+		<string>applinks:adorebeauty.com.au</string>
+		<string>applinks:www.adorebeauty.co.nz</string>
+		<string>applinks:adorebeauty.co.nz</string>
+		<string>applinks:adore-native-test.netlify.app</string>
+		<string>applinks:adorebeauty.page.link</string>
+		<string>applinks:adorebeauty.app.link</string>
+		<string>applinks:adorebeauty-alternate.app.link</string>
+		<string>applinks:adorebeauty.prf.hn</string>
+	</array>
+	<key>com.apple.developer.in-app-payments</key>
+	<array>
+		<string>merchant.com.au.adorebeauty.web</string>
+		<string>merchant.com.au.testpad.adore</string>
+	</array>
+</dict>
+</plist>

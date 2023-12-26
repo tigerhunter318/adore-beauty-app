@@ -1,0 +1,38 @@
+{
+  "name": "react-native-braintree-payments",
+  "title": "React Native Braintree Payments",
+  "version": "1.0.0",
+  "description": "TODO",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "index.js",
+    "ios",
+    "react-native-braintree-payments.podspec"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example": "yarn --cwd example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatlinesofcode/react-native-braintree-payments.git",
+    "baseUrl": "https://github.com/fatlinesofcode/react-native-braintree-payments"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Phil Andrews",
+    "email": "phil@frontside.com.au"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+  }
+}

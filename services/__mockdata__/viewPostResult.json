@@ -1,0 +1,19 @@
+{
+  "name": "VIEW_ITEM",
+  "contentItems": [
+  ],
+  "transactionID": null,
+  "currency": "AUD",
+  "revenue": null,
+  "shipping": null,
+  "tax": null,
+  "coupon": null,
+  "affiliation": null,
+  "description": "article",
+  "searchQuery": null,
+  "customData": {
+    "identifier": "make-up/click-frenzy-best-deals",
+    "article_title": "GET IN MY CART: 9 Things I'm Buying in Adore's Huge 4-Day Click Frenzy Sale"
+  },
+  "alias": null
+}

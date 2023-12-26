@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "tealium-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tealium/tealium-swift",
+      "state" : {
+        "revision" : "49e9e803de0aaa6a7604cd0db9a287d61851b9d2",
+        "version" : "2.9.2"
+      }
+    }
+  ],
+  "version" : 2
+}

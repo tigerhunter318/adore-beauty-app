@@ -1,0 +1,26 @@
+{
+  "name": "VIEW_ITEM",
+  "contentItems": [
+    {
+      "ident": "MOCK-IDENT"
+    }
+  ],
+  "transactionID": null,
+  "currency": "AUD",
+  "revenue": null,
+  "shipping": null,
+  "tax": null,
+  "coupon": null,
+  "affiliation": null,
+  "description": "product",
+  "searchQuery": null,
+  "customData": {
+    "product_name": "The Ordinary Natural Moisturizing Factors + HA 100ml",
+    "product_brand": "The Ordinary",
+    "product_id": "674269",
+    "product_category": "Skin Care,Moisturisers,Brand,Skincare Concerns,The Ordinary,Moisturiser & Oils,Oily Skin,Skincare for Combination Skin,Targets Dehydration,Targets Sensitivity",
+    "product_unit_price": "12.90",
+    "product_sku": "769915193657"
+  },
+  "alias": null
+}

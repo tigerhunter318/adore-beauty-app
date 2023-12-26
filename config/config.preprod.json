@@ -1,0 +1,9 @@
+{
+  "siteUrl": "https://preprod.adorebeauty.com.au/",
+  "apiUri": "https://preprod.adorebeauty.com.au/api",
+  "graphUri": "https://preprod.adorebeauty.com.au/graphql",
+  "hasuraUri": "https://preprod.adorebeauty.com.au/hasura/v1/graphql",
+  "afterpayUrl": "staging.adorebeauty.com.au/nativestatic/afterpay/index.html",
+  "forterId": "47899bb0eead",
+  "isStagingApp": true
+}

@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>universal links test</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <script>
+    const stripDomainName = (url) => {
+      return url
+        .replace('https://staging.adorebeauty.com.au', '[staging] ')
+        .replace('https://www.adorebeauty.com.au', '[www] ')
+        .replace('https://preprod.adorebeauty.com.au', '[preprod] ')
+    }
+    const writeLinks = (links, ulContainer) => {
+      links.forEach( link => {
+        let url = link
+        let note = ''
+        if(Array.isArray(link)){
+          [url, note] = link
+          note = `<div>${note}</div>`
+        }
+        let li = `<li><a href="${url}">${stripDomainName(url)}</a>${note}</li>`
+        if(link.indexOf('--') === 0){
+          li = `<li><h4>${link}</h4></li>`
+        }
+        if(ulContainer){
+          ulContainer.innerHTML = ulContainer.innerHTML + (li)
+        }else
+        document.write(li)
+      })
+    }
+    const handleAddTest = (evt) => {
+      evt.preventDefault()
+      const input = document.querySelector('#input-test-url').value
+      if(! input.includes('https://')){
+        alert('invalid url')
+      }
+      writeLinks([input], document.querySelector('.test-links'))
+    }
+
+  </script>
+</head>
+<body>
+
+<h3>Add Test Link</h3>
+<form onsubmit="handleAddTest(event)">
+  <input type="text" placeholder="https://www.adorebeauty.com.au" id="input-test-url"/>
+  <button>Add Test</button>
+</form>
+<ul class="test-links">
+
+</ul>
+
+<h3>Test adore deep links</h3>
+
+(apple) universal site links
+<ul>
+  <script>
+    //localhost yarn webviews:links
+    writeLinks(
+      [
+        'apple-app-site-association',
+        'https://www.adorebeauty.com.au',
+        'https://www.adorebeauty.com.au/',
+        '--cms--',
+        'https://www.adorebeauty.com.au/shipping.html',
+        'https://www.adorebeauty.com.au/returns.html',
+        '--account--',
+        'https://www.adorebeauty.com.au/customer/account',
+        'https://www.adorebeauty.com.au/customer/account/myaccount',
+        'https://www.adorebeauty.com.au/customer/account/myrewards',
+        'https://www.adorebeauty.com.au/customer/account/wishlists',
+        'https://www.adorebeauty.com.au/customer/account/orders',
+        'https://www.adorebeauty.com.au/customer/account/addresses',
+        '--app screens--',
+        'https://www.adorebeauty.com.au/adore-society.html',
+        'https://www.adorebeauty.com.au/promotion.html',
+        'https://www.adorebeauty.com.au/cart.php?setCurrencyId=1',
+        'https://www.adorebeauty.com.au/beautyiq',
+        'https://www.adorebeauty.com.au/?app=Shop',
+        'https://www.adorebeauty.com.au/?app=Shop/brand',
+        'https://www.adorebeauty.com.au/?app=Shop/concern',
+        'https://www.adorebeauty.com.au/?app=Shop/category',
+        'https://www.adorebeauty.com.au/?app=BeautyIQ/Podcasts',
+        'https://www.adorebeauty.com.au/?app=BeautyIQ/Podcasts',
+        'https://www.adorebeauty.com.au/?app=Product&identifier=the-ordinary-hyaluronic-acid-2-b5-60ml',
+        'https://www.adorebeauty.com.au/?app=Product&identifier=estee-lauder-double-wear-makeup',
+
+        '--reset password--',
+        'https://www.adorebeauty.com.au/account/resetpassword?token=931da3922a5a4c1f36bcc72c40a4f39adcb8f81dc5d65e18dc3c024a4e7c36c2&email=philip.andrews@gmail.com',
+        '--search--',
+        'https://www.adorebeauty.com.au/results?q=hair',
+        'https://staging.adorebeauty.com.au/results?q=eye%20of%20horus',
+
+        '--category--',
+        'https://www.adorebeauty.com.au/skin-care.html' ,
+        'https://www.adorebeauty.com.au/c/skin-care.html',
+        'https://www.adorebeauty.com.au/c/skin-care/moisturisers.html',
+        'https://www.adorebeauty.com.au/c/skin-care/moisturisers/night.html',
+        'https://www.adorebeauty.com.au/skin-care/moisturisers/night.html',
+        'https://www.adorebeauty.com.au/c/make-up.html',
+        'https://www.adorebeauty.com.au/c/not-found-url.html',
+        'https://www.adorebeauty.com.au/c/skin-care.html?skin_concern=23899,23893&choices=28374',
+        'https://www.adorebeauty.com.au/c/fragrance.html?manufacturer=5869,10922,6689&order=price%26dir%3Dasc',
+
+        '--brand--',
+        'https://www.adorebeauty.com.au/estee-lauder.html',
+        'https://www.adorebeauty.com.au/b/estee-lauder.html',
+        'https://www.adorebeauty.com.au/ultra-violette.html',
+        'https://www.adorebeauty.com.au/b/ultra-violette.html',
+        'https://www.adorebeauty.com.au/b/not-found-url/',
+
+        '--product--',
+        'https://www.adorebeauty.com.au/estee-lauder/estee-lauder-double-wear-makeup.html',
+        ['https://www.adorebeauty.com.au/p/estee-lauder/estee-lauder-double-wear-makeup.html', '/p/ product'],
+        'https://www.adorebeauty.com.au/sand.html?empi=xxx&sku=1G5Y360000',
+        'https://www.adorebeauty.com.au/bone.html?empi=xxx&sku=1G5Y660000',
+        ['https://www.adorebeauty.com.au/541178.html','parent product_id'], // product_id
+        ['https://www.adorebeauty.com.au/562293.html?sku=M2LPJK0000', 'child_id'], //child id
+        ['https://www.adorebeauty.com.au/none.html?empi=12752', 'BC product_id Estee Lauder Double wear'], //parent with child sku
+        ['https://www.adorebeauty.com.au/none.html?empi=xxx&sku=1G5Y660000', 'sku query'], //parent with child sku
+        ['https://www.adorebeauty.com.au/p/541178.html', 'p product_id'], //parent with child sku
+        ['https://www.adorebeauty.com.au/the-ordinary/the-ordinary-hyaluronic-acid-2-b5-60ml.html', 'hyaluronic acid 2%'],
+        ['https://www.adorebeauty.com.au/p/the-ordinary/the-ordinary-hyaluronic-acid-2-b5-60ml.html', 'hyaluronic acid 2%'],
+        ['https://www.adorebeauty.com.au/1000273.html', 'hyaluronic acid 2%'],
+        ['https://www.adorebeauty.com.au/eleven-australia/eleven-miracle-hair-treatment.html', 'miracle-hair-treatment'],
+        ['https://www.adorebeauty.com.au/p/eleven-australia/eleven-miracle-hair-treatment.html', 'miracle-hair-treatment'],
+        ['https://www.adorebeauty.com.au/555794.html', 'miracle-hair-treatment'],
+        'https://www.adorebeauty.com.au/p/not-found-url.html',
+        ['https://www.adorebeauty.com.au/404.html', 'not found product_id'],
+        ['https://www.adorebeauty.com.au/none.html?empi=xxx&sku=404', 'not found sku query'],
+
+        '--article--',
+        ['https://www.adorebeauty.com.au/skin-care/guide/best-skin-care-products-for-40-year-olds-australia', '10 things ive learned'],
+        ['https://www.adorebeauty.com.au/beautyiq/skin-care/best-skin-care-products-for-40-year-olds-australia/', '10 things ive learned'],
+        'https://www.adorebeauty.com.au/beautyiq/skin-care/best-skincare-routine-under-100/',
+        'https://www.adorebeauty.com.au/the-ordinary/guide/the-ordinary-skincare-guide-what-product-is-right-for-me',
+        'https://www.adorebeauty.com.au/beautyiq/hair/how-to-curl-short-hair/',
+        'https://www.adorebeauty.com.au/beautyiq/not-found-url/',
+        'https://www.adorebeauty.com.au/beautyiq/clarins/clarins-lip-comfort-oil-review/',
+
+        '--other--',
+        'https://www.adorebeauty.com.au/new-arrivals.html?dir=desc&order=news_from_date',
+        'https://www.adorebeauty.com.au/shipping.html',
+        'https://www.adorebeauty.com.au/skinceuticals-giveaway.html',
+
+        '--appScreenPath',
+        'https://www.adorebeauty.com.au/anything.html?appScreenPath=Product&identifier=estee-lauder-double-wear-makeup',
+        'https://www.adorebeauty.com.au/anything.html?appScreenPath=MainTab/Shop/ShopCategoryProducts&url=skin-care',
+        'https://www.adorebeauty.com.au/beautyiq/podcasts/episode-50-a-dietitian-spills-the-tea-on-superfoods/?appScreenPath=BeautyIQPodcastEpisode&url=https://omny.fm/shows/beauty-iq-uncensored/q-does-cutting-your-hair-make-it-grow-faster',
+        'https://www.adorebeauty.com.au/beautyiq?appScreenPath=BeautyIQPodcastEpisode&url=https://omny.fm/shows/beauty-iq-uncensored/q-does-cutting-your-hair-make-it-grow-faster',
+
+
+
+
+        '--podcasts--',
+        'https://www.adorebeauty.com.au/beautyiq?appScreenPath=BeautyIQPodcastEpisode&url=https://omny.fm/shows/beauty-iq-uncensored/we-tried-the-huda-beauty-range-heres-what-we-thoug',
+        'https://www.adorebeauty.com.au/beautyiq?appScreenPath=BeautyIQPodcastEpisode&url=https://omny.fm/shows/beauty-iq-uncensored/q-does-cutting-your-hair-make-it-grow-faster',
+        'https://www.adorebeauty.com.au/beautyiq/podcasts/episode-50-a-dietitian-spills-the-tea-on-superfoods/',
+
+        '--beautyiq category--',
+        'https://www.adorebeauty.com.au/beautyiq/category/skincare/',
+        'https://www.adorebeauty.com.au/beautyiq/category/fragrance/',
+        'https://www.adorebeauty.com.au/beautyiq/category/makeup/',
+        'https://www.adorebeauty.com.au/beautyiq/category/feature/',
+        'https://www.adorebeauty.com.au/skin-care/routines.html',
+        'https://www.adorebeauty.com.au/make-up/routines.html',
+
+
+
+        '--live video--',
+        'https://www.adorebeauty.com.au/beautyiq/videos/adorebeauty-live/?socialMediaLiveshopping=Facebook&fbclid=IwAR1vVCpzHB4LLP4_rYpTPkmgmfvrFOXtrhzGZJt26pG67wpALv9RZdAB7w8#liveshopping-7UoHweFuNL0UXpeA7bSM',
+        '--youtube--',
+        'https://www.adorebeauty.com.au/beautyiq/videos/video-how-to-switch-to-natural-deodorant/',
+        '--in app browser url-- [&browser=inapp]',
+        'https://www.adorebeauty.com.au/beautyiq/videos/adorebeauty-live/?browser=inapp',
+        '--native browser url [&browser=external]--',
+        'https://www.adorebeauty.com.au/beautyiq/videos/adorebeauty-live/?browser=external&socialMediaLiveshopping=Facebook',
+        '----',
+        'https://www.adorebeauty.com.au/skin-care/neck-care.html',
+        'http://www.adorebeauty.com.au/estee-lauder/estee-lauder-double-wear-makeup.html',
+        'https://www.adorebeauty.com.au/estee-lauder/estee-lauder-double-wear-makeup.html?istCompanyId=6e5a22db-9648-4be9-b321-72cfbea93443&istFeedId=686e45b5-4634-450f-baaf-c93acecca972&istItemId=wppapattm&istBid=tztx&gclid=Cj0KCQjws4aKBhDPARIsAIWH0JWUDdOSaaKTl8bczAmjneb2_qIi9Aqvjj8Rfkwum4zeNve7AzuWcpgaAsdaEALw_wcB',
+        '----',
+        'https://www.adorebeauty.com.au/skin-care/cosmeceuticals/ahas.html' ,
+        'https://www.adorebeauty.com.au/ultra-violette.html' ,
+        'https://www.adorebeauty.com.au/ultra-violette/ultra-violette-queen-screen-spf-50-50ml.html' ,
+        'https://www.adorebeauty.com.au/results?q=olaplex',
+        '----',
+        'https://staging.adorebeauty.com.au/skin-care/neck-care.html',
+        'http://staging.adorebeauty.com.au/estee-lauder/estee-lauder-double-wear-makeup.html',
+        'https://staging.adorebeauty.com.au/estee-lauder/estee-lauder-double-wear-makeup.html?istCompanyId=6e5a22db-9648-4be9-b321-72cfbea93443&istFeedId=686e45b5-4634-450f-baaf-c93acecca972&istItemId=wppapattm&istBid=tztx&gclid=Cj0KCQjws4aKBhDPARIsAIWH0JWUDdOSaaKTl8bczAmjneb2_qIi9Aqvjj8Rfkwum4zeNve7AzuWcpgaAsdaEALw_wcB',
+
+      ]
+    )
+
+  </script>
+</ul>
+
+firebase dynamic links
+<ul>
+  <script>
+    writeLinks([
+      'https://app.adorebeauty.com.au/dl/?link=https%3A%2F%2Fwww%2Eadorebeauty%2Ecom%2Eau%2Fbeautyiq%2Fskin%2Dcare%2Fbest%2Dskin%2Dcare%2Dproducts%2Dadore%2Dbeauty%2F',
+      'https://app.adorebeauty.com.au/dl/?link=https%3A%2F%2Fwww%2Eadorebeauty%2Ecom%2Eau%2Fjuliette%2Dhas%2Da%2Dgun%2Fjuliette%2Dhas%2Da%2Dgun%2Dnot%2Da%2Dgift%2Dset%2D100ml%2Dedp%2D7%2D5ml%2Dtravel%2Dspray%2Ehtml'
+    ])
+  </script>
+</ul>
+
+branch deep links
+<ul>
+  <script>
+    writeLinks(
+      [
+        'https://adorebeauty.app.link/wEUFG52dQkb', //search
+        'https://adorebeauty.app.link/rOF3cy7dQkb', //skin-care
+        'https://adorebeauty.app.link/ctRphsceQkb', //product
+        'https://adorebeauty.app.link/ctRphsceQkb?$uri_redirect_mode=2', //cold link
+        'https://adorebeauty.app.link/ctRphsceQkb?$ios_nativelink=true', //native link 1
+        'https://adorebeauty.app.link/79xfNkRJslb', //native link 2
+      ]
+    )
+
+  </script>
+</ul>
+
+Staging Partnerize deep links
+<ul>
+  <script>
+    writeLinks(
+      [
+        'https://adorebeauty.prf.hn/click/camref:1101ldc22/destination:https://staging.adorebeauty.com.au/',
+        'https://adorebeauty.prf.hn/click/camref:1101ldc22/destination:https://staging.adorebeauty.com.au/estee-lauder/estee-lauder-double-wear-makeup.html',
+        'https://adorebeauty.prf.hn/click/camref:1101ldc22/destination:https://staging.adorebeauty.com.au/skinstitut/skinstitut-glycolic-scrub-14.html',
+      ]
+    )
+
+  </script>
+</ul>
+
+Production Partnerize deep links
+<ul>
+  <script>
+    writeLinks(
+      [
+        'https://adorebeauty.prf.hn/click/camref:1101ldc22',
+        'https://adorebeauty.prf.hn/click/camref:1101ldc22/destination:https://adorebeauty.com.au/estee-lauder/estee-lauder-double-wear-makeup.html'
+      ]
+    )
+
+  </script>
+</ul>
+
+
+uri scheme
+<ul>
+  <script>
+    writeLinks(
+      [
+        'au.com.adorebeauty.shop://', //post
+        'au.com.adorebeauty.shop://skin-care' //skin-care
+      ]
+    )
+
+  </script>
+</ul>
+
+<style>
+  html{
+    font-size: 16px;
+  }
+  ul{
+    margin-left: 0;
+    padding-left: 20px;
+  }
+  li{
+    margin-left: 0;
+    margin-bottom: 8px;
+    font-size:13px;
+  }
+  li a {
+  }
+  form input{
+    font-size:16px;
+  }
+  form button{
+    font-size:14px;
+  }
+</style>
+</body>
+</html>

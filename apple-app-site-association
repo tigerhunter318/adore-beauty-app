@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "2CPATZFLN3.au.com.adorebeauty.shop",
+        "paths": [
+          "/customer/account/resetpassword*"
+          "/account/resetpassword*"
+        ]
+      }
+    ]
+  }
+}

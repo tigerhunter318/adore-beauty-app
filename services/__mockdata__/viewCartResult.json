@@ -1,0 +1,36 @@
+{
+  "name": "VIEW_CART",
+  "contentItems": [
+    {
+      "ident": "MOCK-IDENT"
+    },
+    {
+      "ident": "MOCK-IDENT"
+    },
+    {
+      "ident": "MOCK-IDENT"
+    }
+  ],
+  "transactionID": null,
+  "currency": "AUD",
+  "revenue": null,
+  "shipping": null,
+  "tax": null,
+  "coupon": null,
+  "affiliation": null,
+  "description": null,
+  "searchQuery": null,
+  "customData": {
+    "customer_id": "26980",
+    "product_brand": "The Ordinary,SkinCeuticals,,",
+    "product_category": "Skin Care,Moisturisers,Brand,Skincare Concerns,The Ordinary,Moisturiser & Oils,Oily Skin,Skincare for Combination Skin,Targets Dehydration,Targets Sensitivity,Skin Care,Serums & Treatments,Brand,SkinCeuticals,Serums & Treatments,Vitamin C,Skincare Concerns,Skincare for Dry Skin,Anti-Ageing Skincare,Pigmentation Correction,Anti-Ageing and Retinol Serums,Pigmentation Serums,Antioxidant and Brightening Serums,Vitamin C Serums,Skincare for Combination Skin,Skincare for Normal Skin,Cosmeceuticals,Vitamin C,,",
+    "product_id": "674269,5232,957669,35106",
+    "product_name": "The Ordinary Natural Moisturizing Factors + HA 100ml,SkinCeuticals C E Ferulic Serum - 30ml,1 Free Sample,APH155GWP - Alpha-H Mystery Vitamin Sachet 1.5ml Gift With Purchase",
+    "product_price": "12.9,182.4,0,0",
+    "product_quantity": "5,5,1,1",
+    "product_sku": "769915193657,S1107900,2-free-samples,APH155GWP",
+    "cart_total_items": "4",
+    "cart_total_value": "976.5"
+  },
+  "alias": null
+}

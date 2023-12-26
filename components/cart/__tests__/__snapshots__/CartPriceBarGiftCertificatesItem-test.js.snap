@@ -1,0 +1,219 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CartPriceBarGiftCertificatesItem renders content 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Object {},
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "marginBottom": 30,
+          "marginTop": 10,
+        },
+        Array [
+          Object {
+            "height": 2,
+            "marginLeft": "auto",
+            "marginRight": "auto",
+          },
+          Object {
+            "backgroundColor": "#E1DFDF",
+          },
+          Object {
+            "width": "100%",
+          },
+          Object {
+            "backgroundColor": "#E1DFDF",
+            "height": 1,
+            "marginBottom": 0,
+            "marginTop": 5,
+          },
+        ],
+      ]
+    }
+  />
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "flexDirection": "row",
+        },
+        Object {},
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "space-between",
+            "paddingBottom": 15,
+            "paddingRight": 10,
+            "paddingTop": 15,
+          },
+          Object {},
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+            },
+            Object {
+              "width": "90%",
+            },
+          ]
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          ellipsizeMode="middle"
+          numberOfLines={1}
+          style={
+            Array [
+              Object {
+                "fontFamily": "Montserrat-SemiBold",
+              },
+              Array [
+                Object {
+                  "fontSize": 11,
+                  "letterSpacing": 1,
+                  "paddingHorizontal": 2,
+                  "textTransform": "uppercase",
+                },
+                Object {
+                  "width": "48%",
+                },
+              ],
+            ]
+          }
+        >
+          4P9-KO9-7B7-93A
+        </Text>
+        <Text
+          allowFontScaling={false}
+          numberOfLines={1}
+          style={
+            Array [
+              Object {
+                "fontFamily": "Montserrat-SemiBold",
+              },
+              Array [
+                Object {
+                  "fontSize": 11,
+                  "letterSpacing": 1,
+                  "paddingHorizontal": 2,
+                  "textTransform": "uppercase",
+                },
+                Object {
+                  "width": "37%",
+                },
+              ],
+            ]
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "color": "#BCBCBC",
+                  "fontFamily": "Montserrat-Regular",
+                },
+                undefined,
+              ]
+            }
+          >
+            bal 
+          </Text>
+           $
+          1000000
+        </Text>
+        <Text
+          allowFontScaling={false}
+          numberOfLines={1}
+          style={
+            Array [
+              Object {
+                "fontFamily": "Montserrat-SemiBold",
+              },
+              Object {
+                "fontSize": 11,
+                "letterSpacing": 1,
+                "paddingHorizontal": 2,
+                "textTransform": "uppercase",
+              },
+            ]
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "color": "#BCBCBC",
+                  "fontFamily": "Montserrat-Regular",
+                },
+                undefined,
+              ]
+            }
+          >
+            exp 
+          </Text>
+           
+          14/09/27
+        </Text>
+      </View>
+    </View>
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "height": 50,
+          "opacity": 1,
+          "paddingLeft": 20,
+        }
+      }
+    >
+      <Icon
+        color="#000000"
+        name="close"
+        size={20}
+        style={
+          Array [
+            Object {
+              "right": -5,
+              "top": -2,
+            },
+            Object {
+              "right": 3,
+              "top": 15,
+            },
+          ]
+        }
+        type="material"
+      />
+    </View>
+  </View>
+</View>
+`;

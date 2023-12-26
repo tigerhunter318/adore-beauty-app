@@ -1,0 +1,2819 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RichTextContent renders for alterna-air-dry-balm-review block 0 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Object {},
+    ]
+  }
+>
+  <View>
+    <Text
+      allowFontScaling={false}
+      mb={2}
+      mt={2}
+      style={
+        Array [
+          Object {
+            "fontFamily": "Montserrat-SemiBold",
+            "marginBottom": 20,
+            "marginTop": 20,
+            "textAlign": "center",
+          },
+          Array [
+            Object {
+              "fontSize": 23,
+              "lineHeight": 24,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-SemiBold",
+            },
+            undefined,
+          ]
+        }
+      >
+        Air-drying hair or letting your hair dry naturally is one of those beauty things that sounds great... in theory.
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.3,
+          "lineHeight": 24,
+          "marginBottom": 16,
+          "marginTop": 10,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            Array [
+              Object {
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+              },
+              undefined,
+              Object {
+                "color": "#404040",
+                "textAlign": "left",
+              },
+            ],
+          ]
+        }
+      >
+        The pros? Less heat styling, less hassle.
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.3,
+          "lineHeight": 24,
+          "marginBottom": 16,
+          "marginTop": 10,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            Array [
+              Object {
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+              },
+              undefined,
+              Object {
+                "color": "#404040",
+                "textAlign": "left",
+              },
+            ],
+          ]
+        }
+      >
+        The cons? Extra frizz, and sometimes, our natural hair texture left to its own devices can go a bit wild.
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.3,
+          "lineHeight": 24,
+          "marginBottom": 16,
+          "marginTop": 10,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            Array [
+              Object {
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+              },
+              undefined,
+              Object {
+                "color": "#404040",
+                "textAlign": "left",
+              },
+            ],
+          ]
+        }
+      >
+        Drying your hair naturally, sans frizz, is even harder in humid climates.
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.3,
+          "lineHeight": 24,
+          "marginBottom": 16,
+          "marginTop": 10,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            Array [
+              Object {
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+              },
+              undefined,
+              Object {
+                "color": "#404040",
+                "textAlign": "left",
+              },
+            ],
+          ]
+        }
+      >
+        Remember what happened to Monica in
+      </Text>
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Italic",
+            },
+            Array [
+              undefined,
+              Object {
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+              },
+            ],
+          ]
+        }
+      >
+         
+        Friends
+         
+      </Text>
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            Array [
+              Object {
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+              },
+              undefined,
+              Object {
+                "color": "#404040",
+                "textAlign": "left",
+              },
+            ],
+          ]
+        }
+      >
+        when they went to Barbados?
+      </Text>
+    </Text>
+  </View>
+  <react-native-modal
+    animationInTiming={10}
+    animationOutTiming={100}
+    backdropColor="#FFFFFF"
+    backdropOpacity={1}
+    easing="ease-in"
+    hideModalContentWhileAnimating={true}
+    isVisible={false}
+    onBackdropPress={[Function]}
+    onModalHide={[Function]}
+    style={
+      Array [
+        Object {
+          "paddingBottom": 40,
+          "paddingTop": 40,
+        },
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "margin": 0,
+          "paddingBottom": 0,
+          "paddingTop": 0,
+        },
+        false,
+      ]
+    }
+    useNativeDriver={true}
+    useNativeDriverForBackdrop={true}
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "white",
+            "flex": 1,
+            "justifyContent": "space-between",
+          },
+          Array [
+            Object {},
+            Object {},
+          ],
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+            "position": "absolute",
+            "right": 2,
+            "top": 40,
+            "zIndex": 9,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "justifyContent": "center",
+              },
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "rgba(255, 255, 255, 0.70)",
+                  "borderRadius": 30,
+                  "height": 56,
+                  "justifyContent": "center",
+                  "width": 56,
+                },
+                Object {},
+              ],
+            ]
+          }
+        >
+          <Icon
+            color="#000000"
+            name="close"
+            size={27}
+            type="material"
+          />
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "flex": 1,
+                "width": "100%",
+              },
+              Object {},
+            ],
+          ]
+        }
+      >
+        <View
+          onMoveShouldSetResponder={[Function]}
+          onMoveShouldSetResponderCapture={[Function]}
+          onResponderEnd={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderReject={[Function]}
+          onResponderRelease={[Function]}
+          onResponderStart={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          onStartShouldSetResponderCapture={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "transparent",
+              "height": 1334,
+              "justifyContent": "center",
+              "overflow": "hidden",
+              "paddingTop": 0,
+              "width": 750,
+            }
+          }
+        >
+          <View
+            collapsable={false}
+            renderToHardwareTextureAndroid={true}
+            style={
+              Object {
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                  Object {
+                    "translateX": 0,
+                  },
+                  Object {
+                    "translateY": 0,
+                  },
+                ],
+              }
+            }
+          >
+            <View
+              onLayout={[Function]}
+              style={
+                Object {
+                  "height": 1334,
+                  "width": 750,
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </View>
+  </react-native-modal>
+</View>
+`;
+
+exports[`RichTextContent renders for alterna-air-dry-balm-review block 2 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Object {},
+    ]
+  }
+>
+  <View>
+    <Text
+      allowFontScaling={false}
+      mb={2}
+      mt={2}
+      style={
+        Array [
+          Object {
+            "fontFamily": "Montserrat-SemiBold",
+            "marginBottom": 20,
+            "marginTop": 20,
+            "textAlign": "center",
+          },
+          Array [
+            Object {
+              "fontSize": 23,
+              "lineHeight": 24,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-SemiBold",
+            },
+            undefined,
+          ]
+        }
+      >
+        It's for these reasons Beauty IQ Uncensored podcast co-host Hannah Furst gave the Alterna Hair My Hair My Canvas Easy Does It Air-Dry Balm a whirl while travelling around Thailand.
+      </Text>
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-SemiBold",
+            },
+            undefined,
+          ]
+        }
+      >
+        But did this hair product for curly and wavy hair work? 
+      </Text>
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-SemiBold",
+            },
+            undefined,
+          ]
+        }
+      >
+        Well, Hannah was taken aback
+      </Text>
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-SemiBold",
+            },
+            undefined,
+          ]
+        }
+      >
+        If you're searching for a product for curly hair
+      </Text>
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-SemiBold",
+            },
+            undefined,
+          ]
+        }
+      >
+        Keep scrolling for this Alterna air dry balm review.
+      </Text>
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-SemiBold",
+            },
+            undefined,
+          ]
+        }
+      >
+         
+      </Text>
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-SemiBold",
+            },
+            undefined,
+          ]
+        }
+      >
+        What Is the Alterna Air Dry Balm?
+      </Text>
+    </Text>
+  </View>
+  <react-native-modal
+    animationInTiming={10}
+    animationOutTiming={100}
+    backdropColor="#FFFFFF"
+    backdropOpacity={1}
+    easing="ease-in"
+    hideModalContentWhileAnimating={true}
+    isVisible={false}
+    onBackdropPress={[Function]}
+    onModalHide={[Function]}
+    style={
+      Array [
+        Object {
+          "paddingBottom": 40,
+          "paddingTop": 40,
+        },
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "margin": 0,
+          "paddingBottom": 0,
+          "paddingTop": 0,
+        },
+        false,
+      ]
+    }
+    useNativeDriver={true}
+    useNativeDriverForBackdrop={true}
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "white",
+            "flex": 1,
+            "justifyContent": "space-between",
+          },
+          Array [
+            Object {},
+            Object {},
+          ],
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+            "position": "absolute",
+            "right": 2,
+            "top": 40,
+            "zIndex": 9,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "justifyContent": "center",
+              },
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "rgba(255, 255, 255, 0.70)",
+                  "borderRadius": 30,
+                  "height": 56,
+                  "justifyContent": "center",
+                  "width": 56,
+                },
+                Object {},
+              ],
+            ]
+          }
+        >
+          <Icon
+            color="#000000"
+            name="close"
+            size={27}
+            type="material"
+          />
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "flex": 1,
+                "width": "100%",
+              },
+              Object {},
+            ],
+          ]
+        }
+      >
+        <View
+          onMoveShouldSetResponder={[Function]}
+          onMoveShouldSetResponderCapture={[Function]}
+          onResponderEnd={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderReject={[Function]}
+          onResponderRelease={[Function]}
+          onResponderStart={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          onStartShouldSetResponderCapture={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "transparent",
+              "height": 1334,
+              "justifyContent": "center",
+              "overflow": "hidden",
+              "paddingTop": 0,
+              "width": 750,
+            }
+          }
+        >
+          <View
+            collapsable={false}
+            renderToHardwareTextureAndroid={true}
+            style={
+              Object {
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                  Object {
+                    "translateX": 0,
+                  },
+                  Object {
+                    "translateY": 0,
+                  },
+                ],
+              }
+            }
+          >
+            <View
+              onLayout={[Function]}
+              style={
+                Object {
+                  "height": 1334,
+                  "width": 750,
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </View>
+  </react-native-modal>
+</View>
+`;
+
+exports[`RichTextContent renders for alterna-air-dry-balm-review block 4 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Object {},
+    ]
+  }
+>
+  <View>
+    <Text
+      allowFontScaling={false}
+      mb={2}
+      mt={2}
+      style={
+        Array [
+          Object {
+            "fontFamily": "Montserrat-SemiBold",
+            "marginBottom": 20,
+            "marginTop": 20,
+          },
+          Array [
+            Object {
+              "fontSize": 32,
+              "lineHeight": 32,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-SemiBold",
+            },
+            undefined,
+          ]
+        }
+      >
+        Alterna Hair My Hair My Canvas Easy Does It Air-Dry Balm is a styling balm for air-drying hair. Sounds like a miracle worker, right?
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.3,
+          "lineHeight": 24,
+          "marginBottom": 16,
+          "marginTop": 10,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            Array [
+              Object {
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+              },
+              undefined,
+              Object {
+                "color": "#404040",
+                "textAlign": "left",
+              },
+            ],
+          ]
+        }
+      >
+        The vegan and cruelty-free hydrating styling balm promises to work against frizz and enhance your hair's natural texture, while also reducing your drying time.
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.3,
+          "lineHeight": 24,
+          "marginBottom": 16,
+          "marginTop": 10,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            Array [
+              Object {
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+              },
+              undefined,
+              Object {
+                "color": "#404040",
+                "textAlign": "left",
+              },
+            ],
+          ]
+        }
+      >
+        Here are some other quick facts:
+      </Text>
+    </Text>
+    <View
+      style={
+        Array [
+          Object {
+            "paddingBottom": 10,
+            "paddingTop": 10,
+          },
+          Object {},
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "marginBottom": 10,
+              "paddingBottom": 5,
+              "paddingLeft": 20,
+              "paddingRight": 20,
+              "paddingTop": 5,
+            },
+            Object {},
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "position": "absolute",
+                "top": 8,
+              },
+            ]
+          }
+        >
+          <AdoreSvgIcon
+            color="#979797"
+            height={18}
+            name="check-item"
+            width={18}
+          />
+        </View>
+        <View
+          ml={1}
+          style={
+            Array [
+              Object {
+                "flex": 1,
+                "marginLeft": 10,
+              },
+              Object {},
+            ]
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Montserrat-Regular",
+                },
+                Array [
+                  Object {
+                    "fontSize": 16,
+                    "letterSpacing": 0.1,
+                    "lineHeight": 24,
+                  },
+                  undefined,
+                  Object {
+                    "color": "#404040",
+                    "textAlign": "left",
+                  },
+                ],
+              ]
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "fontFamily": "Montserrat-Regular",
+                  },
+                  undefined,
+                ]
+              }
+            >
+              It's for most hair types, but is best suited to curly and wavy hair, and those with medium to coarse hair who experience frizz while air-drying. 
+            </Text>
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "marginBottom": 10,
+              "paddingBottom": 5,
+              "paddingLeft": 20,
+              "paddingRight": 20,
+              "paddingTop": 5,
+            },
+            Object {},
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "position": "absolute",
+                "top": 8,
+              },
+            ]
+          }
+        >
+          <AdoreSvgIcon
+            color="#979797"
+            height={18}
+            name="check-item"
+            width={18}
+          />
+        </View>
+        <View
+          ml={1}
+          style={
+            Array [
+              Object {
+                "flex": 1,
+                "marginLeft": 10,
+              },
+              Object {},
+            ]
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Montserrat-Regular",
+                },
+                Array [
+                  Object {
+                    "fontSize": 16,
+                    "letterSpacing": 0.1,
+                    "lineHeight": 24,
+                  },
+                  undefined,
+                  Object {
+                    "color": "#404040",
+                    "textAlign": "left",
+                  },
+                ],
+              ]
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "fontFamily": "Montserrat-Regular",
+                  },
+                  undefined,
+                ]
+              }
+            >
+              The Alterna Hair My Hair My Canvas Easy Does It Air-Dry Balm is sustainable, not tested on animals and PETA approved. 
+            </Text>
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "marginBottom": 10,
+              "paddingBottom": 5,
+              "paddingLeft": 20,
+              "paddingRight": 20,
+              "paddingTop": 5,
+            },
+            Object {},
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "position": "absolute",
+                "top": 8,
+              },
+            ]
+          }
+        >
+          <AdoreSvgIcon
+            color="#979797"
+            height={18}
+            name="check-item"
+            width={18}
+          />
+        </View>
+        <View
+          ml={1}
+          style={
+            Array [
+              Object {
+                "flex": 1,
+                "marginLeft": 10,
+              },
+              Object {},
+            ]
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Montserrat-Regular",
+                },
+                Array [
+                  Object {
+                    "fontSize": 16,
+                    "letterSpacing": 0.1,
+                    "lineHeight": 24,
+                  },
+                  undefined,
+                  Object {
+                    "color": "#404040",
+                    "textAlign": "left",
+                  },
+                ],
+              ]
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "fontFamily": "Montserrat-Regular",
+                  },
+                  undefined,
+                ]
+              }
+            >
+              The bottles and tubes from the My Hair My Canvas range are all made of 50% post-consumer recycled plastic. 
+            </Text>
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "marginBottom": 10,
+              "paddingBottom": 5,
+              "paddingLeft": 20,
+              "paddingRight": 20,
+              "paddingTop": 5,
+            },
+            Object {},
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "position": "absolute",
+                "top": 8,
+              },
+            ]
+          }
+        >
+          <AdoreSvgIcon
+            color="#979797"
+            height={18}
+            name="check-item"
+            width={18}
+          />
+        </View>
+        <View
+          ml={1}
+          style={
+            Array [
+              Object {
+                "flex": 1,
+                "marginLeft": 10,
+              },
+              Object {},
+            ]
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Montserrat-Regular",
+                },
+                Array [
+                  Object {
+                    "fontSize": 16,
+                    "letterSpacing": 0.1,
+                    "lineHeight": 24,
+                  },
+                  undefined,
+                  Object {
+                    "color": "#404040",
+                    "textAlign": "left",
+                  },
+                ],
+              ]
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "fontFamily": "Montserrat-Regular",
+                  },
+                  undefined,
+                ]
+              }
+            >
+              The formula is SLS/SLES, sulfates phthalates, synthetic colour, gluten, mineral oil and formaldehydes free.
+            </Text>
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "marginBottom": 10,
+              "paddingBottom": 5,
+              "paddingLeft": 20,
+              "paddingRight": 20,
+              "paddingTop": 5,
+            },
+            Object {},
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "position": "absolute",
+                "top": 8,
+              },
+            ]
+          }
+        >
+          <AdoreSvgIcon
+            color="#979797"
+            height={18}
+            name="check-item"
+            width={18}
+          />
+        </View>
+        <View
+          ml={1}
+          style={
+            Array [
+              Object {
+                "flex": 1,
+                "marginLeft": 10,
+              },
+              Object {},
+            ]
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Montserrat-Regular",
+                },
+                Array [
+                  Object {
+                    "fontSize": 16,
+                    "letterSpacing": 0.1,
+                    "lineHeight": 24,
+                  },
+                  undefined,
+                  Object {
+                    "color": "#404040",
+                    "textAlign": "left",
+                  },
+                ],
+              ]
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "fontFamily": "Montserrat-Regular",
+                  },
+                  undefined,
+                ]
+              }
+            >
+              Contains
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "fontFamily": "Montserrat-Bold",
+                  },
+                  undefined,
+                ]
+              }
+            >
+               
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "fontFamily": "Montserrat-Regular",
+                  },
+                  undefined,
+                ]
+              }
+            >
+              vegan botanical caviar (also known as green caviar) to make hair feel more supple thanks to anti-inflammatory and water-retaining properties.
+            </Text>
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "marginBottom": 10,
+              "paddingBottom": 5,
+              "paddingLeft": 20,
+              "paddingRight": 20,
+              "paddingTop": 5,
+            },
+            Object {},
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "position": "absolute",
+                "top": 8,
+              },
+            ]
+          }
+        >
+          <AdoreSvgIcon
+            color="#979797"
+            height={18}
+            name="check-item"
+            width={18}
+          />
+        </View>
+        <View
+          ml={1}
+          style={
+            Array [
+              Object {
+                "flex": 1,
+                "marginLeft": 10,
+              },
+              Object {},
+            ]
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Montserrat-Regular",
+                },
+                Array [
+                  Object {
+                    "fontSize": 16,
+                    "letterSpacing": 0.1,
+                    "lineHeight": 24,
+                  },
+                  undefined,
+                  Object {
+                    "color": "#404040",
+                    "textAlign": "left",
+                  },
+                ],
+              ]
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "fontFamily": "Montserrat-Regular",
+                  },
+                  undefined,
+                ]
+              }
+            >
+              Prickly pear oil and water lily extract help enhance natural texture, strengthen hair, boost moisture retention, control frizz and add shine.
+            </Text>
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+  <react-native-modal
+    animationInTiming={10}
+    animationOutTiming={100}
+    backdropColor="#FFFFFF"
+    backdropOpacity={1}
+    easing="ease-in"
+    hideModalContentWhileAnimating={true}
+    isVisible={false}
+    onBackdropPress={[Function]}
+    onModalHide={[Function]}
+    style={
+      Array [
+        Object {
+          "paddingBottom": 40,
+          "paddingTop": 40,
+        },
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "margin": 0,
+          "paddingBottom": 0,
+          "paddingTop": 0,
+        },
+        false,
+      ]
+    }
+    useNativeDriver={true}
+    useNativeDriverForBackdrop={true}
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "white",
+            "flex": 1,
+            "justifyContent": "space-between",
+          },
+          Array [
+            Object {},
+            Object {},
+          ],
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+            "position": "absolute",
+            "right": 2,
+            "top": 40,
+            "zIndex": 9,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "justifyContent": "center",
+              },
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "rgba(255, 255, 255, 0.70)",
+                  "borderRadius": 30,
+                  "height": 56,
+                  "justifyContent": "center",
+                  "width": 56,
+                },
+                Object {},
+              ],
+            ]
+          }
+        >
+          <Icon
+            color="#000000"
+            name="close"
+            size={27}
+            type="material"
+          />
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "flex": 1,
+                "width": "100%",
+              },
+              Object {},
+            ],
+          ]
+        }
+      >
+        <View
+          onMoveShouldSetResponder={[Function]}
+          onMoveShouldSetResponderCapture={[Function]}
+          onResponderEnd={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderReject={[Function]}
+          onResponderRelease={[Function]}
+          onResponderStart={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          onStartShouldSetResponderCapture={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "transparent",
+              "height": 1334,
+              "justifyContent": "center",
+              "overflow": "hidden",
+              "paddingTop": 0,
+              "width": 750,
+            }
+          }
+        >
+          <View
+            collapsable={false}
+            renderToHardwareTextureAndroid={true}
+            style={
+              Object {
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                  Object {
+                    "translateX": 0,
+                  },
+                  Object {
+                    "translateY": 0,
+                  },
+                ],
+              }
+            }
+          >
+            <View
+              onLayout={[Function]}
+              style={
+                Object {
+                  "height": 1334,
+                  "width": 750,
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </View>
+  </react-native-modal>
+</View>
+`;
+
+exports[`RichTextContent renders for alterna-air-dry-balm-review block 12 with bullet list 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Object {},
+    ]
+  }
+>
+  <View>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.3,
+          "lineHeight": 24,
+          "marginBottom": 16,
+          "marginTop": 10,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        mb={4}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+              "marginBottom": 40,
+            },
+            Array [
+              Object {
+                "fontWeight": "700",
+              },
+              undefined,
+              Object {
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+              },
+            ],
+          ]
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            Array [
+              Object {
+                "fontFamily": "Montserrat-Bold",
+              },
+              undefined,
+            ]
+          }
+        >
+          What to read some other great articles on haircare for curly or wavy hair? Check out these helpful articles below: 
+        </Text>
+      </Text>
+    </Text>
+    <View
+      style={
+        Array [
+          Object {
+            "paddingBottom": 10,
+            "paddingTop": 10,
+          },
+          Object {},
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "marginBottom": 10,
+              "paddingBottom": 5,
+              "paddingLeft": 20,
+              "paddingRight": 20,
+              "paddingTop": 5,
+            },
+            Object {},
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "position": "absolute",
+                "top": 8,
+              },
+            ]
+          }
+        >
+          <AdoreSvgIcon
+            color="#979797"
+            height={18}
+            name="check-item"
+            width={18}
+          />
+        </View>
+        <View
+          ml={1}
+          style={
+            Array [
+              Object {
+                "flex": 1,
+                "marginLeft": 10,
+              },
+              Object {},
+            ]
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Montserrat-Regular",
+                },
+                Array [
+                  Object {
+                    "fontSize": 16,
+                    "letterSpacing": 0.1,
+                    "lineHeight": 24,
+                  },
+                  undefined,
+                  Object {
+                    "color": "#404040",
+                    "textAlign": "left",
+                  },
+                ],
+              ]
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              onPress={[Function]}
+              style={
+                Array [
+                  Object {
+                    "fontFamily": "Montserrat-Regular",
+                  },
+                  undefined,
+                ]
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": "#404040",
+                      "fontFamily": "Montserrat-Regular",
+                      "textDecorationLine": "underline",
+                    },
+                    Array [
+                      Object {
+                        "fontSize": 16,
+                        "letterSpacing": 0.1,
+                        "lineHeight": 24,
+                      },
+                      undefined,
+                    ],
+                  ]
+                }
+              >
+                The 8 Best Serums and Creams for Curly Hair 2022
+              </Text>
+               
+            </Text>
+            <Text
+              allowFontScaling={false}
+              style={
+                Array [
+                  Object {
+                    "fontFamily": "Montserrat-Bold",
+                  },
+                  undefined,
+                ]
+              }
+            >
+               
+            </Text>
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "marginBottom": 10,
+              "paddingBottom": 5,
+              "paddingLeft": 20,
+              "paddingRight": 20,
+              "paddingTop": 5,
+            },
+            Object {},
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "position": "absolute",
+                "top": 8,
+              },
+            ]
+          }
+        >
+          <AdoreSvgIcon
+            color="#979797"
+            height={18}
+            name="check-item"
+            width={18}
+          />
+        </View>
+        <View
+          ml={1}
+          style={
+            Array [
+              Object {
+                "flex": 1,
+                "marginLeft": 10,
+              },
+              Object {},
+            ]
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Montserrat-Regular",
+                },
+                Array [
+                  Object {
+                    "fontSize": 16,
+                    "letterSpacing": 0.1,
+                    "lineHeight": 24,
+                  },
+                  undefined,
+                  Object {
+                    "color": "#404040",
+                    "textAlign": "left",
+                  },
+                ],
+              ]
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              onPress={[Function]}
+              style={
+                Array [
+                  Object {
+                    "fontFamily": "Montserrat-Regular",
+                  },
+                  undefined,
+                ]
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": "#404040",
+                      "fontFamily": "Montserrat-Regular",
+                      "textDecorationLine": "underline",
+                    },
+                    Array [
+                      Object {
+                        "fontSize": 16,
+                        "letterSpacing": 0.1,
+                        "lineHeight": 24,
+                      },
+                      undefined,
+                    ],
+                  ]
+                }
+              >
+                A Hair Stylist Showed Me Exactly How to Fix Flyaways & Stop Frizzy Hair
+              </Text>
+            </Text>
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "marginBottom": 10,
+              "paddingBottom": 5,
+              "paddingLeft": 20,
+              "paddingRight": 20,
+              "paddingTop": 5,
+            },
+            Object {},
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "position": "absolute",
+                "top": 8,
+              },
+            ]
+          }
+        >
+          <AdoreSvgIcon
+            color="#979797"
+            height={18}
+            name="check-item"
+            width={18}
+          />
+        </View>
+        <View
+          ml={1}
+          style={
+            Array [
+              Object {
+                "flex": 1,
+                "marginLeft": 10,
+              },
+              Object {},
+            ]
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Montserrat-Regular",
+                },
+                Array [
+                  Object {
+                    "fontSize": 16,
+                    "letterSpacing": 0.1,
+                    "lineHeight": 24,
+                  },
+                  undefined,
+                  Object {
+                    "color": "#404040",
+                    "textAlign": "left",
+                  },
+                ],
+              ]
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              onPress={[Function]}
+              style={
+                Array [
+                  Object {
+                    "fontFamily": "Montserrat-Regular",
+                  },
+                  undefined,
+                ]
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": "#404040",
+                      "fontFamily": "Montserrat-Regular",
+                      "textDecorationLine": "underline",
+                    },
+                    Array [
+                      Object {
+                        "fontSize": 16,
+                        "letterSpacing": 0.1,
+                        "lineHeight": 24,
+                      },
+                      undefined,
+                    ],
+                  ]
+                }
+              >
+                The 10 Best Styling Products for Wavy Hair
+              </Text>
+            </Text>
+          </Text>
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+              "marginBottom": 10,
+              "paddingBottom": 5,
+              "paddingLeft": 20,
+              "paddingRight": 20,
+              "paddingTop": 5,
+            },
+            Object {},
+          ]
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+              Object {
+                "position": "absolute",
+                "top": 8,
+              },
+            ]
+          }
+        >
+          <AdoreSvgIcon
+            color="#979797"
+            height={18}
+            name="check-item"
+            width={18}
+          />
+        </View>
+        <View
+          ml={1}
+          style={
+            Array [
+              Object {
+                "flex": 1,
+                "marginLeft": 10,
+              },
+              Object {},
+            ]
+          }
+        >
+          <Text
+            allowFontScaling={false}
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Montserrat-Regular",
+                },
+                Array [
+                  Object {
+                    "fontSize": 16,
+                    "letterSpacing": 0.1,
+                    "lineHeight": 24,
+                  },
+                  undefined,
+                  Object {
+                    "color": "#404040",
+                    "textAlign": "left",
+                  },
+                ],
+              ]
+            }
+          >
+            <Text
+              allowFontScaling={false}
+              onPress={[Function]}
+              style={
+                Array [
+                  Object {
+                    "fontFamily": "Montserrat-Regular",
+                  },
+                  undefined,
+                ]
+              }
+            >
+              <Text
+                allowFontScaling={false}
+                style={
+                  Array [
+                    Object {
+                      "color": "#404040",
+                      "fontFamily": "Montserrat-Regular",
+                      "textDecorationLine": "underline",
+                    },
+                    Array [
+                      Object {
+                        "fontSize": 16,
+                        "letterSpacing": 0.1,
+                        "lineHeight": 24,
+                      },
+                      undefined,
+                    ],
+                  ]
+                }
+              >
+                6 Hair Masks for Rebonded Hair That Are *Actually* Worth the Money
+              </Text>
+            </Text>
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+  <react-native-modal
+    animationInTiming={10}
+    animationOutTiming={100}
+    backdropColor="#FFFFFF"
+    backdropOpacity={1}
+    easing="ease-in"
+    hideModalContentWhileAnimating={true}
+    isVisible={false}
+    onBackdropPress={[Function]}
+    onModalHide={[Function]}
+    style={
+      Array [
+        Object {
+          "paddingBottom": 40,
+          "paddingTop": 40,
+        },
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "margin": 0,
+          "paddingBottom": 0,
+          "paddingTop": 0,
+        },
+        false,
+      ]
+    }
+    useNativeDriver={true}
+    useNativeDriverForBackdrop={true}
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "white",
+            "flex": 1,
+            "justifyContent": "space-between",
+          },
+          Array [
+            Object {},
+            Object {},
+          ],
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+            "position": "absolute",
+            "right": 2,
+            "top": 40,
+            "zIndex": 9,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "justifyContent": "center",
+              },
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "rgba(255, 255, 255, 0.70)",
+                  "borderRadius": 30,
+                  "height": 56,
+                  "justifyContent": "center",
+                  "width": 56,
+                },
+                Object {},
+              ],
+            ]
+          }
+        >
+          <Icon
+            color="#000000"
+            name="close"
+            size={27}
+            type="material"
+          />
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "flex": 1,
+                "width": "100%",
+              },
+              Object {},
+            ],
+          ]
+        }
+      >
+        <View
+          onMoveShouldSetResponder={[Function]}
+          onMoveShouldSetResponderCapture={[Function]}
+          onResponderEnd={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderReject={[Function]}
+          onResponderRelease={[Function]}
+          onResponderStart={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          onStartShouldSetResponderCapture={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "transparent",
+              "height": 1334,
+              "justifyContent": "center",
+              "overflow": "hidden",
+              "paddingTop": 0,
+              "width": 750,
+            }
+          }
+        >
+          <View
+            collapsable={false}
+            renderToHardwareTextureAndroid={true}
+            style={
+              Object {
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                  Object {
+                    "translateX": 0,
+                  },
+                  Object {
+                    "translateY": 0,
+                  },
+                ],
+              }
+            }
+          >
+            <View
+              onLayout={[Function]}
+              style={
+                Object {
+                  "height": 1334,
+                  "width": 750,
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </View>
+  </react-native-modal>
+</View>
+`;
+
+exports[`RichTextContent renders for what-is-a-serum block 10 with inline image 1`] = `
+<View
+  style={
+    Array [
+      Object {},
+      Object {},
+    ]
+  }
+>
+  <View>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.3,
+          "lineHeight": 24,
+          "marginBottom": 16,
+          "marginTop": 10,
+        }
+      }
+    />
+    <Text
+      allowFontScaling={false}
+      mb={2}
+      mt={2}
+      style={
+        Array [
+          Object {
+            "fontFamily": "Montserrat-SemiBold",
+            "marginBottom": 20,
+            "marginTop": 20,
+          },
+          Array [
+            Object {
+              "fontSize": 28,
+              "lineHeight": 32,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-SemiBold",
+            },
+            undefined,
+          ]
+        }
+      >
+        1. Serums for Day Wear.
+      </Text>
+    </Text>
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "marginBottom": 20,
+          "marginTop": 20,
+          "opacity": 1,
+          "paddingHorizontal": 20,
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {},
+            undefined,
+          ]
+        }
+      >
+        <react-native-auto-height-image
+          source={
+            Object {
+              "uri": "https://images.ctfassets.net/pi28xy1s107o/fOZrF2yt2888zCWOyWNEO/032491c03f44182361bb0297f5f29bbb/57.png?fm=webp&w=650&h=650",
+            }
+          }
+          style={
+            Array [
+              Object {},
+            ]
+          }
+          width={675}
+        />
+      </View>
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "bottom": 10,
+            "opacity": 1,
+            "position": "absolute",
+            "right": 5,
+          }
+        }
+      >
+        <AdoreSvgIcon
+          align={true}
+          color="rgba(0,0,0,0.6)"
+          height={24}
+          name="ZoomIn"
+          width={38}
+        />
+      </View>
+    </View>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.3,
+          "lineHeight": 24,
+          "marginBottom": 16,
+          "marginTop": 10,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        mb={4}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+              "marginBottom": 40,
+            },
+            Array [
+              Object {
+                "fontWeight": "700",
+              },
+              undefined,
+              Object {
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+              },
+            ],
+          ]
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            Array [
+              Object {
+                "fontFamily": "Montserrat-Bold",
+              },
+              undefined,
+            ]
+          }
+        >
+          What it is:
+        </Text>
+      </Text>
+      <Text
+        allowFontScaling={false}
+        onPress={[Function]}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            undefined,
+          ]
+        }
+      >
+         
+        <Text
+          allowFontScaling={false}
+          style={
+            Array [
+              Object {
+                "color": "#404040",
+                "fontFamily": "Montserrat-Regular",
+                "textDecorationLine": "underline",
+              },
+              Array [
+                Object {
+                  "fontSize": 16,
+                  "letterSpacing": 0.1,
+                  "lineHeight": 24,
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          Revolution Skincare 12.5% Vitamin C Serum 30ml
+        </Text>
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.3,
+          "lineHeight": 24,
+          "marginBottom": 16,
+          "marginTop": 10,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        mb={4}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+              "marginBottom": 40,
+            },
+            Array [
+              Object {
+                "fontWeight": "700",
+              },
+              undefined,
+              Object {
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+              },
+            ],
+          ]
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            Array [
+              Object {
+                "fontFamily": "Montserrat-Bold",
+              },
+              undefined,
+            ]
+          }
+        >
+          Who it’s for:
+        </Text>
+      </Text>
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            Array [
+              Object {
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+              },
+              undefined,
+              Object {
+                "color": "#404040",
+                "textAlign": "left",
+              },
+            ],
+          ]
+        }
+      >
+        Anyone with dull skin.
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.3,
+          "lineHeight": 24,
+          "marginBottom": 16,
+          "marginTop": 10,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        mb={4}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+              "marginBottom": 40,
+            },
+            Array [
+              Object {
+                "fontWeight": "700",
+              },
+              undefined,
+              Object {
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+              },
+            ],
+          ]
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            Array [
+              Object {
+                "fontFamily": "Montserrat-Bold",
+              },
+              undefined,
+            ]
+          }
+        >
+          Why it’s so good:
+        </Text>
+      </Text>
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            Array [
+              Object {
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+              },
+              undefined,
+              Object {
+                "color": "#404040",
+                "textAlign": "left",
+              },
+            ],
+          ]
+        }
+      >
+        Got skin that needs a big reboot in the luminosity department? One of the benefits of using a serum like this one is an enviable lit-from-within glow.
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.3,
+          "lineHeight": 24,
+          "marginBottom": 16,
+          "marginTop": 10,
+        }
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Regular",
+            },
+            Array [
+              Object {
+                "fontSize": 16,
+                "letterSpacing": 0.1,
+                "lineHeight": 24,
+              },
+              undefined,
+              Object {
+                "color": "#404040",
+                "textAlign": "left",
+              },
+            ],
+          ]
+        }
+      >
+        High levels of vitamin C in the formula can also make your skin look smoother and juicier by stimulating collagen production. Pop this one on a few minutes before applying your niacinamide serum to allow the first serum to work to its full potential.
+      </Text>
+    </Text>
+    <Text
+      onLongPress={null}
+      onPress={null}
+      style={
+        Object {
+          "color": "#404040",
+          "fontSize": 16,
+          "letterSpacing": 0.3,
+          "lineHeight": 24,
+          "marginBottom": 16,
+          "marginTop": 10,
+        }
+      }
+    />
+  </View>
+  <react-native-modal
+    animationInTiming={10}
+    animationOutTiming={100}
+    backdropColor="#FFFFFF"
+    backdropOpacity={1}
+    easing="ease-in"
+    hideModalContentWhileAnimating={true}
+    isVisible={false}
+    onBackdropPress={[Function]}
+    onModalHide={[Function]}
+    style={
+      Array [
+        Object {
+          "paddingBottom": 40,
+          "paddingTop": 40,
+        },
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+          "margin": 0,
+          "paddingBottom": 0,
+          "paddingTop": 0,
+        },
+        false,
+      ]
+    }
+    useNativeDriver={true}
+    useNativeDriverForBackdrop={true}
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "white",
+            "flex": 1,
+            "justifyContent": "space-between",
+          },
+          Array [
+            Object {},
+            Object {},
+          ],
+        ]
+      }
+    >
+      <View
+        accessible={true}
+        collapsable={false}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+            "position": "absolute",
+            "right": 2,
+            "top": 40,
+            "zIndex": 9,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "justifyContent": "center",
+              },
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "rgba(255, 255, 255, 0.70)",
+                  "borderRadius": 30,
+                  "height": 56,
+                  "justifyContent": "center",
+                  "width": 56,
+                },
+                Object {},
+              ],
+            ]
+          }
+        >
+          <Icon
+            color="#000000"
+            name="close"
+            size={27}
+            type="material"
+          />
+        </View>
+      </View>
+      <View
+        style={
+          Array [
+            Object {},
+            Array [
+              Object {
+                "flex": 1,
+                "width": "100%",
+              },
+              Object {},
+            ],
+          ]
+        }
+      >
+        <View
+          onMoveShouldSetResponder={[Function]}
+          onMoveShouldSetResponderCapture={[Function]}
+          onResponderEnd={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderReject={[Function]}
+          onResponderRelease={[Function]}
+          onResponderStart={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          onStartShouldSetResponderCapture={[Function]}
+          style={
+            Object {
+              "alignItems": "center",
+              "backgroundColor": "transparent",
+              "height": 1334,
+              "justifyContent": "center",
+              "overflow": "hidden",
+              "paddingTop": 0,
+              "width": 750,
+            }
+          }
+        >
+          <View
+            collapsable={false}
+            renderToHardwareTextureAndroid={true}
+            style={
+              Object {
+                "transform": Array [
+                  Object {
+                    "scale": 1,
+                  },
+                  Object {
+                    "translateX": 0,
+                  },
+                  Object {
+                    "translateY": 0,
+                  },
+                ],
+              }
+            }
+          >
+            <View
+              onLayout={[Function]}
+              style={
+                Object {
+                  "height": 1334,
+                  "width": 750,
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </View>
+  </react-native-modal>
+</View>
+`;

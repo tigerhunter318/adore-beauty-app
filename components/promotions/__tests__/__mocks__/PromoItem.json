@@ -1,0 +1,67 @@
+{
+  "redeem_url": "/jo-loves.html",
+  "message": "<div>spend $90 or more on Jo Loves</div>",
+  "site_message": "<div>Your gift when you spend $90 or more on Jo Loves* While Stocks Last</div>",
+  "display_name": "Jo Loves Jo by Jo Loves 70g Candle*",
+  "id": 861,
+  "promotion_code_settings": [],
+  "promotion_rules": [
+    {
+      "promotion_rule_actions": [
+        {
+          "add_free_item": true,
+          "amount": 100,
+          "brands": [],
+          "categories": [],
+          "products": [
+            {
+              "product": {
+                "id": 30021,
+                "name": "Jo by Jo Loves Mini Candle 70g Gift With Purchase",
+                "description": "Jo by Jo Loves Mini Candle 70g Gift With Purchase",
+                "comestri_product_id": 81504,
+                "images": [
+                  {
+                    "image": {
+                      "url": "https://s3-ap-southeast-2.amazonaws.com/fusionfactory.commerceconnect.adorebeauty.production/pim_media/000/407/395/jo-by-jo-loves-promo-image.png?1651204440",
+                      "__typename": "images"
+                    },
+                    "__typename": "imageables"
+                  },
+                  {
+                    "image": {
+                      "url": "https://s3-ap-southeast-2.amazonaws.com/fusionfactory.commerceconnect.adorebeauty.production/pim_media/000/407/197/Generic_Promo_Image_Adore_Beauty_Logo.jpg?1651042422",
+                      "__typename": "images"
+                    },
+                    "__typename": "imageables"
+                  }
+                ],
+                "brands": [
+                  {
+                    "brand": {
+                      "image_link": "https://s3-ap-southeast-2.amazonaws.com/fusionfactory.commerceconnect.adorebeauty.production/pim_brand_logo/000/002/156/Jo_Loves_Logo_160_x_65.png?1632809846",
+                      "comestri_brand_id": 2156,
+                      "__typename": "brands"
+                    },
+                    "__typename": "productables_brand_view"
+                  }
+                ],
+                "__typename": "products"
+              },
+              "__typename": "promotion_action_product_view"
+            }
+          ],
+          "__typename": "promotion_rule_actions"
+        }
+      ],
+      "promotion_rule_conditions": [
+        {
+          "categories": [],
+          "__typename": "promotion_rule_conditions"
+        }
+      ],
+      "__typename": "promotion_rules"
+    }
+  ],
+  "__typename": "promotions"
+}

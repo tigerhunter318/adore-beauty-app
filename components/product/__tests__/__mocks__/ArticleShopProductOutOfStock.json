@@ -1,0 +1,24 @@
+{
+  "__typename": "Products",
+  "identifier": "pureology-color-fanatic-multi-tasking-leave-in-spray-200ml",
+  "product_id": 1068698,
+  "product_url": "https://www.adorebeauty.com.au/p/pureology/pureology-color-fanatic-multi-tasking-leave-in-spray-200ml.html",
+  "productImage": "https://www.adorebeauty.com.au/pim_media/000/160/398/Pureology_Color_Fanatic_Multi-Tasking_Leave-In_Spray_200ml_%28P1871900%29.png",
+  "productType": "simple",
+  "productSku": [
+     "P1871900"
+  ],
+  "name": "Pureology Color Fanatic Multi-Tasking Leave-In Spray 200ml",
+  "brand_name": "Pureology",
+  "has_special_price": 1,
+  "price": "36.76",
+  "oldPrice": "45.95",
+  "specialPrice": "36.76",
+  "reviewAverage": 4.2,
+  "reviewTotal": 28,
+  "cartProductId": 15764,
+  "isSalable": 0,
+  "inStock": 0,
+  "qty": 0,
+  "backorders": "Waitlist"
+}

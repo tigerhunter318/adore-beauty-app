@@ -1,0 +1,60 @@
+{
+  "redeem_url": "/boost-lab.html",
+  "message": "<div>Your gift when you buy 2 or more Boost lab products</div>",
+  "site_message": "<div>Your gift when you buy 2 or more Boost lab products* While Stocks Last</div>",
+  "display_name": "Boost Lab Hydro Boost Serum 10ml*",
+  "id": 838,
+  "promotion_code_settings": [],
+  "promotion_rules": [
+    {
+      "promotion_rule_actions": [
+        {
+          "add_free_item": true,
+          "amount": 100,
+          "brands": [],
+          "categories": [],
+          "products": [
+            {
+              "product": {
+                "id": 21172,
+                "name": "Boost Lab Hydro Boost Serum 10ml Gift With Purchase",
+                "description": "<span style=\"font-size: 14px;\">Boost Lab Hydro Boost Serum 10ml Gift With Purchase</span>",
+                "comestri_product_id": 77815,
+                "images": [
+                  {
+                    "image": {
+                      "url": "https://s3-ap-southeast-2.amazonaws.com/fusionfactory.commerceconnect.adorebeauty.production/pim_media/000/401/218/Boost-Lab-Promo-Hydro-Boost-Serum-10ml.png?1642469144",
+                      "__typename": "images"
+                    },
+                    "__typename": "imageables"
+                  }
+                ],
+                "brands": [
+                  {
+                    "brand": {
+                      "image_link": "https://s3-ap-southeast-2.amazonaws.com/fusionfactory.commerceconnect.adorebeauty.production/pim_brand_logo/000/001/364/Boost_Lab_Logo_Stacked_Black.png?1610417417",
+                      "comestri_brand_id": 1364,
+                      "__typename": "brands"
+                    },
+                    "__typename": "productables_brand_view"
+                  }
+                ],
+                "__typename": "products"
+              },
+              "__typename": "promotion_action_product_view"
+            }
+          ],
+          "__typename": "promotion_rule_actions"
+        }
+      ],
+      "promotion_rule_conditions": [
+        {
+          "categories": [],
+          "__typename": "promotion_rule_conditions"
+        }
+      ],
+      "__typename": "promotion_rules"
+    }
+  ],
+  "__typename": "promotions"
+}

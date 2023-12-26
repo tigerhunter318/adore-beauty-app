@@ -1,0 +1,12 @@
+{
+    "testEnvironment": "./environment",
+    "testRunner": "jest-circus/runner",
+    "testSequencer": "./testSequencer.js",
+    "testTimeout": 180000,
+    "testRegex": "\\.e2e\\.js$",
+    "reporters": [
+      "detox/runners/jest/streamlineReporter",
+      "jest-junit"
+    ],
+    "verbose": true
+}

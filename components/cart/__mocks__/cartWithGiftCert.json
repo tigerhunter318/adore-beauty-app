@@ -1,0 +1,471 @@
+{
+  "couponIds": [],
+  "backordersItems": [],
+  "request": {
+    "meta": {
+      "url": "ecommerce/gift_certificates?code=DS3-V39-9J5-ZBB",
+      "payload": {},
+      "method": {
+        "method": "get",
+        "headers": {
+        }
+      }
+    },
+    "pending": false,
+    "data": {
+      "id": 1972578,
+      "customer_id": "0",
+      "order_id": "0",
+      "code": "DS3-V39-9J5-ZBB",
+      "to_name": "Phil Andrews",
+      "to_email": "phil@frontside.com.au",
+      "from_name": "Adore Beauty",
+      "from_email": "service@adorebeauty.com.au",
+      "amount": "20.0000",
+      "balance": "20.0000",
+      "status": "active",
+      "template": "",
+      "message": "",
+      "purchase_date": "1685066734",
+      "expiry_date": "1716731999",
+      "currency_code": "AUD",
+      "start_date": 1685066720
+    }
+  },
+  "checkout": {
+    "id": "a759d395-bed9-447d-a5d1-5a69498dc31e",
+    "cart": {
+      "id": "a759d395-bed9-447d-a5d1-5a69498dc31e",
+      "customer_id": 80,
+      "channel_id": 1,
+      "email": "phil@frontside.com.au",
+      "currency": {
+        "code": "AUD"
+      },
+      "tax_included": true,
+      "base_amount": 316.15,
+      "discount_amount": 0,
+      "cart_amount_inc_tax": 316.15,
+      "cart_amount_ex_tax": 287.41,
+      "coupons": [],
+      "discounts": [
+        {
+          "id": "1221d0ec-6ef1-446c-b1fb-4edc4d4b2569",
+          "discounted_amount": 0
+        },
+        {
+          "id": "7b568be1-e7bb-4fa0-ae8a-26cdb8e9c488",
+          "discounted_amount": 0
+        },
+        {
+          "id": "64922fab-d5a4-4638-aa67-93b23ddffc4a",
+          "discounted_amount": 0
+        },
+        {
+          "id": "b6b9ab2c-b6f5-5f4c-be47-7a3d6d7c9527",
+          "discounted_amount": 0
+        }
+      ],
+      "line_items": {
+        "physical_items": [
+          {
+            "id": "1221d0ec-6ef1-446c-b1fb-4edc4d4b2569",
+            "parent_id": null,
+            "variant_id": 5170,
+            "product_id": 5205,
+            "sku": "110716",
+            "name": "110716 - Dermalogica MultiVitamin Power Recovery Masque",
+            "url": "https://www.adorebeauty.com.au/9664.html",
+            "quantity": 1,
+            "is_taxable": true,
+            "image_url": "https://cdn11.bigcommerce.com/s-61yxa1x1fw/products/5205/images/100031/png_multivitamin_power_recovery_masque__06607.1604377185.220.290.png?c=1",
+            "discounts": [],
+            "coupons": [],
+            "discount_amount": 0,
+            "coupon_amount": 0,
+            "original_price": 93.25,
+            "list_price": 93.25,
+            "sale_price": 93.25,
+            "extended_list_price": 93.25,
+            "extended_sale_price": 93.25,
+            "is_require_shipping": true,
+            "gift_wrapping": null,
+            "is_mutable": true
+          },
+          {
+            "id": "7b568be1-e7bb-4fa0-ae8a-26cdb8e9c488",
+            "parent_id": null,
+            "variant_id": 6718,
+            "product_id": 6753,
+            "sku": "111279",
+            "name": "111279 - Dermalogica Sound Sleep Cocoon Transformative Night Gel-Cream",
+            "url": "https://www.adorebeauty.com.au/703070.html",
+            "quantity": 1,
+            "is_taxable": true,
+            "image_url": "https://cdn11.bigcommerce.com/s-61yxa1x1fw/products/6753/images/116541/sound_sleep_cocoon__83705.1604385914.220.290.png?c=1",
+            "discounts": [],
+            "coupons": [],
+            "discount_amount": 0,
+            "coupon_amount": 0,
+            "original_price": 129.8,
+            "list_price": 129.8,
+            "sale_price": 129.8,
+            "extended_list_price": 129.8,
+            "extended_sale_price": 129.8,
+            "is_require_shipping": true,
+            "gift_wrapping": null,
+            "is_mutable": true
+          },
+          {
+            "id": "64922fab-d5a4-4638-aa67-93b23ddffc4a",
+            "parent_id": null,
+            "variant_id": 27939,
+            "product_id": 38636,
+            "sku": "111453",
+            "name": "111453 - Dermalogica Daily Milkfoliant",
+            "url": "https://www.adorebeauty.com.au/1190062.html",
+            "quantity": 1,
+            "is_taxable": true,
+            "image_url": "https://cdn11.bigcommerce.com/s-61yxa1x1fw/products/38636/images/152363/Dermalogica_Daily_Milkfoliant_hero__19133.1654848620.220.290.png?c=1",
+            "discounts": [],
+            "coupons": [],
+            "discount_amount": 0,
+            "coupon_amount": 0,
+            "original_price": 93.1,
+            "list_price": 93.1,
+            "sale_price": 93.1,
+            "extended_list_price": 93.1,
+            "extended_sale_price": 93.1,
+            "is_require_shipping": true,
+            "gift_wrapping": null,
+            "is_mutable": true
+          },
+          {
+            "id": "b6b9ab2c-b6f5-5f4c-be47-7a3d6d7c9527",
+            "parent_id": null,
+            "variant_id": 14457,
+            "product_id": 14492,
+            "sku": "2-free-samples",
+            "name": "2-free-samples - 2 Free Samples",
+            "url": "https://www.adorebeauty.com.au/957669.html",
+            "quantity": 1,
+            "is_taxable": true,
+            "image_url": "https://cdn11.bigcommerce.com/s-61yxa1x1fw/products/14492/images/95499/samples_png_1__54490.1604375578.220.290.jpg?c=1",
+            "discounts": [
+              {
+                "id": 20,
+                "discounted_amount": 0
+              }
+            ],
+            "coupons": [],
+            "discount_amount": 0,
+            "coupon_amount": 0,
+            "original_price": 0,
+            "list_price": 0,
+            "sale_price": 0,
+            "extended_list_price": 0,
+            "extended_sale_price": 0,
+            "is_require_shipping": true,
+            "gift_wrapping": null,
+            "is_mutable": false
+          }
+        ],
+        "digital_items": [],
+        "gift_certificates": [],
+        "custom_items": []
+      },
+      "created_time": "2023-05-26T02:17:21+00:00",
+      "updated_time": "2023-05-26T02:17:53+00:00"
+    },
+    "billing_address": {
+      "id": "647016b18a250",
+      "first_name": null,
+      "last_name": null,
+      "email": "phil@frontside.com.au",
+      "company": "",
+      "address1": null,
+      "address2": null,
+      "city": null,
+      "state_or_province": "",
+      "state_or_province_code": "",
+      "country": "",
+      "country_code": "",
+      "postal_code": null,
+      "phone": "",
+      "custom_fields": []
+    },
+    "consignments": [],
+    "taxes": [
+      {
+        "name": "GST",
+        "amount": 28.74
+      }
+    ],
+    "coupons": [],
+    "order_id": null,
+    "shipping_cost_total_inc_tax": 0,
+    "shipping_cost_total_ex_tax": 0,
+    "handling_cost_total_inc_tax": 0,
+    "handling_cost_total_ex_tax": 0,
+    "tax_total": 28.74,
+    "subtotal_inc_tax": 316.15,
+    "subtotal_ex_tax": 287.41,
+    "grand_total": 316.15,
+    "created_time": "2023-05-26T02:17:21+00:00",
+    "updated_time": "2023-05-26T02:17:53+00:00",
+    "customer_message": "",
+    "promotions": {
+      "banners": []
+    }
+  },
+  "cartItemsProductDetail": [
+    {
+      "__typename": "Products",
+      "product_id": 1190062,
+      "name": "Dermalogica Daily Milkfoliant",
+      "price": "93.1",
+      "productImage": "https://www.adorebeauty.com.au/pim_media/000/409/339/Dermalogica_Daily_Milkfoliant_hero.png",
+      "category_name": [
+        "Skin Care",
+        "Cosmeceuticals",
+        "Dermalogica",
+        "Exfoliants",
+        "Skincare Concerns",
+        "Skincare for Oily Skin",
+        "Skincare for Dry Skin",
+        "Skincare for Combination Skin",
+        "Skincare for Normal Skin",
+        "Cleansers & Scrubs",
+        "Face Scrubs & Exfoliating Cleansers",
+        "Serums & Treatments",
+        "Peels and Exfoliating Treatments",
+        "AHAs"
+      ],
+      "size": null,
+      "brand_name": "Dermalogica",
+      "productSku": [
+        "111453"
+      ],
+      "product_url": "https://www.adorebeauty.com.au/p/dermalogica/dermalogica-daily-milkfoliant.html",
+      "inStock": 1
+    },
+    {
+      "__typename": "Products",
+      "product_id": 703070,
+      "name": "Dermalogica Sound Sleep Cocoon Transformative Night Gel-Cream",
+      "price": "129.8",
+      "productImage": "https://www.adorebeauty.com.au/media/catalog/product/s/o/sound_sleep_cocoon.png",
+      "category_name": [
+        "Skin Care",
+        "Cosmeceuticals",
+        "Dermalogica",
+        "Moisturisers",
+        "Moisturisers",
+        "Night Cream",
+        "Serums & Treatments"
+      ],
+      "size": "50ml",
+      "brand_name": "Dermalogica",
+      "productSku": [
+        "111279"
+      ],
+      "product_url": "https://www.adorebeauty.com.au/p/dermalogica/dermalogica-transformative-night-gel-cream.html",
+      "inStock": 1
+    },
+    {
+      "__typename": "Products",
+      "product_id": 9664,
+      "name": "Dermalogica MultiVitamin Power Recovery Masque",
+      "price": "93.25",
+      "productImage": "https://www.adorebeauty.com.au/media/catalog/product/p/n/png_multivitamin_power_recovery_masque.png",
+      "category_name": [
+        "Skin Care",
+        "Cosmeceuticals",
+        "Dermalogica",
+        "AGE Smart",
+        "Masques",
+        "Skincare Concerns",
+        "Anti-Ageing Skincare",
+        "Skincare for Combination Skin",
+        "Skincare for Normal Skin",
+        "Anti-Pollution",
+        "Pigmentation Correction",
+        "Masks",
+        "Vitamin A/Retinol",
+        "Vitamin C",
+        "Vitamin B",
+        "Vitamin B Complexes",
+        "AHAs"
+      ],
+      "size": "75",
+      "brand_name": "Dermalogica",
+      "productSku": [
+        "110716"
+      ],
+      "product_url": "https://www.adorebeauty.com.au/p/dermalogica/dermalogica-multivitamin-power-recovery-masque.html",
+      "inStock": 1
+    },
+    {
+      "__typename": "Products",
+      "product_id": 957669,
+      "name": "2 Free Samples",
+      "price": "0",
+      "productImage": "https://www.adorebeauty.com.au/media/catalog/product/s/a/samples_png_1.png",
+      "category_name": null,
+      "size": null,
+      "brand_name": "Gift",
+      "productSku": [
+        "2-free-samples"
+      ],
+      "product_url": "https://www.adorebeauty.com.au/p/gift/2-free-samples.html",
+      "inStock": 1
+    }
+  ],
+  "billingAddress": null,
+  "orderConfirmation": null,
+  "addedToCartItems": [],
+  "promotionItems": [],
+  "promotions": [],
+  "paymentMethod": null,
+  "newBillingAddress": false,
+  "cartItemsInventory": [
+    {
+      "id": "1221d0ec-6ef1-446c-b1fb-4edc4d4b2569",
+      "parent_id": null,
+      "variant_id": 5170,
+      "product_id": 5205,
+      "sku": "110716",
+      "name": "110716 - Dermalogica MultiVitamin Power Recovery Masque",
+      "url": "https://www.adorebeauty.com.au/9664.html",
+      "quantity": 1,
+      "is_taxable": true,
+      "image_url": "https://cdn11.bigcommerce.com/s-61yxa1x1fw/products/5205/images/100031/png_multivitamin_power_recovery_masque__06607.1604377185.220.290.png?c=1",
+      "discounts": [],
+      "coupons": [],
+      "discount_amount": 0,
+      "coupon_amount": 0,
+      "original_price": 93.25,
+      "list_price": 93.25,
+      "sale_price": 93.25,
+      "extended_list_price": 93.25,
+      "extended_sale_price": 93.25,
+      "is_require_shipping": true,
+      "gift_wrapping": null,
+      "is_mutable": true,
+      "availability": "available",
+      "inventory_level": 127
+    },
+    {
+      "id": "7b568be1-e7bb-4fa0-ae8a-26cdb8e9c488",
+      "parent_id": null,
+      "variant_id": 6718,
+      "product_id": 6753,
+      "sku": "111279",
+      "name": "111279 - Dermalogica Sound Sleep Cocoon Transformative Night Gel-Cream",
+      "url": "https://www.adorebeauty.com.au/703070.html",
+      "quantity": 1,
+      "is_taxable": true,
+      "image_url": "https://cdn11.bigcommerce.com/s-61yxa1x1fw/products/6753/images/116541/sound_sleep_cocoon__83705.1604385914.220.290.png?c=1",
+      "discounts": [],
+      "coupons": [],
+      "discount_amount": 0,
+      "coupon_amount": 0,
+      "original_price": 129.8,
+      "list_price": 129.8,
+      "sale_price": 129.8,
+      "extended_list_price": 129.8,
+      "extended_sale_price": 129.8,
+      "is_require_shipping": true,
+      "gift_wrapping": null,
+      "is_mutable": true,
+      "availability": "available",
+      "inventory_level": 196
+    },
+    {
+      "id": "64922fab-d5a4-4638-aa67-93b23ddffc4a",
+      "parent_id": null,
+      "variant_id": 27939,
+      "product_id": 38636,
+      "sku": "111453",
+      "name": "111453 - Dermalogica Daily Milkfoliant",
+      "url": "https://www.adorebeauty.com.au/1190062.html",
+      "quantity": 1,
+      "is_taxable": true,
+      "image_url": "https://cdn11.bigcommerce.com/s-61yxa1x1fw/products/38636/images/152363/Dermalogica_Daily_Milkfoliant_hero__19133.1654848620.220.290.png?c=1",
+      "discounts": [],
+      "coupons": [],
+      "discount_amount": 0,
+      "coupon_amount": 0,
+      "original_price": 93.1,
+      "list_price": 93.1,
+      "sale_price": 93.1,
+      "extended_list_price": 93.1,
+      "extended_sale_price": 93.1,
+      "is_require_shipping": true,
+      "gift_wrapping": null,
+      "is_mutable": true,
+      "availability": "available",
+      "inventory_level": 167
+    },
+    {
+      "id": "b6b9ab2c-b6f5-5f4c-be47-7a3d6d7c9527",
+      "parent_id": null,
+      "variant_id": 14457,
+      "product_id": 14492,
+      "sku": "2-free-samples",
+      "name": "2-free-samples - 2 Free Samples",
+      "url": "https://www.adorebeauty.com.au/957669.html",
+      "quantity": 1,
+      "is_taxable": true,
+      "image_url": "https://cdn11.bigcommerce.com/s-61yxa1x1fw/products/14492/images/95499/samples_png_1__54490.1604375578.220.290.jpg?c=1",
+      "discounts": [
+        {
+          "id": 20,
+          "discounted_amount": 0
+        }
+      ],
+      "coupons": [],
+      "discount_amount": 0,
+      "coupon_amount": 0,
+      "original_price": 0,
+      "list_price": 0,
+      "sale_price": 0,
+      "extended_list_price": 0,
+      "extended_sale_price": 0,
+      "is_require_shipping": true,
+      "gift_wrapping": null,
+      "is_mutable": false,
+      "availability": "available",
+      "inventory_level": 95904
+    }
+  ],
+  "productPending": null,
+  "giftCertificates": [
+    {
+      "id": 1972578,
+      "customer_id": "0",
+      "order_id": "0",
+      "code": "DS3-V39-9J5-ZBB",
+      "to_name": "Phil Andrews",
+      "to_email": "phil@frontside.com.au",
+      "from_name": "Adore Beauty",
+      "from_email": "service@adorebeauty.com.au",
+      "amount": "20.0000",
+      "balance": "20.0000",
+      "status": "active",
+      "template": "",
+      "message": "",
+      "purchase_date": "1685066734",
+      "expiry_date": "26/05/24",
+      "currency_code": "AUD",
+      "start_date": 1685066720,
+      "sorting_date": "2024-05-26"
+    }
+  ],
+  "recentlyOrderedProducts": {},
+  "storeCredits": 25,
+  "paymentTypes": {},
+  "paymentCardDetails": {},
+  "customerOrders": {},
+  "checkoutOrder": null
+}

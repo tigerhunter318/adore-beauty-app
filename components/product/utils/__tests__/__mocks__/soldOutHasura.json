@@ -1,0 +1,42 @@
+{
+  "name":"Ultra Violette Queen Screen SPF 50+ Luminising Skinscreen Serum",
+  "product_id":16348,
+  "big_commerce_product_id":null,
+  "objectId":24340,
+  "description":null,
+  "ingredients":null,
+  "comestri_product_id":24340,
+  "magento_product_id":null,
+  "productImage":"/media/catalog/product/q/u/queen.png",
+  "productImages":[
+     "/media/catalog/product/q/u/queen.png"
+  ],
+  "short_description":null,
+  "facet_groups":[
+     
+  ],
+  "reviewAverage":4.479806138933764,
+  "reviewTotal":619,
+  "has_special_price":false,
+  "productSku":"2QUEEN",
+  "is_consent_needed":null,
+  "productType":"simple",
+  "category_name":"Sunscreen",
+  "category_id":10514,
+  "magento_category_id":null,
+  "brand_name":"Ultra Violette",
+  "brand_identifier_s":"ultra-violette",
+  "amount":null,
+  "product_sales_year":26711,
+  "price":47,
+  "is_luxury":false,
+  "afterpayInstallments":"4 instalments of $11.75",
+  "attributeOptions":[
+     
+  ],
+  "inventory":{
+     "inventory_source":"AU",
+     "qdos_stock_status": "Bin End",
+     "quantity": 0
+  }
+}

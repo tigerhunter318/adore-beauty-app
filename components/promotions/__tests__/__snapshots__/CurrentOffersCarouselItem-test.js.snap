@@ -1,0 +1,149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CurrentOffersCarouselItem renders content 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "borderRadius": 27,
+      "height": 380,
+      "justifyContent": "center",
+      "opacity": 1,
+      "paddingLeft": 10,
+      "paddingRight": 10,
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {},
+        Object {
+          "alignItems": "center",
+          "height": 160,
+          "justifyContent": "center",
+          "width": 160,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {},
+          undefined,
+        ]
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {
+              "overflow": "hidden",
+            },
+            Array [
+              Object {
+                "height": "auto",
+                "width": "100%",
+              },
+              Object {
+                "aspectRatio": 1,
+                "width": 160,
+              },
+            ],
+          ]
+        }
+      >
+        <FastImageView
+          defaultSource={null}
+          imageProps={Object {}}
+          resizeMode="contain"
+          source={
+            Object {
+              "uri": "https://www.adorebeauty.com.au/pim_brand_logo/000/001/364/Boost_Lab_Logo_Stacked_Black.png?w=210&h=210&fmt=webp",
+            }
+          }
+          style={
+            Object {
+              "bottom": 0,
+              "left": 0,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+            }
+          }
+        />
+      </View>
+    </View>
+  </View>
+  <Text
+    allowFontScaling={false}
+    mt={2}
+    numberOfLines={4}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Montserrat-SemiBold",
+          "letterSpacing": 1.5,
+          "marginTop": 20,
+          "textAlign": "center",
+        },
+        Object {
+          "height": 70,
+        },
+      ]
+    }
+  >
+    Boost Lab Hydro Boost Serum 10ml*
+  </Text>
+  <View
+    style={
+      Array [
+        Object {},
+        Object {},
+      ]
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      pt={2}
+      style={
+        Array [
+          Object {
+            "color": "#4A4A4A",
+            "fontFamily": "Montserrat-Regular",
+            "fontSize": 12,
+            "paddingTop": 20,
+            "textTransform": "uppercase",
+          },
+          undefined,
+        ]
+      }
+    >
+      View Offer
+    </Text>
+    <View
+      style={
+        Array [
+          Object {},
+          Object {
+            "borderBottomColor": "#979797",
+            "borderBottomWidth": 1,
+            "paddingTop": 5,
+          },
+        ]
+      }
+    />
+  </View>
+</View>
+`;

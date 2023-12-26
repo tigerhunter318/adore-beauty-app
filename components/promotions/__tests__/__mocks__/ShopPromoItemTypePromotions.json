@@ -1,0 +1,162 @@
+{
+  "promotion": {
+    "name": "BEAUTY BONUS TEST",
+    "message": "<div>TESTING</div>",
+    "big_commerce_promotion_id": 142136,
+    "content": null,
+    "created_at": "2022-04-05T03:18:56",
+    "end_date": "2022-10-26T15:59:59",
+    "id": 68,
+    "max_uses": 0,
+    "minimum_order_count": null,
+    "priority": 1,
+    "promotion_code_settings": [
+      {
+        "code": "BONUGGARETH"
+      }
+    ],
+    "promotion_notifications": [
+      {
+        "id": 35,
+        "content": null,
+        "type": "ELIGIBLE",
+        "locations": {
+          "HOME_PAGE": false,
+          "PRODUCT_PAGE": false,
+          "CART_PAGE": true,
+          "CHECKOUT_PAGE": false
+        }
+      }
+    ],
+    "promotion_rules": [
+      {
+        "apply_once": true,
+        "created_at": "2022-04-05T03:18:56",
+        "id": 68,
+        "name": "TEST Beauty Bonus",
+        "promotion_rule_actions": [
+          {
+            "id": 68,
+            "action_type": "CartItemAction",
+            "add_free_item": false,
+            "amount": 100,
+            "as_total": false,
+            "created_at": "2022-04-05T03:18:56",
+            "discount_type": "percentage_amount",
+            "exclude_items_on_sale": false,
+            "free_shipping": false,
+            "include_items_considered_by_condition": false,
+            "brands": [],
+            "categories": [],
+            "products": [
+              {
+                "item_matcher_condition": "ItemMatcher",
+                "product": {
+                  "id": 24217,
+                  "name": "Intraceuticals Retouch Introductory Kit with GWP Palette",
+                  "big_commerce_product_id": 39815,
+                  "description": "Intraceuticals Retouch Introductory Kit with GWP Palette",
+                  "short_description": "Intraceuticals Retouch Introductory Kit with GWP Palette",
+                  "sku": "FRTC28000",
+                  "comestri_product_id": 96089,
+                  "brands": [
+                    {
+                      "brand": {
+                        "identifier": "intraceuticals",
+                        "image_link": "https://s3-ap-southeast-2.amazonaws.com/fusionfactory.commerceconnect.adorebeauty/pim_brand_logo/000/000/116/160-65-intraceuticals_logo.png?1642649327",
+                        "comestri_brand_id": 116
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "item_matcher_condition": "ItemMatcher",
+                "product": {
+                  "id": 23244,
+                  "name": "The Beauty Chef Antioxidant Inner Beauty Boost GWP 100ml Gift With Purchase",
+                  "big_commerce_product_id": 44505,
+                  "description": "<span style=\"font-family: Montserrat; font-size: 30px; font-weight: 600; letter-spacing: -1px;\">The Beauty Chef Antioxidant Inner Beauty Boost GWP 100ml Gift With Purchase</span>",
+                  "short_description": "<span style=\"font-family: Montserrat; font-size: 30px; font-weight: 600; letter-spacing: -1px;\">The Beauty Chef Antioxidant Inner Beauty Boost GWP 100ml Gift With Purchase</span>",
+                  "sku": "BCAIBBSG",
+                  "comestri_product_id": 94268,
+                  "brands": [
+                    {
+                      "brand": {
+                        "identifier": "the-beauty-chef",
+                        "image_link": "https://s3-ap-southeast-2.amazonaws.com/fusionfactory.commerceconnect.adorebeauty/pim_brand_logo/000/000/105/beauty_chef_logo_160-65.png?1642649067",
+                        "comestri_brand_id": 105
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "item_matcher_condition": "ItemMatcher",
+                "product": {
+                  "id": 15143,
+                  "name": "Benefit Bad Gal Bang GWP Gift With Purchase",
+                  "big_commerce_product_id": 45372,
+                  "description": "This is the description",
+                  "short_description": "This is the short Description",
+                  "sku": "BBGBGdd",
+                  "comestri_product_id": 93431,
+                  "brands": [
+                    {
+                      "brand": {
+                        "identifier": "benefit-cosmetics",
+                        "image_link": "https://s3-ap-southeast-2.amazonaws.com/fusionfactory.commerceconnect.adorebeauty/pim_brand_logo/000/000/004/benefit-cosmetics.png?1642648963",
+                        "comestri_brand_id": 4
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "item_matcher_condition": "ItemMatcher",
+                "product": {
+                  "id": 5618,
+                  "name": "Clinique Dramatically Different Moisturizing Gel 15ml GWP Gift With Purchase",
+                  "big_commerce_product_id": 51847,
+                  "description": "Clinique Dramatically Different Moisturizing Gel 15ml GWP Gift With Purchase",
+                  "short_description": "Clinique Dramatically Different Moisturizing Gel 15ml GWP Gift With Purchase",
+                  "sku": "CDDMG468",
+                  "comestri_product_id": 97260,
+                  "brands": [
+                    {
+                      "brand": {
+                        "identifier": "clinique",
+                        "image_link": "https://s3-ap-southeast-2.amazonaws.com/fusionfactory.commerceconnect.adorebeauty/pim_brand_logo/000/000/050/clinique.png?1642639523",
+                        "comestri_brand_id": 50
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ],
+        "promotion_rule_conditions": [
+          {
+            "id": 68,
+            "condition_type": "CartCondition",
+            "minimum_quantity": 1,
+            "minimum_spend": 1,
+            "brands": [],
+            "categories": [
+              {
+                "item_matcher_condition": "NotItemMatcher",
+                "category": {
+                  "id": 1032,
+                  "name": "Line Smoothing Complex",
+                  "big_commerce_category_id": 5008
+                }
+              }
+            ],
+            "products": []
+          }
+        ]
+      }
+    ]
+  }
+}

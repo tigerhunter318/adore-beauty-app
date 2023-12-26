@@ -1,0 +1,95 @@
+# atlassian/aws-s3-deploy ref
+# https://bitbucket.org/atlassian/aws-s3-deploy/src/master/
+# https://docs.aws.amazon.com/cli/latest/reference/s3/sync.html
+#
+image: node:14.18.3
+definitions:
+  caches:
+    npm: ~/.npm
+    jest: .jest
+
+runCodeTestsStep: &runCodeTestsStep
+  step:
+    name: Run code checks and Jest tests
+    script:
+      - yarn
+      - cp config/config.pipelines.json config/config.local.json
+      - yarn eslint --quiet .
+      - yarn tsc
+      - yarn jest:ci
+
+pipelines:
+  branches:
+    staging:
+      - <<: *runCodeTestsStep
+      - step:
+          name: Push Static to S3 staging
+          trigger: automatic
+          script:
+            #PUSH Static Html to s3
+            - pipe: atlassian/aws-s3-deploy:0.4.3
+
+              variables:
+                AWS_ACCESS_KEY_ID: $AWS_ACCESS_KEY_ID
+                AWS_SECRET_ACCESS_KEY: $AWS_SECRET_ACCESS_KEY
+                AWS_DEFAULT_REGION: "ap-southeast-2"
+                ACL: "public-read"
+                S3_BUCKET: "native-app-public-staging/nativestatic"
+                LOCAL_PATH: "assets/webviews/build"
+      - step:
+          name: Push universal-links page to S3 staging
+          trigger: automatic
+          script:
+            #PUSH Static Html to s3
+            - pipe: atlassian/aws-s3-deploy:0.4.3
+              variables:
+                AWS_ACCESS_KEY_ID: $AWS_ACCESS_KEY_ID
+                AWS_SECRET_ACCESS_KEY: $AWS_SECRET_ACCESS_KEY
+                AWS_DEFAULT_REGION: "ap-southeast-2"
+                ACL: "public-read"
+                S3_BUCKET: "native-app-public-staging/nativestatic/universal-links"
+                LOCAL_PATH: "webviews/universal-links"
+      - step:
+          name: Push well-known json files to S3 staging
+          trigger: automatic
+          script:
+            - pipe: atlassian/aws-s3-deploy:0.4.3
+              variables:
+                AWS_ACCESS_KEY_ID: $AWS_ACCESS_KEY_ID
+                AWS_SECRET_ACCESS_KEY: $AWS_SECRET_ACCESS_KEY
+                AWS_DEFAULT_REGION: "ap-southeast-2"
+                ACL: "public-read"
+                S3_BUCKET: "native-app-public-staging/.well-known"
+                LOCAL_PATH: ".well-known"
+                EXTRA_ARGS: "--exclude '*' --include='*.json'"
+    production:
+      - <<: *runCodeTestsStep
+      - step:
+          name: Push Static to S3 production
+          trigger: automatic
+          script:
+          - pipe: atlassian/aws-s3-deploy:0.4.3
+
+            variables:
+               AWS_ACCESS_KEY_ID: $AWS_ACCESS_KEY_ID
+               AWS_SECRET_ACCESS_KEY: $AWS_SECRET_ACCESS_KEY
+               AWS_DEFAULT_REGION: "ap-southeast-2"
+               ACL: "public-read"
+               S3_BUCKET: "native-app-public/nativestatic"
+               LOCAL_PATH: "assets/webviews/build"
+      - step:
+          name: Push well-known json files to S3 prod
+          trigger: automatic
+          script:
+            - pipe: atlassian/aws-s3-deploy:0.4.3
+              variables:
+                AWS_ACCESS_KEY_ID: $AWS_ACCESS_KEY_ID
+                AWS_SECRET_ACCESS_KEY: $AWS_SECRET_ACCESS_KEY
+                AWS_DEFAULT_REGION: "ap-southeast-2"
+                ACL: "public-read"
+                S3_BUCKET: "native-app-public/.well-known"
+                LOCAL_PATH: ".well-known"
+                EXTRA_ARGS: "--exclude '*' --include='*.json'"
+  pull-requests:
+    '**':
+      - <<: *runCodeTestsStep

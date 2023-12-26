@@ -1,0 +1,110 @@
+[
+  {
+    "data": "You can read our full ",
+    "type": "text",
+    "next": {
+      "type": "tag",
+      "name": "a",
+      "attribs": {
+        "href": "https://www.adorebeauty.com.au/k18/guide/k18-hair-australia-review",
+        "title": ""
+      },
+      "children": [
+        {
+          "data": "K18 hair review on Beauty IQ here",
+          "type": "text"
+        }
+      ],
+      "next": {
+        "data": " if you want to learn more.",
+        "type": "text",
+        "next": null,
+        "prev": "{attribs: {…}, children: Array(1), name: \"a\", next:…}",
+        "parent": "{attribs: {…}, children: Array(3), name: \"p\", next:…}"
+      },
+      "prev": {
+        "data": "You can read our full ",
+        "type": "text",
+        "next": "{attribs: {…}, children: Array(1), name: \"a\", next:…}",
+        "prev": null,
+        "parent": "{attribs: {…}, children: Array(3), name: \"p\", next:…}"
+      },
+      "parent": {
+        "type": "tag",
+        "name": "p",
+        "attribs": "{}",
+        "children": "[{…}, {…}, {…}]",
+        "next": null,
+        "prev": null,
+        "parent": "{attribs: {…}, children: Array(1), name: \"li\", next…}"
+      }
+    },
+    "prev": null,
+    "parent": {
+      "type": "tag",
+      "name": "p",
+      "attribs": "{}",
+      "children": "[{…}, {…}, {…}]",
+      "next": null,
+      "prev": null,
+      "parent": "{attribs: {…}, children: Array(1), name: \"li\", next…}"
+    }
+  },
+  {
+    "type": "tag",
+    "name": "a",
+    "attribs": {
+      "href": "https://www.adorebeauty.com.au/k18/guide/k18-hair-australia-review",
+      "title": ""
+    },
+    "children": [
+      "{data: \"K18 hair review on Beauty IQ here\", type: \"…}"
+    ],
+    "next": {
+      "data": " if you want to learn more.",
+      "type": "text",
+      "next": null,
+      "prev": "{attribs: {…}, children: Array(1), name: \"a\", next:…}",
+      "parent": "{attribs: {…}, children: Array(3), name: \"p\", next:…}"
+    },
+    "prev": {
+      "data": "You can read our full ",
+      "type": "text",
+      "next": "{attribs: {…}, children: Array(1), name: \"a\", next:…}",
+      "prev": null,
+      "parent": "{attribs: {…}, children: Array(3), name: \"p\", next:…}"
+    },
+    "parent": {
+      "type": "tag",
+      "name": "p",
+      "attribs": "{}",
+      "children": "[{…}, {…}, {…}]",
+      "next": null,
+      "prev": null,
+      "parent": "{attribs: {…}, children: Array(1), name: \"li\", next…}"
+    }
+  },
+  {
+    "data": " if you want to learn more.",
+    "type": "text",
+    "next": null,
+    "prev": {
+      "type": "tag",
+      "name": "a",
+      "attribs": "{href: \"https://www.adorebeauty.com.au/k18/guide/k1…}",
+      "children": "[{…}]",
+      "next": "{data: \" if you want to learn more.\", next: null, p…}",
+      "prev": "{data: \"You can read our full \", next: {…}, parent:…}",
+      "parent": "{attribs: {…}, children: Array(3), name: \"p\", next:…}"
+    },
+    "parent": {
+      "type": "tag",
+      "name": "p",
+      "attribs": "{}",
+      "children": "[{…}, {…}, {…}]",
+      "next": null,
+      "prev": null,
+      "parent": "{attribs: {…}, children: Array(1), name: \"li\", next…}"
+    }
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "name":"M.A.C Cosmetics Strobe Dewy Skin Tint",
+  "product_id":105611,
+  "big_commerce_product_id":null,
+  "objectId":90418,
+  "description":"Lightweight coverage meets a luminous glow with M.A.C Cosmetics Strobe Dewy Skin Tint. This tinted moisturiser takes the beautifully lit-from-within finish of the cult favourite <a href=\"https://www.adorebeauty.com.au/mac-cosmetics/strobe-cream.html\">Strobe Cream</a> and combines it with sheer yet buildable coverage and a skincare-infused formula.<br><h3>Why will I love M.A.C Cosmetics Strobe Dewy Skin Tint?</h3><ul><li>Tinted moisturiser with a dewy, luminous finish</li><li>Ideal for normal to dry skin types</li><li>Pearlescent, light-reflecting finish</li><li>Sheer, buildable coverage</li><li>Wears for 8 hours</li><li>Colour-true and non-fading for 8 hours</li><li>Hydrating, comfortable feel</li><li>Formulated with hyaluronic acid, vitamin E, shea butter and squalane</li><li>Contains 78.65% skincare ingredients</li><li>74% naturally derived ingredients</li><li>30ml</li></ul><br>MAC Cosmetics Strobe Dewy Skin Tint leaves skin with a lightweight, pearlescent finish, while the gel-balm texture feels comfortable. Hyaluronic acid, shea butter and squalane hydrate and nourish skin, while antioxidant Vitamin E helps protect against environmental aggressors.<br><h3>How to apply MAC Cosmetics Strobe Dewy Skin Tint:</h3>Apply to clean skin with fingertips, a sponge or a brush. Build as needed for more coverage.MAC Cosmetics Strobe Dewy Skin Tint can be worn alone for a dewy glow, under foundation for subtle radiance or under powder for a matte yet radiant look.<br>",
+  "ingredients":"Water\\Aqua\\Eau, Hydrogenated Didecene, Glycerin, Propanediol, Isoamyl Laurate, Squalane, Cetyl Peg/Ppg-10/1 Dimethicone, Soybean Glycerides, Hydrogenated Styrene/ Isoprene Copolymer, Polyglyceryl-4 Isostearate, Sodium Chloride, Butyrospermum Parkii (Shea) Butter Unsaponifiables, Glycyrrhiza Glabra (Licorice) Root Extract, Camellia Sinensis Leaf Extract, Disteardimonium Hectorite, Caprylyl Glycol, 1,2-Hexanediol, Sodium Hyaluronate, Disodium Edta, Ascorbyl Palmitate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Hydroxyacetophenone, Tocopheryl Acetate, Bht, Phenoxyethanol, [+/- Mica, Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77491), Iron Oxides (Ci 77492), Iron Oxides (Ci 77499), Bismuth Oxychloride (Ci 77163), Blue 1 Lake (Ci 42090), Chromium Hydroxide Green (Ci 77289), Chromium Oxide Greens (Ci 77288), Ferric Ammonium Ferrocyanide (Ci 77510), Ferric Ferrocyanide (Ci 77510), Manganese Violet (Ci 77742), Red 6 (Ci 15850), Red 7 Lake (Ci 15850), Red 28 Lake (Ci 45410), Red 30 Lake (Ci 73360), Ultramarines (Ci 77007), Yellow 5 Lake (Ci 19140), Yellow 6 Lake (Ci 15985)]&nbsp;&lt;ILN50879&gt;",
+  "comestri_product_id":90418,
+  "magento_product_id":2090418,
+  "productImage":"/pim_media/000/427/496/MAC_Strobe_Dewy_product_styled.png",
+  "productImages":[
+     "/pim_media/000/427/496/MAC_Strobe_Dewy_product_styled.png",
+     "/pim_media/000/427/495/MAC_Strobe_Dewy_model.png",
+     "/pim_media/000/427/494/MAC_Strobe_Dewy_lifestyle_model.png",
+     "/pim_media/000/427/009/M.A.C_Cosmetics_Strobe_Dewy_Skin_Tint_before_after_deep_1.png",
+     "/pim_media/000/427/008/M.A.C_Cosmetics_Strobe_Dewy_Skin_Tint_before_after_light_4.png",
+     "/pim_media/000/427/007/M.A.C_Cosmetics_Strobe_Dewy_Skin_Tint_before_after_medium_3.png",
+     "/pim_media/000/427/006/M.A.C_Cosmetics_Strobe_Dewy_Skin_Tint_before_after_rich_4.png",
+     "/pim_media/000/427/005/M.A.C_Cosmetics_Strobe_Dewy_Skin_Tint.png",
+     "/pim_media/000/427/004/M.A.C_Cosmetics_Strobe_Dewy_Skin_Tint_swatches.png",
+     "/pim_media/000/427/003/M.A.C_Cosmetics_Strobe_Dewy_Skin_Tint_badge.png"
+  ],
+  "short_description":"A tinted moisturiser with a dewy finish, and skincare-enriched formula that hydrates skin.",
+  "facet_groups":null,
+  "reviewAverage":"5.0",
+  "reviewTotal":1,
+  "has_special_price":false,
+  "productSku":"mac-cosmetics-strobe-dewy-skin-tint",
+  "is_consent_needed":null,
+  "productType":"configurable",
+  "category_name":"M.a.c Cosmetics",
+  "category_id":32,
+  "magento_category_id":5197,
+  "brand_name":"M.a.c Cosmetics",
+  "brand_identifier_s":"mac-cosmetics",
+  "amount":null,
+  "product_sales_year":null,
+  "price":"59",
+  "oldPrice":"undefined",
+  "specialPrice":"",
+  "is_luxury":false,
+  "afterpayInstallments":"4 instalments of $14.75",
+  "attributeOptions":[
+     {
+        "color":"M.A.C Cosmetics Strobe Dewy Skin Tint - Deep 2",
+        "big_commerce_product_id":42035,
+        "product_id":105284,
+        "option_id":105284,
+        "comestri_product_id":90025,
+        "image_url":"/pim_media/000/426/786/NX5X060000_Model.png",
+        "main_image_url":"/pim_media/000/426/786/NX5X060000_Model.png",
+        "is_consent_needed":null,
+        "productSku":"NX5X060000",
+        "price":59,
+        "inventory":{
+           "inventory_source":"AU",
+           "qdos_stock_status":"Waitlist",
+           "quantity":0
+        }
+     },
+     {
+        "color":"M.A.C Cosmetics Strobe Dewy Skin Tint - Light 1",
+        "big_commerce_product_id":42036,
+        "product_id":105283,
+        "option_id":105283,
+        "comestri_product_id":90030,
+        "image_url":"/pim_media/000/426/808/NX5X090000_Model.png",
+        "main_image_url":"/pim_media/000/426/808/NX5X090000_Model.png",
+        "is_consent_needed":null,
+        "productSku":"NX5X090000",
+        "price":59,
+        "inventory":{
+           "inventory_source":"AU",
+           "qdos_stock_status":"Waitlist",
+           "quantity":0
+        }
+     },
+     {
+        "color":"M.A.C Cosmetics Strobe Dewy Skin Tint - Light 2",
+        "big_commerce_product_id":42047,
+        "product_id":105311,
+        "option_id":105311,
+        "comestri_product_id":90083,
+        "image_url":"/pim_media/000/426/810/NX5X010000_Model.png",
+        "main_image_url":"/pim_media/000/426/810/NX5X010000_Model.png",
+        "is_consent_needed":null,
+        "productSku":"NX5X010000",
+        "price":59,
+        "inventory":{
+           "inventory_source":"AU",
+           "qdos_stock_status":"Waitlist",
+           "quantity":0
+        }
+     }
+  ],
+  "choices":[
+     
+  ],
+  "inventory":{
+     "inventory_source":null,
+     "qdos_stock_status":null,
+     "quantity":0
+  },
+  "recommendPercentage":100,
+  "reviews":null
+}

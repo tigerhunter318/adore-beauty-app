@@ -1,0 +1,49 @@
+{
+  "result": {
+    "conversionRef": "1200399731",
+    "country": "AU",
+    "currency": "AUD",
+    "custRef": "11",
+    "isReturningCustomer": true,
+    "metadata": {
+      "order_coupon_discount": "0.0000",
+      "order_discount_amount": "6.4000",
+      "order_grand_total": "104.8000",
+      "order_payment_type": "braintree",
+      "order_subtotal": "111.2000"
+    },
+    "products": [
+      {
+        "category": "Skin Care",
+        "metadata": {
+          "product_brand": "Pixi",
+          "product_name": "Pixi Glow Mud Cleanser"
+        },
+        "price": 32,
+        "quantity": 1,
+        "sku": "P-GMC"
+      },
+      {
+        "category": "Skin Care",
+        "metadata": {
+          "product_brand": "Dermalogica",
+          "product_name": "Dermalogica Special Cleansing Gel 500ml"
+        },
+        "price": 79.2,
+        "quantity": 1,
+        "sku": "101106"
+      }
+    ]
+  },
+  "result1": {
+    "conversionRef": "1200399731",
+    "country": "AU",
+    "currency": "AUD",
+    "custRef": "0",
+    "isReturningCustomer": true,
+    "metadata": {
+      "order_grand_total": "104.8000",
+      "order_subtotal": "111.2000"
+    }
+  }
+}

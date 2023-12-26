@@ -1,0 +1,24 @@
+{
+  "__typename": "Products",
+  "identifier": "k18-leave-in-molecular-repair-mask-50ml",
+  "product_id": 1077144,
+  "product_url": "https://www.adorebeauty.com.au/p/k18/k18-leave-in-molecular-repair-mask-50ml.html",
+  "productImage": "https://www.adorebeauty.com.au/pim_media/000/328/365/k18_50_1_500.png",
+  "productType": "simple",
+  "productSku": [
+     "K1810230"
+  ],
+  "name": "K18 Leave-In Molecular Repair Mask 50ml",
+  "brand_name": "K18",
+  "has_special_price": 1,
+  "price": "84.58",
+  "oldPrice": "99.5",
+  "specialPrice": "84.58",
+  "reviewAverage": 4.4,
+  "reviewTotal": 105,
+  "cartProductId": 30282,
+  "isSalable": 1,
+  "inStock": 1,
+  "qty": 2178,
+  "backorders": "Waitlist"
+}

@@ -1,0 +1,14 @@
+[{
+	"product_id": 969990,
+	"name": "The Ordinary Squalane Cleanser 50ml",
+	"price": "13.90",
+	"productImage": "https://www.adorebeauty.com.au/media/product/cc9/the-ordinary-squalane-cleanser-50ml-by-the-ordinary-642.png",
+	"category_name": ["Skin Care", "Cleansers", "Gel Cleansers", "Oil Cleansers", "Brand", "Skincare Concerns", "Blackheads", "Eczema", "Rosacea", "Skincare for Dry Skin", "Skincare for Oily Skin", "Anti-Ageing Skincare", "Skincare For Sensitive Skin", "The Ordinary", "Skincare for Combination Skin", "Targets Blackheads", "Targets Sensitivity"],
+	"size": "50ml",
+	"brand_name": "The Ordinary",
+	"productSku": ["769915194791"],
+	"product_url": "https://www.adorebeauty.com.au/the-ordinary/the-ordinary-squalane-cleanser-50ml.html",
+	"inStock": 1,
+	"isSalable": 1,
+	"__typename": "Products"
+}]

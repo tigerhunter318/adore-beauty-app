@@ -1,0 +1,30 @@
+{
+  "name": "VIEW_ITEMS",
+  "contentItems": [
+    {
+      "ident": "MOCK-IDENT"
+    },
+    {
+      "ident": "MOCK-IDENT"
+    },
+    {
+      "ident": "MOCK-IDENT"
+    }
+  ],
+  "transactionID": null,
+  "currency": "AUD",
+  "revenue": null,
+  "shipping": null,
+  "tax": null,
+  "coupon": null,
+  "affiliation": null,
+  "description": null,
+  "searchQuery": null,
+  "customData": {
+    "product_id": "1000273,674269,1000275",
+    "product_brand": "The Ordinary,The Ordinary,The Ordinary",
+    "product_category": "Skin Care,The Ordinary,Targets Dehydration,Moisturiser & Oils,Night Serums,Morning Serums,Supersize,Skincare Concerns,Skincare For Sensitive Skin,Skincare for Dry Skin,Skincare for Combination Skin,Serums & Treatments,Hydrating and Hyaluronic Acid Serums,Skin Care,The Ordinary,Targets Sensitivity,Targets Dehydration,Moisturiser & Oils,Skincare for Combination Skin,Moisturisers,Oily Skin,Skin Care,The Ordinary,Targets Blackheads,Targets Breakouts & Congestion,Morning Serums,Supersize,Skincare Concerns,Skincare for Oily Skin,Skincare for Normal Skin,Blackheads,Acne & Scarring Treatments,Serums & Treatments,Anti-Acne Serums",
+    "product_sku": "769915194982,769915193657,769915194951"
+  },
+  "alias": null
+}

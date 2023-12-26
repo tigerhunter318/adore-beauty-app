@@ -1,0 +1,29 @@
+{
+  "name": "ADD_TO_CART",
+  "contentItems": [
+    {
+      "ident": "MOCK-IDENT"
+    }
+  ],
+  "transactionID": null,
+  "currency": "AUD",
+  "revenue": null,
+  "shipping": null,
+  "tax": null,
+  "coupon": null,
+  "affiliation": null,
+  "description": null,
+  "searchQuery": null,
+  "customData": {
+    "product_sku": "769915195064",
+    "product_name": "The Ordinary Coverage Concealer",
+    "product_brand": "The Ordinary",
+    "product_id": "1077459",
+    "product_variant": "30364",
+    "product_category": "Makeup,Concealer,Brand,Under-eye Concealer,Blemish Concealer,Face Concealer,The Ordinary,Makeup",
+    "product_quantity": "1",
+    "product_unit_price": "10.80",
+    "customer_id": "26980"
+  },
+  "alias": null
+}

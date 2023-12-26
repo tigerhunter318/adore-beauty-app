@@ -1,0 +1,32 @@
+{
+  "name": "INITIATE_PURCHASE",
+  "contentItems": [
+    {
+      "ident": "MOCK-IDENT"
+    }
+  ],
+  "transactionID": null,
+  "currency": "AUD",
+  "revenue": null,
+  "shipping": null,
+  "tax": null,
+  "coupon": null,
+  "affiliation": null,
+  "description": null,
+  "searchQuery": null,
+  "customData": {
+    "customer_id": "26980",
+    "product_brand": "The Ordinary,",
+    "product_category": "Skin Care,Moisturisers,Brand,Skincare Concerns,The Ordinary,Moisturiser & Oils,Oily Skin,Skincare for Combination Skin,Targets Dehydration,Targets Sensitivity,",
+    "product_id": "674269,35106",
+    "product_name": "The Ordinary Natural Moisturizing Factors + HA 100ml,APH155GWP - Alpha-H Mystery Vitamin Sachet 1.5ml Gift With Purchase",
+    "product_price": "12.9,0",
+    "product_quantity": "2,1",
+    "product_sku": "769915193657,APH155GWP",
+    "cart_total_items": "2",
+    "cart_total_value": "25.8",
+    "customer_first_name": "Frontside",
+    "customer_last_name": "Dev"
+  },
+  "alias": null
+}

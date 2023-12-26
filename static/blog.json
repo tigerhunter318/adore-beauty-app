@@ -1,0 +1,5569 @@
+{
+  "article": {
+    "store_id": 1,
+    "sysId": "3Sa6wxWNWfWJPJQ1mIELI3",
+    "name": "Five Best Aesop Products - Test with all content 1",
+    "url": "skin-care/guide/a-test-post-with-all-types-of-content",
+    "type": "guide",
+    "identifier": "a-test-post-with-all-types-of-content",
+    "category_name": "Skin Care 1",
+    "category_id": 43,
+    "category_url": "skin-care.html",
+    "emarsys_category": "Skin Care 1",
+    "category_slug": "skin-care",
+    "isConcern": 0,
+    "isBrand": 0,
+    "feature_image": "",
+    "publishDate": "2019-09-30T13:00:00Z",
+    "unPublishDate": "2099-01-01T00:00:00Z",
+    "updatedAt": "2020-01-15T06:35:18.561Z",
+    "author_name": "Gareth Williams",
+    "author_avatar": "https://images.ctfassets.net/pi28xy1s107o/5JU7zicJcVfKg2ifZOtMeU/f30c93ff1630610fe4141bd277522982/Gareth.jpeg",
+    "author_slug": "gareth",
+    "author_url": "/author/gareth.html",
+    "subTitle": "A really nice subtitle",
+    "seo_desc": "This is the Meta Description",
+    "top_heading": "Five Best Aesop Products - Test with all content 1",
+    "content_heading": "Five Best Aesop Products - Test with all content 1",
+    "content": "This is the copy to make people click on it!",
+    "fb_image": "https://images.ctfassets.net/pi28xy1s107o/5JU7zicJcVfKg2ifZOtMeU/f30c93ff1630610fe4141bd277522982/Gareth.jpeg",
+    "twitterImage": "",
+    "categories": {
+      "178": {
+        "name": "Tea & Supplements",
+        "id": 178,
+        "isBrand": 0,
+        "isConsentNeeded": false
+      },
+      "3175": {
+        "name": "Alpha-H",
+        "id": 3175,
+        "isBrand": 1,
+        "isConsentNeeded": false
+      }
+    },
+    "isConsentNeeded": 0,
+    "postContent": [
+      {
+        "type": "productManagedCopy",
+        "content": {
+          "title": "Testing this out",
+          "orderNumber": 3,
+          "productCopy": "Here is some copy",
+          "productId": 667720,
+          "productImage": "https://adore.testpad.com.au/media/product/c4b/dermalogica-precleanse-balm-by-dermalogica-431.jpg",
+          "product": {
+            "id": "667720_1",
+            "product_id": 667720,
+            "choices_facet": [
+              23908
+            ],
+            "new_index_i": 596,
+            "best_sellers_index_i": 51,
+            "score": 3.9747713,
+            "productSku": [
+              "111266"
+            ],
+            "name": "Dermalogica PreCleanse Balm ",
+            "price": "57.64",
+            "review_avg": 5,
+            "review_total": 13,
+            "product_url": "https://adore.testpad.com.au/dermalogica/dermalogica-precleanse-balm.html",
+            "productImage": "https://adore.testpad.com.au/media/product/c4b/dermalogica-precleanse-balm-by-dermalogica-431.jpg",
+            "category_badge_name": [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            "brand_id": 3170,
+            "brand_name": "Dermalogica",
+            "productType": "simple",
+            "has_special_price": 1,
+            "specialPrice": "57.64",
+            "productSalesLastWeek": 0,
+            "productSales": 444,
+            "is_consent_needed": 0,
+            "oldPrice": "65.50"
+          }
+        }
+      },
+      {
+        "type": "content",
+        "content": {
+          "html": "<h3>Aesop uses source plant-based and laboratory-made ingredients, making their products like no other on the market.</h3><p><video src=\"https://videos.ctfassets.net/pi28xy1s107o/4j543BFcWwFPaltu3AJK5e/b7239e15142674544ae0ae25ef3562e1/TeganMac_Lymph_mask_finalVideo_music.mp4\" width=\"700\" height=\"540\" controls/></p><p></p><p><strong>“We offer skin, hair and body care formulations created with meticulous attention to detail, and with efficacy and sensory pleasure in mind.”</strong></p><p>\nTheir objective is to formulate skin, hair and body care products of the finest quality;  investigating widely to source plant-based and laboratory-made ingredients, and use only those with a proven record of safety and efficacy. </p><p>Lets try some lists</p><ul><li><p>This is an unordered list</p></li><li><p>This is more of it</p></li><li><p>and other</p></li></ul><ol><li><p>This is an ordered list</p></li><li><p>and here is a second one</p></li><li><p>and a third</p></li></ol>"
+        }
+      },
+      {
+        "type": "routine",
+        "content": {
+          "title": "Test Routine",
+          "description": "This is a test",
+          "productsAndGroup": [
+            {
+              "type": "shoppableGroup",
+              "content": {
+                "title": "Exfoliate & Cleanse",
+                "product": [
+                  {
+                    "type": "product",
+                    "content": {
+                      "id": 609668,
+                      "name": "LAB SERIES MAX LS Daily Renewing Cleanser",
+                      "image": "https://adore.testpad.com.au/media/product/801/lab-series-max-ls-daily-renewing-cleanser-by-lab-series-skincare-for-men-41c.jpg",
+                      "url": "https://adore.testpad.com.au/lab-series/lab-series-max-ls-daily-renewing-cleanser.html"
+                    }
+                  },
+                  {
+                    "type": "product",
+                    "content": {
+                      "id": 610967,
+                      "name": "Intraceuticals Rejuvenate Gentle Cleanser",
+                      "image": "https://adore.testpad.com.au/media/product/430/intraceuticals-rejuvenate-gentle-cleanser-by-intraceuticals-743.jpg",
+                      "url": "https://adore.testpad.com.au/intraceuticals/intraceuticals-rejuvenate-gentle-cleanser.html"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "shoppableGroup",
+              "content": {
+                "title": "Tone, Moisturise",
+                "product": [
+                  {
+                    "type": "product",
+                    "content": {
+                      "id": 645415,
+                      "name": "Sukin Hydrating Mist Toner",
+                      "image": "https://adore.testpad.com.au/media/product/c4b/sukin-hydrating-mist-toner-by-sukin-431.jpg",
+                      "url": "https://adore.testpad.com.au/sukin/sukin-hydrating-mist-toner-125ml.html",
+                      "hideLink": true
+                    }
+                  },
+                  {
+                    "type": "product",
+                    "content": {
+                      "id": 638164,
+                      "name": "HydroPeptide Firming Body Moisturiser",
+                      "image": "https://adore.testpad.com.au/media/product/5ad/hydropeptide-firming-body-moisturiser-by-hydropeptide-2d2.jpg",
+                      "url": "https://adore.testpad.com.au/hydropeptide/hydropeptide-firming-moisturizer.html"
+                    }
+                  },
+                  {
+                    "type": "product",
+                    "content": {
+                      "id": 611516,
+                      "name": "The Ordinary Natural Moisturizing Factors + HA",
+                      "image": "https://adore.testpad.com.au/media/product/4bd/the-ordinary-natural-moisturizing-factors-ha-by-the-ordinary-0a4.jpg",
+                      "url": "https://adore.testpad.com.au/the-ordinary/the-ordinary-natural-moisturizing-factors-ha-30ml.html"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "shoppableGroup",
+              "content": {
+                "title": "Exfoliate & Cleanse",
+                "product": [
+                  {
+                    "type": "product",
+                    "content": {
+                      "id": 21232,
+                      "name": "Aesop Classic Conditioner",
+                      "image": "https://adore.testpad.com.au/media/product/f64/aesop-classic-conditioner-by-aesop-59a.jpg",
+                      "url": "https://adore.testpad.com.au/aesop/aesop-classic-conditioner.html",
+                      "hideLink": true
+                    }
+                  },
+                  {
+                    "type": "product",
+                    "content": {
+                      "id": 10527,
+                      "name": "Aesop Parsley Seed Anti-Oxidant Serum 100ml",
+                      "image": "https://adore.testpad.com.au/media/product/c4b/aesop-parsley-seed-anti-oxidant-serum-100ml-by-aesop-431.jpg",
+                      "url": "https://adore.testpad.com.au/aesop/aesop-parsley-seed-anti-oxidant-serum-100ml.html"
+                    }
+                  },
+                  {
+                    "type": "product",
+                    "content": {
+                      "id": 957706,
+                      "name": "Benefit Goof Proof Brow Pencil - 03 Medium",
+                      "image": "https://adore.testpad.com.au/media/product/c4b/benefit-goof-proof-brow-pencil-03-medium-by-benefit-cosmetics-431.jpg",
+                      "url": "https://adore.testpad.com.au/benefit-cosmetics/benefit-goof-proof-brow-pencil-03-medium-range.html"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "content",
+        "content": {
+          "html": "<p></p><h2>First, lets talk about why your skin is shinier in summer first</h2><p></p><p>Stubborn acne and acne scars don’t have to ruin your face or life. We’ve got tons of recommendations for treatments, products, and lifestyle changes that can help you beat both, no sweat! <a href=\"https://adore.testpad.com.au/bioderma/bioderma-sensibio-foaming-gel.html\" data-product-id=\"641556\" data-product-image=\"https://adore.testpad.com.au/media/product/81f/bioderma-sensibio-foaming-gel-by-bioderma-961.jpg\">Bioderma Sensibio Foaming Gel - Custom Title</a>  to help kick-start your acne-fighting journey and make scars a thing of the past.</p><p>\nDue to the prevalence of acne across age groups, genders, and races, it’s easy to find information on how to get rid of breakouts. But it’s not always the best information. Our Adore Beauty experts have broken down some of the old wives' tales to help you figure out what’s fact, what’s fiction, and what you should be putting on your skin to clear up acne. </p><p></p><blockquote><p>\nAesop uses source plant-based and laboratory-made ingredients, making their products like no other on the market.</p></blockquote><p>Stubborn acne and acne scars don’t have to ruin your face or life. We’ve got tons of recommendations for treatments, products, and lifestyle changes that can help you beat both, no sweat! <a href=\"https://adore.testpad.com.au/aesop/aesop-parsley-seed-anti-oxidant-serum-100ml.html\" data-product-id=\"10527\" data-product-image=\"https://adore.testpad.com.au/media/product/c4b/aesop-parsley-seed-anti-oxidant-serum-100ml-by-aesop-431.jpg\">Aesop Parsley Seed Anti-Oxidant Serum 100ml</a> to help kick-start your acne-fighting journey and make scars a thing of the past.<a href=\"https://adore.testpad.com.au/hydropeptide/hydropeptide-firming-moisturizer.html\" data-product-id=\"638164\" data-product-image=\"https://adore.testpad.com.au/media/product/5ad/hydropeptide-firming-body-moisturiser-by-hydropeptide-2d2.jpg\">HydroPeptide Firming Body Moisturiser</a></p><p>\nDue to the prevalence of acne across age groups, genders, and races, it’s easy to find information on how to get rid of breakouts. But it’s not always the best information. Our Adore Beauty experts have broken down some of the old wives' tales to help you figure out what’s fact, what’s fiction, and what you should be putting on your skin to clear up acne. </p><p>The <a href=\"https://adore.testpad.com.au/aesop/aesop-anouk-oil-burner-blend.html\" data-product-id=\"640214\" data-product-image=\"https://adore.testpad.com.au/media/product/216/aesop-anouk-oil-burner-blend-by-aesop-247.jpg\">Aesop Anouk Oil Burner Blend</a>is a high-quality microneedling device that boasts a range of benefits, from reducing the signs of aging and sun damage to minimising the appearance of acne, blackheads, and pores. Using surgical-grade stainless steel microneedles with patented Disc Needle Care technology, this at home derma roller improves circulation and boosts collagen and cell production.</p><p>The Aesop Classic Conditioner helps skincare and serums penetrate deeply. The 0.3 mm titanium needles deliver highly advanced results. By creating microchannels in the skin, this device stimulates elastin and cell reproduction, thus reducing wrinkles, acne scarring, and pigmentation as well as generally improving the quality of your complexion. These microchannels also boost the efficacy of your serums, allowing them to absorb with ease. This leads to fast visible results, such as plumper and brighter skin.</p><h2>So, let's recap the 5 Best at Home Derma Rollers 2019</h2><p>1. <a href=\"https://adore.testpad.com.au/aesop/aesop-anouk-oil-burner-blend.html\" data-product-id=\"640214\" data-product-image=\"https://adore.testpad.com.au/media/product/216/aesop-anouk-oil-burner-blend-by-aesop-247.jpg\">Aesop Anouk Oil Burner Blend</a>\n2. <a href=\"https://adore.testpad.com.au/aesop/aesop-parsley-seed-anti-oxidant-serum-100ml.html\" data-product-id=\"10527\" data-product-image=\"https://adore.testpad.com.au/media/product/c4b/aesop-parsley-seed-anti-oxidant-serum-100ml-by-aesop-431.jpg\">Aesop Parsley Seed Anti-Oxidant Serum 100ml</a>\n3. <a href=\"https://adore.testpad.com.au/black-chicken-remedies/black-chicken-remedies-balm-of-ages.html\" data-product-id=\"611945\" data-product-image=\"https://adore.testpad.com.au/media/product/a09/black-chicken-remedies-balm-of-ages-by-black-chicken-remedies-d9f.jpg\">Black Chicken Remedies Balm of Ages</a></p>"
+        }
+      },
+      {
+        "type": "productManagedCopy",
+        "content": {
+          "title": "th",
+          "orderNumber": 6,
+          "productCopy": "jhj",
+          "productId": 21232,
+          "productImage": "https://adore.testpad.com.au/media/product/f64/aesop-classic-conditioner-by-aesop-59a.jpg",
+          "product": ""
+        }
+      },
+      {
+        "type": "content",
+        "content": {
+          "html": "<p></p><p></p>"
+        }
+      },
+      {
+        "type": "review",
+        "content": {
+          "title": "Best makeup remover for my skin ",
+          "rating": 5,
+          "product": {
+            "sku": [
+              "benefitgoofproof03medium",
+              "BM58",
+              "BM14"
+            ],
+            "url": "https://adore.testpad.com.au/benefit-cosmetics/benefit-goof-proof-brow-pencil-03-medium-range.html",
+            "name": "Benefit Goof Proof Brow Pencil - 03 Medium",
+            "product_id": 957706,
+            "product_image": "https://adore.testpad.com.au/media/product/c4b/benefit-goof-proof-brow-pencil-03-medium-by-benefit-cosmetics-431.jpg"
+          },
+          "author": {
+            "name": "Gareth Williams",
+            "image": "https://images.ctfassets.net/pi28xy1s107o/5JU7zicJcVfKg2ifZOtMeU/f30c93ff1630610fe4141bd277522982/Gareth.jpeg"
+          },
+          "content": "This is so good, it evens out the pH of my skin and it wipes off all the makeup and dirt. It easily takes off my heavy eye makeup which I previously used two to three products to take off. This product makes me excited to take my makeup off at the end of the night and I totally recommend it.",
+          "media": []
+        }
+      },
+      {
+        "type": "review",
+        "content": {
+          "title": "One of the originals & the best ",
+          "rating": 3,
+          "product": {
+            "sku": [
+              "1100028712"
+            ],
+            "url": "https://adore.testpad.com.au/bioderma/bioderma-sensibio-foaming-gel.html",
+            "name": "Bioderma Sensibio Foaming Gel",
+            "product_id": 641556,
+            "product_image": "https://adore.testpad.com.au/media/product/81f/bioderma-sensibio-foaming-gel-by-bioderma-961.jpg"
+          },
+          "author": {
+            "name": "John Doe",
+            "image": "https://images.ctfassets.net/pi28xy1s107o/7orLdboQQowIUs22KAW4U/c25051d2a69884cbe8e68e1e8d022df5/matt-palmer-254999.jpg"
+          },
+          "content": "There’s a good reason why I always go back to Bioderma’s Micelle Solution – it really is one of the best. Does what it promises, keeps skin soft and healthy looking and doesn’t dry out my skin after use as some others do.”",
+          "media": [
+            "https://images.ctfassets.net/pi28xy1s107o/1YmTB0UjGYULy2L7l1g4LV/adff02f1c3b174dc1da1106d2e126ebe/Screen_Shot_2019-04-02_at_4.17.14_pm.png",
+            "https://images.ctfassets.net/pi28xy1s107o/4hjkRtKOZ8LgEteMvlPPuW/e4609e546d2370dae6753507d78c3a47/giphy.gif",
+            "https://videos.ctfassets.net/pi28xy1s107o/4MNx4btFOoY2G6qcCqceW2/5bfa0b8e5bee63f1929a2c2463141374/small.mp4"
+          ]
+        }
+      },
+      {
+        "type": "content",
+        "content": {
+          "html": "<h3>Get the Best Skincare</h3>"
+        }
+      },
+      {
+        "type": "category",
+        "content": {
+          "name": "Skin Care 1",
+          "id": 43,
+          "product": [
+            {
+              "id": "8290_1",
+              "product_id": 8290,
+              "age_facet": [
+                23852,
+                23853,
+                23854,
+                23855,
+                23856
+              ],
+              "key_ingredients_facet": [
+                23888
+              ],
+              "skin_concern_facet": [
+                23899,
+                23897
+              ],
+              "skin_type_facet": [
+                23900,
+                23901
+              ],
+              "choices_facet": [
+                23909,
+                23905,
+                23906
+              ],
+              "new_index_i": 3417,
+              "best_sellers_index_i": 315,
+              "score": 1,
+              "productSku": [
+                "B500BT13"
+              ],
+              "name": "Aesop Resurrection Aromatique Hand Wash 500ml",
+              "price": "40.00",
+              "review_avg": 5,
+              "review_total": 32,
+              "product_url": "https://adore.testpad.com.au/aesop/aesop-resurrection-aromatique-hand-wash-500ml.html",
+              "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-resurrection-aromatique-hand-wash-500ml-by-aesop-431.jpg",
+              "category_badge_name": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "brand_id": 3173,
+              "brand_name": "Aesop",
+              "productType": "simple",
+              "has_special_price": 0,
+              "specialPrice": "40.00",
+              "productSalesLastWeek": 0,
+              "productSales": 11498,
+              "is_consent_needed": 0,
+              "oldPrice": 0
+            },
+            {
+              "id": "381_1",
+              "product_id": 381,
+              "age_facet": [
+                23851,
+                23853,
+                23855
+              ],
+              "coverage_facet": [
+                23858,
+                23859
+              ],
+              "eye_concern_facet": [
+                23860,
+                23862
+              ],
+              "finish_powder_facet": [
+                23867,
+                23864
+              ],
+              "foundation_finish_facet": [
+                23870
+              ],
+              "hair_concern_facet": [
+                23873,
+                23875,
+                23876,
+                23877
+              ],
+              "hair_curl_type_facet": [
+                23883,
+                23884,
+                23885
+              ],
+              "key_ingredients_facet": [
+                23887,
+                23890
+              ],
+              "skin_concern_facet": [
+                23898,
+                23896
+              ],
+              "skin_type_facet": [
+                23900
+              ],
+              "choices_facet": [
+                23909,
+                23905,
+                23910
+              ],
+              "hair_texture_facet": [
+                23913
+              ],
+              "new_index_i": 3373,
+              "best_sellers_index_i": 26,
+              "score": 1,
+              "productSku": [
+                "LG100"
+              ],
+              "name": "Alpha-H Liquid Gold",
+              "price": "50.96",
+              "review_avg": 4.7,
+              "review_total": 152,
+              "product_url": "https://adore.testpad.com.au/alpha-h/alpha-h-liquid-gold.html",
+              "productImage": "https://adore.testpad.com.au/media/product/340/alpha-h-liquid-gold-by-alpha-h-943.png",
+              "category_badge_name": [
+                "",
+                "",
+                "Top Serum",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "brand_id": 3175,
+              "brand_name": "Alpha-H",
+              "productType": "simple",
+              "has_special_price": 1,
+              "specialPrice": "50.96",
+              "productSalesLastWeek": 0,
+              "productSales": 19861,
+              "is_consent_needed": 0,
+              "oldPrice": "59.95"
+            },
+            {
+              "id": "525206_1",
+              "product_id": 525206,
+              "choices_facet": [
+                23905
+              ],
+              "new_index_i": 2574,
+              "best_sellers_index_i": 10,
+              "score": 1,
+              "productSku": [
+                "12690"
+              ],
+              "name": "Dr. Bronner Hand Sanitizer Lavender",
+              "price": "8.95",
+              "review_avg": 5,
+              "review_total": 4,
+              "product_url": "https://adore.testpad.com.au/dr-bronner-s/dr-bronner-s-hand-sanitizer-lavender.html",
+              "productImage": "https://adore.testpad.com.au/media/product/9a5/dr-bronner-hand-sanitizer-lavender-by-dr-bronner-s-bed.jpg",
+              "category_badge_name": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "brand_id": 4046,
+              "brand_name": "Dr. Bronner's",
+              "productType": "simple",
+              "has_special_price": 0,
+              "specialPrice": "8.95",
+              "productSalesLastWeek": 0,
+              "productSales": 918,
+              "is_consent_needed": 0,
+              "oldPrice": 0
+            },
+            {
+              "id": "611940_1",
+              "product_id": 611940,
+              "age_facet": [
+                23852,
+                23853,
+                23854,
+                23855,
+                23856
+              ],
+              "key_ingredients_facet": [
+                23888
+              ],
+              "skin_type_facet": [
+                23900,
+                23901,
+                23902,
+                23903
+              ],
+              "choices_facet": [
+                23909,
+                23904,
+                23905,
+                23908,
+                23907,
+                23906
+              ],
+              "new_index_i": 1491,
+              "best_sellers_index_i": 330,
+              "score": 1,
+              "productSku": [
+                "9347246000540"
+              ],
+              "name": "Black Chicken Remedies Axilla Deodorant Paste",
+              "price": "18.50",
+              "review_avg": 4.8,
+              "review_total": 24,
+              "product_url": "https://adore.testpad.com.au/black-chicken-remedies/black-chicken-remedies-axilla-deodorant-paste.html",
+              "productImage": "https://adore.testpad.com.au/media/product/012/black-chicken-remedies-axilla-deodorant-paste-by-black-chicken-remedies-a86.jpg",
+              "category_badge_name": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "brand_id": 4569,
+              "brand_name": "Black Chicken Remedies",
+              "productType": "simple",
+              "has_special_price": 0,
+              "specialPrice": "18.50",
+              "productSalesLastWeek": 0,
+              "productSales": 2935,
+              "is_consent_needed": 0,
+              "oldPrice": 0
+            },
+            {
+              "id": "24253_1",
+              "product_id": 24253,
+              "age_facet": [
+                23852,
+                23853,
+                23854,
+                23855,
+                23856
+              ],
+              "skin_concern_facet": [
+                23897
+              ],
+              "new_index_i": 904,
+              "best_sellers_index_i": 13,
+              "score": 1,
+              "productSku": [
+                "1100028709"
+              ],
+              "name": "Bioderma Sensibio H2O Solution Micellaire Cleanser 500ml",
+              "price": "29.99",
+              "review_avg": 5,
+              "review_total": 27,
+              "product_url": "https://adore.testpad.com.au/bioderma-crealine-h2o-solution-micellaire-cleanser-500ml.html",
+              "productImage": "https://adore.testpad.com.au/media/product/500/bioderma-sensibio-h2o-solution-micellaire-cleanser-500ml-1c5.jpg",
+              "category_badge_name": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "productType": "simple",
+              "has_special_price": 0,
+              "specialPrice": "29.99",
+              "productSalesLastWeek": 0,
+              "productSales": 3021,
+              "is_consent_needed": 0,
+              "oldPrice": 0
+            },
+            {
+              "id": "4213_1",
+              "product_id": 4213,
+              "age_facet": [
+                23852,
+                23853,
+                23854,
+                23855,
+                23856
+              ],
+              "key_ingredients_facet": [
+                23888
+              ],
+              "skin_concern_facet": [
+                23899,
+                23897
+              ],
+              "skin_type_facet": [
+                23900,
+                23901
+              ],
+              "choices_facet": [
+                23909,
+                23905,
+                23907,
+                23906
+              ],
+              "new_index_i": 11862,
+              "best_sellers_index_i": 14,
+              "score": 1,
+              "productSku": [
+                "B75BM06"
+              ],
+              "name": "Aesop Resurrection Aromatique Hand Balm Tube 75ml",
+              "price": "33.00",
+              "review_avg": 4.5,
+              "review_total": 22,
+              "product_url": "https://adore.testpad.com.au/aesop/aesop-resurrection-aromatique-hand-balm-tube-75ml.html",
+              "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-resurrection-aromatique-hand-balm-tube-75ml-by-aesop-431.jpg",
+              "category_badge_name": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "brand_id": 3173,
+              "brand_name": "Aesop",
+              "productType": "simple",
+              "has_special_price": 0,
+              "specialPrice": "33.00",
+              "productSalesLastWeek": 0,
+              "productSales": 5046,
+              "is_consent_needed": 0,
+              "oldPrice": 0
+            },
+            {
+              "id": "16550_1",
+              "product_id": 16550,
+              "new_index_i": 4209,
+              "best_sellers_index_i": 16,
+              "score": 1,
+              "productSku": [
+                "EHC50"
+              ],
+              "name": "Alpha-H Essential Hydration Cream",
+              "price": "44.16",
+              "review_avg": 4.5,
+              "review_total": 40,
+              "product_url": "https://adore.testpad.com.au/alpha-h/alpha-h-essential-hydration-cream.html",
+              "productImage": "https://adore.testpad.com.au/media/product/c4b/alpha-h-essential-hydration-cream-by-alpha-h-431.jpg",
+              "category_badge_name": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "brand_id": 3175,
+              "brand_name": "Alpha-H",
+              "productType": "simple",
+              "has_special_price": 1,
+              "specialPrice": "44.16",
+              "productSalesLastWeek": 0,
+              "productSales": 7151,
+              "is_consent_needed": 0,
+              "oldPrice": "51.95"
+            },
+            {
+              "id": "10396_1",
+              "product_id": 10396,
+              "age_facet": [
+                23853,
+                23854,
+                23855,
+                23856,
+                23852
+              ],
+              "skin_concern_facet": [
+                23899
+              ],
+              "new_index_i": 11874,
+              "best_sellers_index_i": 18,
+              "score": 1,
+              "productSku": [
+                "01MA030K16"
+              ],
+              "name": "L'Occitane Shea Butter Hand Cream - 30ml",
+              "price": "15.00",
+              "review_avg": 4.6,
+              "review_total": 5,
+              "product_url": "https://adore.testpad.com.au/loccitane/l-occitane-shea-hand-cream-1.html",
+              "productImage": "https://adore.testpad.com.au/media/product/9d1/l-occitane-shea-butter-hand-cream-30ml-by-l-occitane-699.jpg",
+              "category_badge_name": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "brand_id": 3432,
+              "brand_name": "L'Occitane",
+              "productType": "simple",
+              "has_special_price": 0,
+              "specialPrice": "15.00",
+              "productSalesLastWeek": 0,
+              "productSales": 1224,
+              "is_consent_needed": 0,
+              "oldPrice": 0
+            }
+          ]
+        }
+      },
+      {
+        "type": "content",
+        "content": {
+          "html": "<p><img src=\"https://www.adorebeauty.com.au/skin/frontend/enterprise/adore/images/product-loader.svg\" title=\"IMG 8909 copy\" alt=\"IMG 8909 copy\" data-src=\"https://images.ctfassets.net/pi28xy1s107o/3K5fmKw8tfwPVHvawyMjON/2738114eeb8aea6f468a9011c6a0320b/IMG_8909_copy.webp?w=700&h=540\" class=\"--show-above-small\" /><img src=\"https://www.adorebeauty.com.au/skin/frontend/enterprise/adore/images/product-loader.svg\" title=\"IMG 8909 copy\" alt=\"IMG 8909 copy\" data-src=\"https://images.ctfassets.net/pi28xy1s107o/3K5fmKw8tfwPVHvawyMjON/2738114eeb8aea6f468a9011c6a0320b/IMG_8909_copy.webp?w=330&h=270\" class=\"--hide-above-small\" /></p><p><img src=\"https://www.adorebeauty.com.au/skin/frontend/enterprise/adore/images/product-loader.svg\" title=\"Getting ready to get on a flight to Hong Kong\" alt=\"Getting ready to get on a flight to Hong Kong\" data-src=\"https://images.ctfassets.net/pi28xy1s107o/5ogRkvk1HhJv2jZusejx5O/cad57d9ace5ccdfe311dac453c724eea/Getting_ready_to_get_on_a_flight_to_Hong_Kong.jpg?w=700&h=540\" class=\"--show-above-small\" /><img src=\"https://www.adorebeauty.com.au/skin/frontend/enterprise/adore/images/product-loader.svg\" title=\"Getting ready to get on a flight to Hong Kong\" alt=\"Getting ready to get on a flight to Hong Kong\" data-src=\"https://images.ctfassets.net/pi28xy1s107o/5ogRkvk1HhJv2jZusejx5O/cad57d9ace5ccdfe311dac453c724eea/Getting_ready_to_get_on_a_flight_to_Hong_Kong.jpg?w=330&h=270\" class=\"--hide-above-small\" /></p><p></p>"
+        }
+      },
+      {
+        "type": "externalContent",
+        "content": {
+          "embedTitle": "Embedded Content - Instagram",
+          "externalEmbed": "<a href=\"https://www.instagram.com/p/BvAiRJ9ghfg/?utm_source=ig_web_copy_link\" class=\"embedly-card\" data-card-width=\"100%\" data-card-controls=\"1\" data-card-key=\"542239e8d5144167ac6474a184f2d244\">Embedded content: https://www.instagram.com/p/BvAiRJ9ghfg/?utm_source=ig_web_copy_link</a>"
+        }
+      },
+      {
+        "type": "content",
+        "content": {
+          "html": "<p></p>"
+        }
+      },
+      {
+        "type": "multipleCategoriesBrands",
+        "content": {
+          "title": "Multiple Cat",
+          "categories": [
+            {
+              "name": "Skin Care 1",
+              "id": 43,
+              "isBrand": 0,
+              "isConsentNeeded": 0,
+              "product": [
+                {
+                  "id": "8290_1",
+                  "product_id": 8290,
+                  "age_facet": [
+                    23852,
+                    23853,
+                    23854,
+                    23855,
+                    23856
+                  ],
+                  "key_ingredients_facet": [
+                    23888
+                  ],
+                  "skin_concern_facet": [
+                    23899,
+                    23897
+                  ],
+                  "skin_type_facet": [
+                    23900,
+                    23901
+                  ],
+                  "choices_facet": [
+                    23909,
+                    23905,
+                    23906
+                  ],
+                  "new_index_i": 3417,
+                  "best_sellers_index_i": 315,
+                  "score": 1,
+                  "productSku": [
+                    "B500BT13"
+                  ],
+                  "name": "Aesop Resurrection Aromatique Hand Wash 500ml",
+                  "price": "40.00",
+                  "review_avg": 5,
+                  "review_total": 32,
+                  "product_url": "https://adore.testpad.com.au/aesop/aesop-resurrection-aromatique-hand-wash-500ml.html",
+                  "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-resurrection-aromatique-hand-wash-500ml-by-aesop-431.jpg",
+                  "category_badge_name": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "brand_id": 3173,
+                  "brand_name": "Aesop",
+                  "productType": "simple",
+                  "has_special_price": 0,
+                  "specialPrice": "40.00",
+                  "productSalesLastWeek": 0,
+                  "productSales": 11498,
+                  "is_consent_needed": 0,
+                  "oldPrice": 0
+                },
+                {
+                  "id": "381_1",
+                  "product_id": 381,
+                  "age_facet": [
+                    23851,
+                    23853,
+                    23855
+                  ],
+                  "coverage_facet": [
+                    23858,
+                    23859
+                  ],
+                  "eye_concern_facet": [
+                    23860,
+                    23862
+                  ],
+                  "finish_powder_facet": [
+                    23867,
+                    23864
+                  ],
+                  "foundation_finish_facet": [
+                    23870
+                  ],
+                  "hair_concern_facet": [
+                    23873,
+                    23875,
+                    23876,
+                    23877
+                  ],
+                  "hair_curl_type_facet": [
+                    23883,
+                    23884,
+                    23885
+                  ],
+                  "key_ingredients_facet": [
+                    23887,
+                    23890
+                  ],
+                  "skin_concern_facet": [
+                    23898,
+                    23896
+                  ],
+                  "skin_type_facet": [
+                    23900
+                  ],
+                  "choices_facet": [
+                    23909,
+                    23905,
+                    23910
+                  ],
+                  "hair_texture_facet": [
+                    23913
+                  ],
+                  "new_index_i": 3373,
+                  "best_sellers_index_i": 26,
+                  "score": 1,
+                  "productSku": [
+                    "LG100"
+                  ],
+                  "name": "Alpha-H Liquid Gold",
+                  "price": "50.96",
+                  "review_avg": 4.7,
+                  "review_total": 152,
+                  "product_url": "https://adore.testpad.com.au/alpha-h/alpha-h-liquid-gold.html",
+                  "productImage": "https://adore.testpad.com.au/media/product/340/alpha-h-liquid-gold-by-alpha-h-943.png",
+                  "category_badge_name": [
+                    "",
+                    "",
+                    "Top Serum",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "brand_id": 3175,
+                  "brand_name": "Alpha-H",
+                  "productType": "simple",
+                  "has_special_price": 1,
+                  "specialPrice": "50.96",
+                  "productSalesLastWeek": 0,
+                  "productSales": 19861,
+                  "is_consent_needed": 0,
+                  "oldPrice": "59.95"
+                },
+                {
+                  "id": "525206_1",
+                  "product_id": 525206,
+                  "choices_facet": [
+                    23905
+                  ],
+                  "new_index_i": 2574,
+                  "best_sellers_index_i": 10,
+                  "score": 1,
+                  "productSku": [
+                    "12690"
+                  ],
+                  "name": "Dr. Bronner Hand Sanitizer Lavender",
+                  "price": "8.95",
+                  "review_avg": 5,
+                  "review_total": 4,
+                  "product_url": "https://adore.testpad.com.au/dr-bronner-s/dr-bronner-s-hand-sanitizer-lavender.html",
+                  "productImage": "https://adore.testpad.com.au/media/product/9a5/dr-bronner-hand-sanitizer-lavender-by-dr-bronner-s-bed.jpg",
+                  "category_badge_name": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "brand_id": 4046,
+                  "brand_name": "Dr. Bronner's",
+                  "productType": "simple",
+                  "has_special_price": 0,
+                  "specialPrice": "8.95",
+                  "productSalesLastWeek": 0,
+                  "productSales": 918,
+                  "is_consent_needed": 0,
+                  "oldPrice": 0
+                },
+                {
+                  "id": "611940_1",
+                  "product_id": 611940,
+                  "age_facet": [
+                    23852,
+                    23853,
+                    23854,
+                    23855,
+                    23856
+                  ],
+                  "key_ingredients_facet": [
+                    23888
+                  ],
+                  "skin_type_facet": [
+                    23900,
+                    23901,
+                    23902,
+                    23903
+                  ],
+                  "choices_facet": [
+                    23909,
+                    23904,
+                    23905,
+                    23908,
+                    23907,
+                    23906
+                  ],
+                  "new_index_i": 1491,
+                  "best_sellers_index_i": 330,
+                  "score": 1,
+                  "productSku": [
+                    "9347246000540"
+                  ],
+                  "name": "Black Chicken Remedies Axilla Deodorant Paste",
+                  "price": "18.50",
+                  "review_avg": 4.8,
+                  "review_total": 24,
+                  "product_url": "https://adore.testpad.com.au/black-chicken-remedies/black-chicken-remedies-axilla-deodorant-paste.html",
+                  "productImage": "https://adore.testpad.com.au/media/product/012/black-chicken-remedies-axilla-deodorant-paste-by-black-chicken-remedies-a86.jpg",
+                  "category_badge_name": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "brand_id": 4569,
+                  "brand_name": "Black Chicken Remedies",
+                  "productType": "simple",
+                  "has_special_price": 0,
+                  "specialPrice": "18.50",
+                  "productSalesLastWeek": 0,
+                  "productSales": 2935,
+                  "is_consent_needed": 0,
+                  "oldPrice": 0
+                },
+                {
+                  "id": "24253_1",
+                  "product_id": 24253,
+                  "age_facet": [
+                    23852,
+                    23853,
+                    23854,
+                    23855,
+                    23856
+                  ],
+                  "skin_concern_facet": [
+                    23897
+                  ],
+                  "new_index_i": 904,
+                  "best_sellers_index_i": 13,
+                  "score": 1,
+                  "productSku": [
+                    "1100028709"
+                  ],
+                  "name": "Bioderma Sensibio H2O Solution Micellaire Cleanser 500ml",
+                  "price": "29.99",
+                  "review_avg": 5,
+                  "review_total": 27,
+                  "product_url": "https://adore.testpad.com.au/bioderma-crealine-h2o-solution-micellaire-cleanser-500ml.html",
+                  "productImage": "https://adore.testpad.com.au/media/product/500/bioderma-sensibio-h2o-solution-micellaire-cleanser-500ml-1c5.jpg",
+                  "category_badge_name": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "productType": "simple",
+                  "has_special_price": 0,
+                  "specialPrice": "29.99",
+                  "productSalesLastWeek": 0,
+                  "productSales": 3021,
+                  "is_consent_needed": 0,
+                  "oldPrice": 0
+                },
+                {
+                  "id": "4213_1",
+                  "product_id": 4213,
+                  "age_facet": [
+                    23852,
+                    23853,
+                    23854,
+                    23855,
+                    23856
+                  ],
+                  "key_ingredients_facet": [
+                    23888
+                  ],
+                  "skin_concern_facet": [
+                    23899,
+                    23897
+                  ],
+                  "skin_type_facet": [
+                    23900,
+                    23901
+                  ],
+                  "choices_facet": [
+                    23909,
+                    23905,
+                    23907,
+                    23906
+                  ],
+                  "new_index_i": 11862,
+                  "best_sellers_index_i": 14,
+                  "score": 1,
+                  "productSku": [
+                    "B75BM06"
+                  ],
+                  "name": "Aesop Resurrection Aromatique Hand Balm Tube 75ml",
+                  "price": "33.00",
+                  "review_avg": 4.5,
+                  "review_total": 22,
+                  "product_url": "https://adore.testpad.com.au/aesop/aesop-resurrection-aromatique-hand-balm-tube-75ml.html",
+                  "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-resurrection-aromatique-hand-balm-tube-75ml-by-aesop-431.jpg",
+                  "category_badge_name": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "brand_id": 3173,
+                  "brand_name": "Aesop",
+                  "productType": "simple",
+                  "has_special_price": 0,
+                  "specialPrice": "33.00",
+                  "productSalesLastWeek": 0,
+                  "productSales": 5046,
+                  "is_consent_needed": 0,
+                  "oldPrice": 0
+                },
+                {
+                  "id": "16550_1",
+                  "product_id": 16550,
+                  "new_index_i": 4209,
+                  "best_sellers_index_i": 16,
+                  "score": 1,
+                  "productSku": [
+                    "EHC50"
+                  ],
+                  "name": "Alpha-H Essential Hydration Cream",
+                  "price": "44.16",
+                  "review_avg": 4.5,
+                  "review_total": 40,
+                  "product_url": "https://adore.testpad.com.au/alpha-h/alpha-h-essential-hydration-cream.html",
+                  "productImage": "https://adore.testpad.com.au/media/product/c4b/alpha-h-essential-hydration-cream-by-alpha-h-431.jpg",
+                  "category_badge_name": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "brand_id": 3175,
+                  "brand_name": "Alpha-H",
+                  "productType": "simple",
+                  "has_special_price": 1,
+                  "specialPrice": "44.16",
+                  "productSalesLastWeek": 0,
+                  "productSales": 7151,
+                  "is_consent_needed": 0,
+                  "oldPrice": "51.95"
+                },
+                {
+                  "id": "10396_1",
+                  "product_id": 10396,
+                  "age_facet": [
+                    23853,
+                    23854,
+                    23855,
+                    23856,
+                    23852
+                  ],
+                  "skin_concern_facet": [
+                    23899
+                  ],
+                  "new_index_i": 11874,
+                  "best_sellers_index_i": 18,
+                  "score": 1,
+                  "productSku": [
+                    "01MA030K16"
+                  ],
+                  "name": "L'Occitane Shea Butter Hand Cream - 30ml",
+                  "price": "15.00",
+                  "review_avg": 4.6,
+                  "review_total": 5,
+                  "product_url": "https://adore.testpad.com.au/loccitane/l-occitane-shea-hand-cream-1.html",
+                  "productImage": "https://adore.testpad.com.au/media/product/9d1/l-occitane-shea-butter-hand-cream-30ml-by-l-occitane-699.jpg",
+                  "category_badge_name": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "brand_id": 3432,
+                  "brand_name": "L'Occitane",
+                  "productType": "simple",
+                  "has_special_price": 0,
+                  "specialPrice": "15.00",
+                  "productSalesLastWeek": 0,
+                  "productSales": 1224,
+                  "is_consent_needed": 0,
+                  "oldPrice": 0
+                }
+              ]
+            },
+            {
+              "name": "Fake Tan",
+              "id": 140,
+              "isBrand": 0,
+              "isConsentNeeded": 0,
+              "product": [
+                {
+                  "id": "535567_1",
+                  "product_id": 535567,
+                  "new_index_i": 2371,
+                  "best_sellers_index_i": 69,
+                  "score": 1,
+                  "productSku": [
+                    "ETFTW100"
+                  ],
+                  "name": "Eco Tan Organic Face Tan Water",
+                  "price": "34.95",
+                  "review_avg": 4.8,
+                  "review_total": 14,
+                  "product_url": "https://adore.testpad.com.au/eco-tan/eco-tan-organic-face-tan-water.html",
+                  "productImage": "https://adore.testpad.com.au/media/product/c4b/eco-tan-organic-face-tan-water-by-eco-tan-431.jpg",
+                  "category_badge_name": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "brand_id": 3881,
+                  "brand_name": "Eco Tan",
+                  "productType": "simple",
+                  "has_special_price": 0,
+                  "specialPrice": "34.95",
+                  "productSalesLastWeek": 0,
+                  "productSales": 2519,
+                  "is_consent_needed": 0,
+                  "oldPrice": 0
+                },
+                {
+                  "id": "610503_1",
+                  "product_id": 610503,
+                  "new_index_i": 1565,
+                  "best_sellers_index_i": 127,
+                  "score": 1,
+                  "productSku": [
+                    "DBMUD120"
+                  ],
+                  "name": "Loving Tan Deluxe Bronzing Mousse - Ultra Dark ",
+                  "price": "39.95",
+                  "review_avg": 4.9,
+                  "review_total": 8,
+                  "product_url": "https://adore.testpad.com.au/loving-tan/loving-tan-deluxe-bronzing-mousse-ultra-dark-120ml.html",
+                  "productImage": "https://adore.testpad.com.au/media/product/f9f/loving-tan-deluxe-bronzing-mousse-ultra-dark-by-loving-tan-887.jpg",
+                  "category_badge_name": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "brand_id": 4568,
+                  "brand_name": "Loving Tan",
+                  "productType": "simple",
+                  "has_special_price": 0,
+                  "specialPrice": "39.95",
+                  "productSalesLastWeek": 0,
+                  "productSales": 1122,
+                  "is_consent_needed": 0,
+                  "oldPrice": 0
+                },
+                {
+                  "id": "12895_1",
+                  "product_id": 12895,
+                  "age_facet": [
+                    23853,
+                    23854,
+                    23855,
+                    23856,
+                    23852
+                  ],
+                  "key_ingredients_facet": [
+                    23888
+                  ],
+                  "skin_concern_facet": [
+                    23899
+                  ],
+                  "choices_facet": [
+                    23907
+                  ],
+                  "new_index_i": 4148,
+                  "score": 1,
+                  "productSku": [
+                    "198714"
+                  ],
+                  "name": "Clarins Delicious Self Tanning Cream",
+                  "price": "48.00",
+                  "review_avg": 4.5,
+                  "review_total": 6,
+                  "product_url": "https://adore.testpad.com.au/clarins/clarins-delicious-self-tanning-cream.html",
+                  "productImage": "https://adore.testpad.com.au/media/product/4c6/clarins-delicious-self-tanning-cream-by-clarins-a1c.jpg",
+                  "category_badge_name": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "brand_id": 3237,
+                  "brand_name": "Clarins",
+                  "productType": "simple",
+                  "has_special_price": 0,
+                  "specialPrice": "48.00",
+                  "productSalesLastWeek": 0,
+                  "productSales": 306,
+                  "is_consent_needed": 0,
+                  "oldPrice": 0
+                },
+                {
+                  "id": "4361_1",
+                  "product_id": 4361,
+                  "age_facet": [
+                    23852,
+                    23853,
+                    23854,
+                    23855,
+                    23856
+                  ],
+                  "eye_concern_facet": [
+                    23860
+                  ],
+                  "skin_concern_facet": [
+                    23899,
+                    23893
+                  ],
+                  "skin_type_facet": [
+                    23900,
+                    23901,
+                    23902
+                  ],
+                  "choices_facet": [
+                    23908,
+                    23910,
+                    23907
+                  ],
+                  "new_index_i": 4198,
+                  "score": 1,
+                  "productSku": [
+                    "S0780700"
+                  ],
+                  "name": "SkinCeuticals Ultimate UV Defense SPF30 (90ml)",
+                  "price": "62.10",
+                  "review_avg": 4.6,
+                  "review_total": 7,
+                  "product_url": "https://adore.testpad.com.au/skinceuticals/skinceuticals-ultimate-uv-defense-spf30-90ml.html",
+                  "productImage": "https://adore.testpad.com.au/media/product/481/skinceuticals-ultimate-uv-defense-spf30-90ml-by-skinceuticals-677.png",
+                  "category_badge_name": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "brand_id": 3612,
+                  "brand_name": "SkinCeuticals",
+                  "productType": "simple",
+                  "has_special_price": 0,
+                  "specialPrice": "62.10",
+                  "productSalesLastWeek": 0,
+                  "productSales": 798,
+                  "is_consent_needed": 0,
+                  "oldPrice": 0
+                },
+                {
+                  "id": "3144_1",
+                  "product_id": 3144,
+                  "age_facet": [
+                    23852,
+                    23853,
+                    23854,
+                    23855,
+                    23856
+                  ],
+                  "skin_concern_facet": [
+                    23897
+                  ],
+                  "choices_facet": [
+                    23905
+                  ],
+                  "new_index_i": 4369,
+                  "score": 1,
+                  "productSku": [
+                    "580199"
+                  ],
+                  "name": "Dr Hauschka After Sun Lotion 100ml",
+                  "price": "32.00",
+                  "review_avg": 0,
+                  "review_total": 0,
+                  "product_url": "https://adore.testpad.com.au/dr-hauschka/dr-hauschka-after-sun-lotion-100ml.html",
+                  "productImage": "https://adore.testpad.com.au/media/product/dbc/dr-hauschka-after-sun-lotion-100ml-by-dr-hauschka-e2f.jpg",
+                  "category_badge_name": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "brand_id": 3308,
+                  "brand_name": "Dr. Hauschka",
+                  "productType": "simple",
+                  "has_special_price": 0,
+                  "specialPrice": "32.00",
+                  "productSalesLastWeek": 0,
+                  "productSales": 59,
+                  "is_consent_needed": 0,
+                  "oldPrice": 0
+                },
+                {
+                  "id": "22588_1",
+                  "product_id": 22588,
+                  "age_facet": [
+                    23853,
+                    23854,
+                    23855,
+                    23856,
+                    23852
+                  ],
+                  "eye_concern_facet": [
+                    23860
+                  ],
+                  "key_ingredients_facet": [
+                    23888
+                  ],
+                  "skin_concern_facet": [
+                    23893,
+                    23894,
+                    23897,
+                    23899
+                  ],
+                  "skin_type_facet": [
+                    23901,
+                    23900
+                  ],
+                  "choices_facet": [
+                    23907
+                  ],
+                  "new_index_i": 4511,
+                  "score": 1,
+                  "productSku": [
+                    "183985"
+                  ],
+                  "name": "Clarins After Sun Moisturizer Ultra-Hydrating",
+                  "price": "40.00",
+                  "review_avg": 0,
+                  "review_total": 0,
+                  "product_url": "https://adore.testpad.com.au/clarins/clarins-after-sun-moisturizer-ultra-hydrating.html",
+                  "productImage": "https://adore.testpad.com.au/media/product/7f5/clarins-after-sun-moisturizer-ultra-hydrating-by-clarins-f61.jpg",
+                  "category_badge_name": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "brand_id": 3237,
+                  "brand_name": "Clarins",
+                  "productType": "simple",
+                  "has_special_price": 0,
+                  "specialPrice": "40.00",
+                  "productSalesLastWeek": 0,
+                  "productSales": 39,
+                  "is_consent_needed": 0,
+                  "oldPrice": 0
+                },
+                {
+                  "id": "22587_1",
+                  "product_id": 22587,
+                  "age_facet": [
+                    23853,
+                    23854,
+                    23855,
+                    23856,
+                    23852
+                  ],
+                  "eye_concern_facet": [
+                    23860
+                  ],
+                  "key_ingredients_facet": [
+                    23888
+                  ],
+                  "skin_concern_facet": [
+                    23893,
+                    23894,
+                    23897,
+                    23899
+                  ],
+                  "skin_type_facet": [
+                    23903,
+                    23902,
+                    23901,
+                    23900
+                  ],
+                  "choices_facet": [
+                    23907
+                  ],
+                  "new_index_i": 4512,
+                  "score": 1,
+                  "productSku": [
+                    "183986"
+                  ],
+                  "name": "Clarins After Sun Moisturizer Self Tanning",
+                  "price": "40.00",
+                  "review_avg": 0,
+                  "review_total": 0,
+                  "product_url": "https://adore.testpad.com.au/clarins/clarins-after-sun-moisturizer-self-tanning.html",
+                  "productImage": "https://adore.testpad.com.au/media/product/e18/clarins-after-sun-moisturizer-self-tanning-by-clarins-4ee.jpg",
+                  "category_badge_name": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "brand_id": 3237,
+                  "brand_name": "Clarins",
+                  "productType": "simple",
+                  "has_special_price": 0,
+                  "specialPrice": "40.00",
+                  "productSalesLastWeek": 0,
+                  "productSales": 27,
+                  "is_consent_needed": 0,
+                  "oldPrice": 0
+                },
+                {
+                  "id": "20264_1",
+                  "product_id": 20264,
+                  "new_index_i": 5224,
+                  "score": 1,
+                  "productSku": [
+                    "15038"
+                  ],
+                  "name": "Thalgo Self-Tanning Cream",
+                  "price": "42.00",
+                  "review_avg": 4,
+                  "review_total": 1,
+                  "product_url": "https://adore.testpad.com.au/thalgo/thalgo-self-tanning-cream.html",
+                  "productImage": "https://adore.testpad.com.au/media/product/c4b/thalgo-self-tanning-cream-by-thalgo-431.jpg",
+                  "category_badge_name": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "brand_id": 3648,
+                  "brand_name": "Thalgo",
+                  "productType": "simple",
+                  "has_special_price": 0,
+                  "specialPrice": "42.00",
+                  "productSalesLastWeek": 0,
+                  "productSales": 138,
+                  "is_consent_needed": 0,
+                  "oldPrice": 0
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "type": "button",
+        "content": {
+          "title": "Shop All Aesop",
+          "type": "Primary",
+          "url": "skin-care/fake-tan.html"
+        }
+      },
+      {
+        "type": "button",
+        "content": {
+          "title": "shop",
+          "type": "Secondary",
+          "url": "aesop/guide/this-is-my-really-engaging-post-title.html"
+        }
+      },
+      {
+        "type": "shoppableImage",
+        "content": {
+          "title": "Boom into Bloom",
+          "subTitle": "The Limited-edition line-up",
+          "banner": "https://images.ctfassets.net/pi28xy1s107o/sk_ii_brand_page_banner_1_/b07d7af76e39be8c1abe508306a8b810/SK-II-BRAND-PAGE-BANNER_1_",
+          "shopableItems": [
+            {
+              "type": "brand",
+              "content": {
+                "name": "Aesop",
+                "id": 3173,
+                "product": [
+                  {
+                    "id": "8290_1",
+                    "product_id": 8290,
+                    "age_facet": [
+                      23852,
+                      23853,
+                      23854,
+                      23855,
+                      23856
+                    ],
+                    "key_ingredients_facet": [
+                      23888
+                    ],
+                    "skin_concern_facet": [
+                      23899,
+                      23897
+                    ],
+                    "skin_type_facet": [
+                      23900,
+                      23901
+                    ],
+                    "choices_facet": [
+                      23909,
+                      23905,
+                      23906
+                    ],
+                    "new_index_i": 3417,
+                    "best_sellers_index_i": 315,
+                    "score": 1,
+                    "productSku": [
+                      "B500BT13"
+                    ],
+                    "name": "Aesop Resurrection Aromatique Hand Wash 500ml",
+                    "price": "40.00",
+                    "review_avg": 5,
+                    "review_total": 32,
+                    "product_url": "https://adore.testpad.com.au/aesop/aesop-resurrection-aromatique-hand-wash-500ml.html",
+                    "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-resurrection-aromatique-hand-wash-500ml-by-aesop-431.jpg",
+                    "category_badge_name": [
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    "brand_id": 3173,
+                    "brand_name": "Aesop",
+                    "productType": "simple",
+                    "has_special_price": 0,
+                    "specialPrice": "40.00",
+                    "productSalesLastWeek": 0,
+                    "productSales": 11498,
+                    "is_consent_needed": 0,
+                    "oldPrice": 0
+                  },
+                  {
+                    "id": "4213_1",
+                    "product_id": 4213,
+                    "age_facet": [
+                      23852,
+                      23853,
+                      23854,
+                      23855,
+                      23856
+                    ],
+                    "key_ingredients_facet": [
+                      23888
+                    ],
+                    "skin_concern_facet": [
+                      23899,
+                      23897
+                    ],
+                    "skin_type_facet": [
+                      23900,
+                      23901
+                    ],
+                    "choices_facet": [
+                      23909,
+                      23905,
+                      23907,
+                      23906
+                    ],
+                    "new_index_i": 11862,
+                    "best_sellers_index_i": 14,
+                    "score": 1,
+                    "productSku": [
+                      "B75BM06"
+                    ],
+                    "name": "Aesop Resurrection Aromatique Hand Balm Tube 75ml",
+                    "price": "33.00",
+                    "review_avg": 4.5,
+                    "review_total": 22,
+                    "product_url": "https://adore.testpad.com.au/aesop/aesop-resurrection-aromatique-hand-balm-tube-75ml.html",
+                    "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-resurrection-aromatique-hand-balm-tube-75ml-by-aesop-431.jpg",
+                    "category_badge_name": [
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    "brand_id": 3173,
+                    "brand_name": "Aesop",
+                    "productType": "simple",
+                    "has_special_price": 0,
+                    "specialPrice": "33.00",
+                    "productSalesLastWeek": 0,
+                    "productSales": 5046,
+                    "is_consent_needed": 0,
+                    "oldPrice": 0
+                  },
+                  {
+                    "id": "21911_1",
+                    "product_id": 21911,
+                    "age_facet": [
+                      23852,
+                      23853,
+                      23854,
+                      23855,
+                      23856
+                    ],
+                    "key_ingredients_facet": [
+                      23888
+                    ],
+                    "skin_concern_facet": [
+                      23899,
+                      23896
+                    ],
+                    "skin_type_facet": [
+                      23900,
+                      23901
+                    ],
+                    "choices_facet": [
+                      23909,
+                      23905,
+                      23906
+                    ],
+                    "new_index_i": 59,
+                    "best_sellers_index_i": 44,
+                    "score": 1,
+                    "productSku": [
+                      "B500BT17"
+                    ],
+                    "name": "Aesop Reverence Aromatique Hand Wash",
+                    "price": "40.00",
+                    "review_avg": 4.9,
+                    "review_total": 9,
+                    "product_url": "https://adore.testpad.com.au/aesop/aesop-reverence-aromatique-hand-wash.html",
+                    "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-reverence-aromatique-hand-wash-by-aesop-431.jpg",
+                    "category_badge_name": [
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    "brand_id": 3173,
+                    "brand_name": "Aesop",
+                    "productType": "simple",
+                    "has_special_price": 0,
+                    "specialPrice": "40.00",
+                    "productSalesLastWeek": 0,
+                    "productSales": 3433,
+                    "is_consent_needed": 0,
+                    "oldPrice": 0
+                  },
+                  {
+                    "id": "4223_1",
+                    "product_id": 4223,
+                    "age_facet": [
+                      23852,
+                      23853,
+                      23854
+                    ],
+                    "key_ingredients_facet": [
+                      23888
+                    ],
+                    "skin_concern_facet": [
+                      23895,
+                      23899,
+                      23893,
+                      23898
+                    ],
+                    "skin_type_facet": [
+                      23902,
+                      23903
+                    ],
+                    "choices_facet": [
+                      23909,
+                      23905,
+                      23907,
+                      23906
+                    ],
+                    "new_index_i": 11853,
+                    "best_sellers_index_i": 45,
+                    "score": 1,
+                    "productSku": [
+                      "ASK20RF"
+                    ],
+                    "name": "Aesop Lightweight Facial Hydrating Serum 100ml",
+                    "price": "73.00",
+                    "review_avg": 4.6,
+                    "review_total": 11,
+                    "product_url": "https://adore.testpad.com.au/aesop/aesop-lightweight-facial-hydrating-serum-100ml.html",
+                    "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-lightweight-facial-hydrating-serum-100ml-by-aesop-431.jpg",
+                    "category_badge_name": [
+                      "",
+                      "",
+                      "Top Serum",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    "brand_id": 3173,
+                    "brand_name": "Aesop",
+                    "productType": "simple",
+                    "has_special_price": 0,
+                    "specialPrice": "73.00",
+                    "productSalesLastWeek": 0,
+                    "productSales": 812,
+                    "is_consent_needed": 0,
+                    "oldPrice": 0
+                  },
+                  {
+                    "id": "21915_1",
+                    "product_id": 21915,
+                    "age_facet": [
+                      23852,
+                      23853,
+                      23854,
+                      23855,
+                      23856
+                    ],
+                    "key_ingredients_facet": [
+                      23888
+                    ],
+                    "skin_concern_facet": [
+                      23899,
+                      23897
+                    ],
+                    "skin_type_facet": [
+                      23900,
+                      23901,
+                      23902
+                    ],
+                    "choices_facet": [
+                      23909,
+                      23905,
+                      23906
+                    ],
+                    "new_index_i": 4829,
+                    "best_sellers_index_i": 48,
+                    "score": 1,
+                    "productSku": [
+                      "APB109"
+                    ],
+                    "name": "Aesop Reverence Duet",
+                    "price": "133.00",
+                    "review_avg": 5,
+                    "review_total": 1,
+                    "product_url": "https://adore.testpad.com.au/aesop/aesop-reverence-duet.html",
+                    "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-reverence-duet-by-aesop-431.jpg",
+                    "category_badge_name": [
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    "brand_id": 3173,
+                    "brand_name": "Aesop",
+                    "productType": "simple",
+                    "has_special_price": 0,
+                    "specialPrice": "133.00",
+                    "productSalesLastWeek": 0,
+                    "productSales": 229,
+                    "is_consent_needed": 0,
+                    "oldPrice": 0
+                  },
+                  {
+                    "id": "18974_1",
+                    "product_id": 18974,
+                    "age_facet": [
+                      23852,
+                      23853,
+                      23854,
+                      23855,
+                      23856
+                    ],
+                    "key_ingredients_facet": [
+                      23888
+                    ],
+                    "skin_type_facet": [
+                      23900,
+                      23901,
+                      23902,
+                      23903
+                    ],
+                    "choices_facet": [
+                      23909,
+                      23905,
+                      23907,
+                      23906
+                    ],
+                    "new_index_i": 5289,
+                    "best_sellers_index_i": 54,
+                    "score": 1,
+                    "productSku": [
+                      "B50BT16"
+                    ],
+                    "name": "Aesop Resurrection Rinse-Free Hand Wash 50ml",
+                    "price": "10.00",
+                    "review_avg": 5,
+                    "review_total": 2,
+                    "product_url": "https://adore.testpad.com.au/aesop/aesop-resurrection-rinse-free-hand-wash-50ml.html",
+                    "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-resurrection-rinse-free-hand-wash-50ml-by-aesop-431.jpg",
+                    "category_badge_name": [
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    "brand_id": 3173,
+                    "brand_name": "Aesop",
+                    "productType": "simple",
+                    "has_special_price": 0,
+                    "specialPrice": "10.00",
+                    "productSalesLastWeek": 0,
+                    "productSales": 1230,
+                    "is_consent_needed": 0,
+                    "oldPrice": 0
+                  },
+                  {
+                    "id": "10527_1",
+                    "product_id": 10527,
+                    "age_facet": [
+                      23853,
+                      23854,
+                      23855
+                    ],
+                    "eye_concern_facet": [
+                      23860
+                    ],
+                    "key_ingredients_facet": [
+                      23888
+                    ],
+                    "skin_concern_facet": [
+                      23899,
+                      23893,
+                      23897,
+                      23894
+                    ],
+                    "skin_type_facet": [
+                      23900,
+                      23901,
+                      23902
+                    ],
+                    "choices_facet": [
+                      23909,
+                      23905,
+                      23907,
+                      23906
+                    ],
+                    "new_index_i": 11828,
+                    "best_sellers_index_i": 97,
+                    "score": 1,
+                    "productSku": [
+                      "ASK34"
+                    ],
+                    "name": "Aesop Parsley Seed Anti-Oxidant Serum 100ml",
+                    "price": "83.00",
+                    "review_avg": 5,
+                    "review_total": 7,
+                    "product_url": "https://adore.testpad.com.au/aesop/aesop-parsley-seed-anti-oxidant-serum-100ml.html",
+                    "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-parsley-seed-anti-oxidant-serum-100ml-by-aesop-431.jpg",
+                    "category_badge_name": [
+                      "",
+                      "",
+                      "Top Serum",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    "brand_id": 3173,
+                    "brand_name": "Aesop",
+                    "productType": "simple",
+                    "has_special_price": 0,
+                    "specialPrice": "83.00",
+                    "productSalesLastWeek": 0,
+                    "productSales": 2298,
+                    "is_consent_needed": 0,
+                    "oldPrice": 0
+                  },
+                  {
+                    "id": "15278_1",
+                    "product_id": 15278,
+                    "age_facet": [
+                      23853,
+                      23854,
+                      23855,
+                      23856,
+                      23852
+                    ],
+                    "key_ingredients_facet": [
+                      23888
+                    ],
+                    "skin_concern_facet": [
+                      23897,
+                      23899
+                    ],
+                    "skin_type_facet": [
+                      23901,
+                      23900
+                    ],
+                    "choices_facet": [
+                      23905,
+                      23906,
+                      23909
+                    ],
+                    "new_index_i": 11858,
+                    "best_sellers_index_i": 84,
+                    "score": 1,
+                    "productSku": [
+                      "APB73"
+                    ],
+                    "name": "Aesop Resurrection Duet",
+                    "price": "133.00",
+                    "review_avg": 5,
+                    "review_total": 1,
+                    "product_url": "https://adore.testpad.com.au/aesop/aesop-resurrection-duet.html",
+                    "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-resurrection-duet-by-aesop-431.jpg",
+                    "category_badge_name": [
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    "brand_id": 3173,
+                    "brand_name": "Aesop",
+                    "productType": "simple",
+                    "has_special_price": 0,
+                    "specialPrice": "133.00",
+                    "productSalesLastWeek": 0,
+                    "productSales": 1145,
+                    "is_consent_needed": 0,
+                    "oldPrice": 0
+                  }
+                ]
+              }
+            },
+            {
+              "type": "category",
+              "content": {
+                "name": "Skin Care 1",
+                "id": 43,
+                "product": [
+                  {
+                    "id": "8290_1",
+                    "product_id": 8290,
+                    "age_facet": [
+                      23852,
+                      23853,
+                      23854,
+                      23855,
+                      23856
+                    ],
+                    "key_ingredients_facet": [
+                      23888
+                    ],
+                    "skin_concern_facet": [
+                      23899,
+                      23897
+                    ],
+                    "skin_type_facet": [
+                      23900,
+                      23901
+                    ],
+                    "choices_facet": [
+                      23909,
+                      23905,
+                      23906
+                    ],
+                    "new_index_i": 3417,
+                    "best_sellers_index_i": 315,
+                    "score": 1,
+                    "productSku": [
+                      "B500BT13"
+                    ],
+                    "name": "Aesop Resurrection Aromatique Hand Wash 500ml",
+                    "price": "40.00",
+                    "review_avg": 5,
+                    "review_total": 32,
+                    "product_url": "https://adore.testpad.com.au/aesop/aesop-resurrection-aromatique-hand-wash-500ml.html",
+                    "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-resurrection-aromatique-hand-wash-500ml-by-aesop-431.jpg",
+                    "category_badge_name": [
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    "brand_id": 3173,
+                    "brand_name": "Aesop",
+                    "productType": "simple",
+                    "has_special_price": 0,
+                    "specialPrice": "40.00",
+                    "productSalesLastWeek": 0,
+                    "productSales": 11498,
+                    "is_consent_needed": 0,
+                    "oldPrice": 0
+                  },
+                  {
+                    "id": "381_1",
+                    "product_id": 381,
+                    "age_facet": [
+                      23851,
+                      23853,
+                      23855
+                    ],
+                    "coverage_facet": [
+                      23858,
+                      23859
+                    ],
+                    "eye_concern_facet": [
+                      23860,
+                      23862
+                    ],
+                    "finish_powder_facet": [
+                      23867,
+                      23864
+                    ],
+                    "foundation_finish_facet": [
+                      23870
+                    ],
+                    "hair_concern_facet": [
+                      23873,
+                      23875,
+                      23876,
+                      23877
+                    ],
+                    "hair_curl_type_facet": [
+                      23883,
+                      23884,
+                      23885
+                    ],
+                    "key_ingredients_facet": [
+                      23887,
+                      23890
+                    ],
+                    "skin_concern_facet": [
+                      23898,
+                      23896
+                    ],
+                    "skin_type_facet": [
+                      23900
+                    ],
+                    "choices_facet": [
+                      23909,
+                      23905,
+                      23910
+                    ],
+                    "hair_texture_facet": [
+                      23913
+                    ],
+                    "new_index_i": 3373,
+                    "best_sellers_index_i": 26,
+                    "score": 1,
+                    "productSku": [
+                      "LG100"
+                    ],
+                    "name": "Alpha-H Liquid Gold",
+                    "price": "50.96",
+                    "review_avg": 4.7,
+                    "review_total": 152,
+                    "product_url": "https://adore.testpad.com.au/alpha-h/alpha-h-liquid-gold.html",
+                    "productImage": "https://adore.testpad.com.au/media/product/340/alpha-h-liquid-gold-by-alpha-h-943.png",
+                    "category_badge_name": [
+                      "",
+                      "",
+                      "Top Serum",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    "brand_id": 3175,
+                    "brand_name": "Alpha-H",
+                    "productType": "simple",
+                    "has_special_price": 1,
+                    "specialPrice": "50.96",
+                    "productSalesLastWeek": 0,
+                    "productSales": 19861,
+                    "is_consent_needed": 0,
+                    "oldPrice": "59.95"
+                  },
+                  {
+                    "id": "525206_1",
+                    "product_id": 525206,
+                    "choices_facet": [
+                      23905
+                    ],
+                    "new_index_i": 2574,
+                    "best_sellers_index_i": 10,
+                    "score": 1,
+                    "productSku": [
+                      "12690"
+                    ],
+                    "name": "Dr. Bronner Hand Sanitizer Lavender",
+                    "price": "8.95",
+                    "review_avg": 5,
+                    "review_total": 4,
+                    "product_url": "https://adore.testpad.com.au/dr-bronner-s/dr-bronner-s-hand-sanitizer-lavender.html",
+                    "productImage": "https://adore.testpad.com.au/media/product/9a5/dr-bronner-hand-sanitizer-lavender-by-dr-bronner-s-bed.jpg",
+                    "category_badge_name": [
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    "brand_id": 4046,
+                    "brand_name": "Dr. Bronner's",
+                    "productType": "simple",
+                    "has_special_price": 0,
+                    "specialPrice": "8.95",
+                    "productSalesLastWeek": 0,
+                    "productSales": 918,
+                    "is_consent_needed": 0,
+                    "oldPrice": 0
+                  },
+                  {
+                    "id": "611940_1",
+                    "product_id": 611940,
+                    "age_facet": [
+                      23852,
+                      23853,
+                      23854,
+                      23855,
+                      23856
+                    ],
+                    "key_ingredients_facet": [
+                      23888
+                    ],
+                    "skin_type_facet": [
+                      23900,
+                      23901,
+                      23902,
+                      23903
+                    ],
+                    "choices_facet": [
+                      23909,
+                      23904,
+                      23905,
+                      23908,
+                      23907,
+                      23906
+                    ],
+                    "new_index_i": 1491,
+                    "best_sellers_index_i": 330,
+                    "score": 1,
+                    "productSku": [
+                      "9347246000540"
+                    ],
+                    "name": "Black Chicken Remedies Axilla Deodorant Paste",
+                    "price": "18.50",
+                    "review_avg": 4.8,
+                    "review_total": 24,
+                    "product_url": "https://adore.testpad.com.au/black-chicken-remedies/black-chicken-remedies-axilla-deodorant-paste.html",
+                    "productImage": "https://adore.testpad.com.au/media/product/012/black-chicken-remedies-axilla-deodorant-paste-by-black-chicken-remedies-a86.jpg",
+                    "category_badge_name": [
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    "brand_id": 4569,
+                    "brand_name": "Black Chicken Remedies",
+                    "productType": "simple",
+                    "has_special_price": 0,
+                    "specialPrice": "18.50",
+                    "productSalesLastWeek": 0,
+                    "productSales": 2935,
+                    "is_consent_needed": 0,
+                    "oldPrice": 0
+                  },
+                  {
+                    "id": "24253_1",
+                    "product_id": 24253,
+                    "age_facet": [
+                      23852,
+                      23853,
+                      23854,
+                      23855,
+                      23856
+                    ],
+                    "skin_concern_facet": [
+                      23897
+                    ],
+                    "new_index_i": 904,
+                    "best_sellers_index_i": 13,
+                    "score": 1,
+                    "productSku": [
+                      "1100028709"
+                    ],
+                    "name": "Bioderma Sensibio H2O Solution Micellaire Cleanser 500ml",
+                    "price": "29.99",
+                    "review_avg": 5,
+                    "review_total": 27,
+                    "product_url": "https://adore.testpad.com.au/bioderma-crealine-h2o-solution-micellaire-cleanser-500ml.html",
+                    "productImage": "https://adore.testpad.com.au/media/product/500/bioderma-sensibio-h2o-solution-micellaire-cleanser-500ml-1c5.jpg",
+                    "category_badge_name": [
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    "productType": "simple",
+                    "has_special_price": 0,
+                    "specialPrice": "29.99",
+                    "productSalesLastWeek": 0,
+                    "productSales": 3021,
+                    "is_consent_needed": 0,
+                    "oldPrice": 0
+                  },
+                  {
+                    "id": "4213_1",
+                    "product_id": 4213,
+                    "age_facet": [
+                      23852,
+                      23853,
+                      23854,
+                      23855,
+                      23856
+                    ],
+                    "key_ingredients_facet": [
+                      23888
+                    ],
+                    "skin_concern_facet": [
+                      23899,
+                      23897
+                    ],
+                    "skin_type_facet": [
+                      23900,
+                      23901
+                    ],
+                    "choices_facet": [
+                      23909,
+                      23905,
+                      23907,
+                      23906
+                    ],
+                    "new_index_i": 11862,
+                    "best_sellers_index_i": 14,
+                    "score": 1,
+                    "productSku": [
+                      "B75BM06"
+                    ],
+                    "name": "Aesop Resurrection Aromatique Hand Balm Tube 75ml",
+                    "price": "33.00",
+                    "review_avg": 4.5,
+                    "review_total": 22,
+                    "product_url": "https://adore.testpad.com.au/aesop/aesop-resurrection-aromatique-hand-balm-tube-75ml.html",
+                    "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-resurrection-aromatique-hand-balm-tube-75ml-by-aesop-431.jpg",
+                    "category_badge_name": [
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    "brand_id": 3173,
+                    "brand_name": "Aesop",
+                    "productType": "simple",
+                    "has_special_price": 0,
+                    "specialPrice": "33.00",
+                    "productSalesLastWeek": 0,
+                    "productSales": 5046,
+                    "is_consent_needed": 0,
+                    "oldPrice": 0
+                  },
+                  {
+                    "id": "16550_1",
+                    "product_id": 16550,
+                    "new_index_i": 4209,
+                    "best_sellers_index_i": 16,
+                    "score": 1,
+                    "productSku": [
+                      "EHC50"
+                    ],
+                    "name": "Alpha-H Essential Hydration Cream",
+                    "price": "44.16",
+                    "review_avg": 4.5,
+                    "review_total": 40,
+                    "product_url": "https://adore.testpad.com.au/alpha-h/alpha-h-essential-hydration-cream.html",
+                    "productImage": "https://adore.testpad.com.au/media/product/c4b/alpha-h-essential-hydration-cream-by-alpha-h-431.jpg",
+                    "category_badge_name": [
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    "brand_id": 3175,
+                    "brand_name": "Alpha-H",
+                    "productType": "simple",
+                    "has_special_price": 1,
+                    "specialPrice": "44.16",
+                    "productSalesLastWeek": 0,
+                    "productSales": 7151,
+                    "is_consent_needed": 0,
+                    "oldPrice": "51.95"
+                  },
+                  {
+                    "id": "10396_1",
+                    "product_id": 10396,
+                    "age_facet": [
+                      23853,
+                      23854,
+                      23855,
+                      23856,
+                      23852
+                    ],
+                    "skin_concern_facet": [
+                      23899
+                    ],
+                    "new_index_i": 11874,
+                    "best_sellers_index_i": 18,
+                    "score": 1,
+                    "productSku": [
+                      "01MA030K16"
+                    ],
+                    "name": "L'Occitane Shea Butter Hand Cream - 30ml",
+                    "price": "15.00",
+                    "review_avg": 4.6,
+                    "review_total": 5,
+                    "product_url": "https://adore.testpad.com.au/loccitane/l-occitane-shea-hand-cream-1.html",
+                    "productImage": "https://adore.testpad.com.au/media/product/9d1/l-occitane-shea-butter-hand-cream-30ml-by-l-occitane-699.jpg",
+                    "category_badge_name": [
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      "",
+                      ""
+                    ],
+                    "brand_id": 3432,
+                    "brand_name": "L'Occitane",
+                    "productType": "simple",
+                    "has_special_price": 0,
+                    "specialPrice": "15.00",
+                    "productSalesLastWeek": 0,
+                    "productSales": 1224,
+                    "is_consent_needed": 0,
+                    "oldPrice": 0
+                  }
+                ]
+              }
+            }
+          ],
+          "button": {
+            "title": "Shop The Limited List",
+            "type": "Primary",
+            "url": null
+          },
+          "logo": ""
+        }
+      },
+      {
+        "type": "multipleShoppableImage",
+        "content": {
+          "title": "Lets try a GIF",
+          "description": "Does this work?",
+          "banner": "https://images.ctfassets.net/pi28xy1s107o/196noiev7oYAmadPJbde8R/8d8141c34b901633931a53d71a3ba8d0/hello.gif",
+          "productsAndGroup": [
+            {
+              "type": "shoppableGroup",
+              "content": {
+                "title": "Exfoliate & Cleanse",
+                "product": [
+                  {
+                    "type": "product",
+                    "content": {
+                      "id": 21232,
+                      "name": "Aesop Classic Conditioner",
+                      "image": "https://adore.testpad.com.au/media/product/f64/aesop-classic-conditioner-by-aesop-59a.jpg",
+                      "url": "https://adore.testpad.com.au/aesop/aesop-classic-conditioner.html",
+                      "hideLink": true
+                    }
+                  },
+                  {
+                    "type": "product",
+                    "content": {
+                      "id": 10527,
+                      "name": "Aesop Parsley Seed Anti-Oxidant Serum 100ml",
+                      "image": "https://adore.testpad.com.au/media/product/c4b/aesop-parsley-seed-anti-oxidant-serum-100ml-by-aesop-431.jpg",
+                      "url": "https://adore.testpad.com.au/aesop/aesop-parsley-seed-anti-oxidant-serum-100ml.html"
+                    }
+                  },
+                  {
+                    "type": "product",
+                    "content": {
+                      "id": 957706,
+                      "name": "Benefit Goof Proof Brow Pencil - 03 Medium",
+                      "image": "https://adore.testpad.com.au/media/product/c4b/benefit-goof-proof-brow-pencil-03-medium-by-benefit-cosmetics-431.jpg",
+                      "url": "https://adore.testpad.com.au/benefit-cosmetics/benefit-goof-proof-brow-pencil-03-medium-range.html"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "shoppableGroup",
+              "content": {
+                "title": "Exfoliate & Cleanse",
+                "product": [
+                  {
+                    "type": "product",
+                    "content": {
+                      "id": 609668,
+                      "name": "LAB SERIES MAX LS Daily Renewing Cleanser",
+                      "image": "https://adore.testpad.com.au/media/product/801/lab-series-max-ls-daily-renewing-cleanser-by-lab-series-skincare-for-men-41c.jpg",
+                      "url": "https://adore.testpad.com.au/lab-series/lab-series-max-ls-daily-renewing-cleanser.html"
+                    }
+                  },
+                  {
+                    "type": "product",
+                    "content": {
+                      "id": 610967,
+                      "name": "Intraceuticals Rejuvenate Gentle Cleanser",
+                      "image": "https://adore.testpad.com.au/media/product/430/intraceuticals-rejuvenate-gentle-cleanser-by-intraceuticals-743.jpg",
+                      "url": "https://adore.testpad.com.au/intraceuticals/intraceuticals-rejuvenate-gentle-cleanser.html"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "shoppableGroup",
+              "content": {
+                "title": "Tone, Moisturise",
+                "product": [
+                  {
+                    "type": "product",
+                    "content": {
+                      "id": 645415,
+                      "name": "Sukin Hydrating Mist Toner",
+                      "image": "https://adore.testpad.com.au/media/product/c4b/sukin-hydrating-mist-toner-by-sukin-431.jpg",
+                      "url": "https://adore.testpad.com.au/sukin/sukin-hydrating-mist-toner-125ml.html",
+                      "hideLink": true
+                    }
+                  },
+                  {
+                    "type": "product",
+                    "content": {
+                      "id": 638164,
+                      "name": "HydroPeptide Firming Body Moisturiser",
+                      "image": "https://adore.testpad.com.au/media/product/5ad/hydropeptide-firming-body-moisturiser-by-hydropeptide-2d2.jpg",
+                      "url": "https://adore.testpad.com.au/hydropeptide/hydropeptide-firming-moisturizer.html"
+                    }
+                  },
+                  {
+                    "type": "product",
+                    "content": {
+                      "id": 611516,
+                      "name": "The Ordinary Natural Moisturizing Factors + HA",
+                      "image": "https://adore.testpad.com.au/media/product/4bd/the-ordinary-natural-moisturizing-factors-ha-by-the-ordinary-0a4.jpg",
+                      "url": "https://adore.testpad.com.au/the-ordinary/the-ordinary-natural-moisturizing-factors-ha-30ml.html"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "multipleShoppableImage",
+        "content": {
+          "title": "Olive/Asian & darker skin",
+          "description": "Laboris nisi ut aliquip ex ea commodo consequat.\nUt enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.\nEsse cillum dolore eu fugiat nulla pariatur.",
+          "banner": "https://videos.ctfassets.net/pi28xy1s107o/3BAZPEGSTEbZu8xRh2hL2Z/6c9d3d0413c7cfb7110d481ac4cffaa8/Pexels_Videos_1596893.mp4",
+          "productsAndGroup": [
+            {
+              "type": "shoppableGroup",
+              "content": {
+                "title": "Exfoliate & Cleanse",
+                "product": [
+                  {
+                    "type": "product",
+                    "content": {
+                      "id": 21232,
+                      "name": "Aesop Classic Conditioner",
+                      "image": "https://adore.testpad.com.au/media/product/f64/aesop-classic-conditioner-by-aesop-59a.jpg",
+                      "url": "https://adore.testpad.com.au/aesop/aesop-classic-conditioner.html",
+                      "hideLink": true
+                    }
+                  },
+                  {
+                    "type": "product",
+                    "content": {
+                      "id": 10527,
+                      "name": "Aesop Parsley Seed Anti-Oxidant Serum 100ml",
+                      "image": "https://adore.testpad.com.au/media/product/c4b/aesop-parsley-seed-anti-oxidant-serum-100ml-by-aesop-431.jpg",
+                      "url": "https://adore.testpad.com.au/aesop/aesop-parsley-seed-anti-oxidant-serum-100ml.html"
+                    }
+                  },
+                  {
+                    "type": "product",
+                    "content": {
+                      "id": 957706,
+                      "name": "Benefit Goof Proof Brow Pencil - 03 Medium",
+                      "image": "https://adore.testpad.com.au/media/product/c4b/benefit-goof-proof-brow-pencil-03-medium-by-benefit-cosmetics-431.jpg",
+                      "url": "https://adore.testpad.com.au/benefit-cosmetics/benefit-goof-proof-brow-pencil-03-medium-range.html"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "shoppableGroup",
+              "content": {
+                "title": "Tone, Moisturise",
+                "product": [
+                  {
+                    "type": "product",
+                    "content": {
+                      "id": 694712,
+                      "name": "L'Occitane Shea Butter Intensive Hand Balm",
+                      "image": "https://adore.testpad.com.au/media/product/c4b/l-occitane-shea-butter-intensive-hand-balm-by-l-occitane-431.jpg",
+                      "url": "https://adore.testpad.com.au/loccitane/l-occitane-shea-butter-intensive-hand-balm.html"
+                    }
+                  },
+                  {
+                    "type": "product",
+                    "content": {
+                      "id": 642363,
+                      "name": "Pixi Beauty Bronzer + Kabuki - Subtly Suntouched",
+                      "image": "https://adore.testpad.com.au/media/product/c4b/pixi-beauty-bronzer-kabuki-subtly-suntouched-by-pixi-color-subtly-suntouched-431.jpg",
+                      "url": "https://adore.testpad.com.au/pixi/pixi-beauty-bronzer-kabuki-subtly-suntouched.html",
+                      "hideLink": true
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "content",
+        "content": {
+          "html": "<p></p>"
+        }
+      },
+      {
+        "type": "brand",
+        "content": {
+          "name": "Aesop",
+          "id": 3173,
+          "product": [
+            {
+              "id": "8290_1",
+              "product_id": 8290,
+              "age_facet": [
+                23852,
+                23853,
+                23854,
+                23855,
+                23856
+              ],
+              "key_ingredients_facet": [
+                23888
+              ],
+              "skin_concern_facet": [
+                23899,
+                23897
+              ],
+              "skin_type_facet": [
+                23900,
+                23901
+              ],
+              "choices_facet": [
+                23909,
+                23905,
+                23906
+              ],
+              "new_index_i": 3417,
+              "best_sellers_index_i": 315,
+              "score": 1,
+              "productSku": [
+                "B500BT13"
+              ],
+              "name": "Aesop Resurrection Aromatique Hand Wash 500ml",
+              "price": "40.00",
+              "review_avg": 5,
+              "review_total": 32,
+              "product_url": "https://adore.testpad.com.au/aesop/aesop-resurrection-aromatique-hand-wash-500ml.html",
+              "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-resurrection-aromatique-hand-wash-500ml-by-aesop-431.jpg",
+              "category_badge_name": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "brand_id": 3173,
+              "brand_name": "Aesop",
+              "productType": "simple",
+              "has_special_price": 0,
+              "specialPrice": "40.00",
+              "productSalesLastWeek": 0,
+              "productSales": 11498,
+              "is_consent_needed": 0,
+              "oldPrice": 0
+            },
+            {
+              "id": "4213_1",
+              "product_id": 4213,
+              "age_facet": [
+                23852,
+                23853,
+                23854,
+                23855,
+                23856
+              ],
+              "key_ingredients_facet": [
+                23888
+              ],
+              "skin_concern_facet": [
+                23899,
+                23897
+              ],
+              "skin_type_facet": [
+                23900,
+                23901
+              ],
+              "choices_facet": [
+                23909,
+                23905,
+                23907,
+                23906
+              ],
+              "new_index_i": 11862,
+              "best_sellers_index_i": 14,
+              "score": 1,
+              "productSku": [
+                "B75BM06"
+              ],
+              "name": "Aesop Resurrection Aromatique Hand Balm Tube 75ml",
+              "price": "33.00",
+              "review_avg": 4.5,
+              "review_total": 22,
+              "product_url": "https://adore.testpad.com.au/aesop/aesop-resurrection-aromatique-hand-balm-tube-75ml.html",
+              "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-resurrection-aromatique-hand-balm-tube-75ml-by-aesop-431.jpg",
+              "category_badge_name": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "brand_id": 3173,
+              "brand_name": "Aesop",
+              "productType": "simple",
+              "has_special_price": 0,
+              "specialPrice": "33.00",
+              "productSalesLastWeek": 0,
+              "productSales": 5046,
+              "is_consent_needed": 0,
+              "oldPrice": 0
+            },
+            {
+              "id": "21911_1",
+              "product_id": 21911,
+              "age_facet": [
+                23852,
+                23853,
+                23854,
+                23855,
+                23856
+              ],
+              "key_ingredients_facet": [
+                23888
+              ],
+              "skin_concern_facet": [
+                23899,
+                23896
+              ],
+              "skin_type_facet": [
+                23900,
+                23901
+              ],
+              "choices_facet": [
+                23909,
+                23905,
+                23906
+              ],
+              "new_index_i": 59,
+              "best_sellers_index_i": 44,
+              "score": 1,
+              "productSku": [
+                "B500BT17"
+              ],
+              "name": "Aesop Reverence Aromatique Hand Wash",
+              "price": "40.00",
+              "review_avg": 4.9,
+              "review_total": 9,
+              "product_url": "https://adore.testpad.com.au/aesop/aesop-reverence-aromatique-hand-wash.html",
+              "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-reverence-aromatique-hand-wash-by-aesop-431.jpg",
+              "category_badge_name": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "brand_id": 3173,
+              "brand_name": "Aesop",
+              "productType": "simple",
+              "has_special_price": 0,
+              "specialPrice": "40.00",
+              "productSalesLastWeek": 0,
+              "productSales": 3433,
+              "is_consent_needed": 0,
+              "oldPrice": 0
+            },
+            {
+              "id": "4223_1",
+              "product_id": 4223,
+              "age_facet": [
+                23852,
+                23853,
+                23854
+              ],
+              "key_ingredients_facet": [
+                23888
+              ],
+              "skin_concern_facet": [
+                23895,
+                23899,
+                23893,
+                23898
+              ],
+              "skin_type_facet": [
+                23902,
+                23903
+              ],
+              "choices_facet": [
+                23909,
+                23905,
+                23907,
+                23906
+              ],
+              "new_index_i": 11853,
+              "best_sellers_index_i": 45,
+              "score": 1,
+              "productSku": [
+                "ASK20RF"
+              ],
+              "name": "Aesop Lightweight Facial Hydrating Serum 100ml",
+              "price": "73.00",
+              "review_avg": 4.6,
+              "review_total": 11,
+              "product_url": "https://adore.testpad.com.au/aesop/aesop-lightweight-facial-hydrating-serum-100ml.html",
+              "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-lightweight-facial-hydrating-serum-100ml-by-aesop-431.jpg",
+              "category_badge_name": [
+                "",
+                "",
+                "Top Serum",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "brand_id": 3173,
+              "brand_name": "Aesop",
+              "productType": "simple",
+              "has_special_price": 0,
+              "specialPrice": "73.00",
+              "productSalesLastWeek": 0,
+              "productSales": 812,
+              "is_consent_needed": 0,
+              "oldPrice": 0
+            },
+            {
+              "id": "21915_1",
+              "product_id": 21915,
+              "age_facet": [
+                23852,
+                23853,
+                23854,
+                23855,
+                23856
+              ],
+              "key_ingredients_facet": [
+                23888
+              ],
+              "skin_concern_facet": [
+                23899,
+                23897
+              ],
+              "skin_type_facet": [
+                23900,
+                23901,
+                23902
+              ],
+              "choices_facet": [
+                23909,
+                23905,
+                23906
+              ],
+              "new_index_i": 4829,
+              "best_sellers_index_i": 48,
+              "score": 1,
+              "productSku": [
+                "APB109"
+              ],
+              "name": "Aesop Reverence Duet",
+              "price": "133.00",
+              "review_avg": 5,
+              "review_total": 1,
+              "product_url": "https://adore.testpad.com.au/aesop/aesop-reverence-duet.html",
+              "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-reverence-duet-by-aesop-431.jpg",
+              "category_badge_name": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "brand_id": 3173,
+              "brand_name": "Aesop",
+              "productType": "simple",
+              "has_special_price": 0,
+              "specialPrice": "133.00",
+              "productSalesLastWeek": 0,
+              "productSales": 229,
+              "is_consent_needed": 0,
+              "oldPrice": 0
+            },
+            {
+              "id": "18974_1",
+              "product_id": 18974,
+              "age_facet": [
+                23852,
+                23853,
+                23854,
+                23855,
+                23856
+              ],
+              "key_ingredients_facet": [
+                23888
+              ],
+              "skin_type_facet": [
+                23900,
+                23901,
+                23902,
+                23903
+              ],
+              "choices_facet": [
+                23909,
+                23905,
+                23907,
+                23906
+              ],
+              "new_index_i": 5289,
+              "best_sellers_index_i": 54,
+              "score": 1,
+              "productSku": [
+                "B50BT16"
+              ],
+              "name": "Aesop Resurrection Rinse-Free Hand Wash 50ml",
+              "price": "10.00",
+              "review_avg": 5,
+              "review_total": 2,
+              "product_url": "https://adore.testpad.com.au/aesop/aesop-resurrection-rinse-free-hand-wash-50ml.html",
+              "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-resurrection-rinse-free-hand-wash-50ml-by-aesop-431.jpg",
+              "category_badge_name": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "brand_id": 3173,
+              "brand_name": "Aesop",
+              "productType": "simple",
+              "has_special_price": 0,
+              "specialPrice": "10.00",
+              "productSalesLastWeek": 0,
+              "productSales": 1230,
+              "is_consent_needed": 0,
+              "oldPrice": 0
+            },
+            {
+              "id": "10527_1",
+              "product_id": 10527,
+              "age_facet": [
+                23853,
+                23854,
+                23855
+              ],
+              "eye_concern_facet": [
+                23860
+              ],
+              "key_ingredients_facet": [
+                23888
+              ],
+              "skin_concern_facet": [
+                23899,
+                23893,
+                23897,
+                23894
+              ],
+              "skin_type_facet": [
+                23900,
+                23901,
+                23902
+              ],
+              "choices_facet": [
+                23909,
+                23905,
+                23907,
+                23906
+              ],
+              "new_index_i": 11828,
+              "best_sellers_index_i": 97,
+              "score": 1,
+              "productSku": [
+                "ASK34"
+              ],
+              "name": "Aesop Parsley Seed Anti-Oxidant Serum 100ml",
+              "price": "83.00",
+              "review_avg": 5,
+              "review_total": 7,
+              "product_url": "https://adore.testpad.com.au/aesop/aesop-parsley-seed-anti-oxidant-serum-100ml.html",
+              "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-parsley-seed-anti-oxidant-serum-100ml-by-aesop-431.jpg",
+              "category_badge_name": [
+                "",
+                "",
+                "Top Serum",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "brand_id": 3173,
+              "brand_name": "Aesop",
+              "productType": "simple",
+              "has_special_price": 0,
+              "specialPrice": "83.00",
+              "productSalesLastWeek": 0,
+              "productSales": 2298,
+              "is_consent_needed": 0,
+              "oldPrice": 0
+            },
+            {
+              "id": "15278_1",
+              "product_id": 15278,
+              "age_facet": [
+                23853,
+                23854,
+                23855,
+                23856,
+                23852
+              ],
+              "key_ingredients_facet": [
+                23888
+              ],
+              "skin_concern_facet": [
+                23897,
+                23899
+              ],
+              "skin_type_facet": [
+                23901,
+                23900
+              ],
+              "choices_facet": [
+                23905,
+                23906,
+                23909
+              ],
+              "new_index_i": 11858,
+              "best_sellers_index_i": 84,
+              "score": 1,
+              "productSku": [
+                "APB73"
+              ],
+              "name": "Aesop Resurrection Duet",
+              "price": "133.00",
+              "review_avg": 5,
+              "review_total": 1,
+              "product_url": "https://adore.testpad.com.au/aesop/aesop-resurrection-duet.html",
+              "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-resurrection-duet-by-aesop-431.jpg",
+              "category_badge_name": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              "brand_id": 3173,
+              "brand_name": "Aesop",
+              "productType": "simple",
+              "has_special_price": 0,
+              "specialPrice": "133.00",
+              "productSalesLastWeek": 0,
+              "productSales": 1145,
+              "is_consent_needed": 0,
+              "oldPrice": 0
+            }
+          ]
+        }
+      },
+      {
+        "type": "content",
+        "content": {
+          "html": "<p><img src=\"https://www.adorebeauty.com.au/skin/frontend/enterprise/adore/images/product-loader.svg\" title=\"Merry Christmas\" alt=\"Merry Christmas\" data-src=\"https://images.ctfassets.net/pi28xy1s107o/KQnztNG02AuKaAccUwGKs/43b49373cc728afdd7fa4c3aecb5c588/Holiday_Launch_WEB_Second_Banner_Mobile_-_375x160.png?w=700&h=540\" class=\"--show-above-small\" /><img src=\"https://www.adorebeauty.com.au/skin/frontend/enterprise/adore/images/product-loader.svg\" title=\"Merry Christmas\" alt=\"Merry Christmas\" data-src=\"https://images.ctfassets.net/pi28xy1s107o/KQnztNG02AuKaAccUwGKs/43b49373cc728afdd7fa4c3aecb5c588/Holiday_Launch_WEB_Second_Banner_Mobile_-_375x160.png?w=330&h=270\" class=\"--hide-above-small\" /></p><p></p>"
+        }
+      }
+    ],
+    "productsBrands": [
+      {
+        "id": 3170,
+        "name": "Dermalogica",
+        "url": "https://adore.testpad.com.au/dermalogica.html",
+        "logo": "https://adore.testpad.com.au/media/catalog/category/dermalogica_1.png"
+      },
+      {
+        "id": 3165,
+        "name": "Benefit Cosmetics",
+        "url": "https://adore.testpad.com.au/benefit-cosmetics.html",
+        "logo": "https://adore.testpad.com.au/media/catalog/category/benefit-cosmetics.png"
+      },
+      {
+        "id": 3980,
+        "name": "HydroPeptide",
+        "url": "https://adore.testpad.com.au/hydropeptide.html",
+        "logo": "https://adore.testpad.com.au/media/catalog/category/hydropeptide.png"
+      },
+      {
+        "id": 4557,
+        "name": "LAB SERIES SKINCARE FOR MEN",
+        "url": "https://adore.testpad.com.au/lab-series.html",
+        "logo": "https://adore.testpad.com.au/media/catalog/category/LS_HorizontalLogo_Black_160x65_1.png"
+      },
+      {
+        "id": 4572,
+        "name": "Intraceuticals",
+        "url": "https://adore.testpad.com.au/intraceuticals.html",
+        "logo": "https://adore.testpad.com.au/media/catalog/category/160-65-intraceuticals_logo.png"
+      },
+      {
+        "id": 4577,
+        "name": "The Ordinary",
+        "url": "https://adore.testpad.com.au/the-ordinary.html",
+        "logo": "https://adore.testpad.com.au/media/catalog/category/Untitled-1_2.png"
+      },
+      {
+        "id": 3173,
+        "name": "Aesop",
+        "url": "https://adore.testpad.com.au/aesop.html",
+        "logo": "https://adore.testpad.com.au/media/catalog/category/aesop.png"
+      },
+      {
+        "id": 3215,
+        "name": "Bioderma",
+        "url": "https://adore.testpad.com.au/bioderma.html",
+        "logo": "https://adore.testpad.com.au/media/catalog/category/bioderma.png"
+      },
+      {
+        "id": 4569,
+        "name": "Black Chicken Remedies",
+        "url": "https://adore.testpad.com.au/black-chicken-remedies.html",
+        "logo": "https://adore.testpad.com.au/media/catalog/category/black_chicken_remedies_160_65_png.png"
+      },
+      {
+        "id": 3175,
+        "name": "Alpha-H",
+        "url": "https://adore.testpad.com.au/alpha-h.html",
+        "logo": "https://adore.testpad.com.au/media/catalog/category/alpha-h_text.jpg"
+      },
+      {
+        "id": 4046,
+        "name": "Dr. Bronner's",
+        "url": "https://adore.testpad.com.au/dr-bronner-s.html",
+        "logo": "https://adore.testpad.com.au/media/catalog/category/160_65_dr_bronner_Logo_Blue_vertical.jpg"
+      },
+      {
+        "id": 3432,
+        "name": "L'Occitane",
+        "url": "https://adore.testpad.com.au/loccitane.html",
+        "logo": "https://adore.testpad.com.au/media/catalog/category/loccitane.png"
+      },
+      {
+        "id": 3881,
+        "name": "Eco Tan",
+        "url": "https://adore.testpad.com.au/eco-tan.html",
+        "logo": "https://adore.testpad.com.au/media/catalog/category/eco-tan.png"
+      },
+      {
+        "id": 4568,
+        "name": "Loving Tan",
+        "url": "https://adore.testpad.com.au/loving-tan.html",
+        "logo": "https://adore.testpad.com.au/media/catalog/category/160_65_loving_tan_logo.png"
+      },
+      {
+        "id": 3237,
+        "name": "Clarins",
+        "url": "https://adore.testpad.com.au/clarins.html",
+        "logo": "https://adore.testpad.com.au/media/catalog/category/clarins.png"
+      },
+      {
+        "id": 3612,
+        "name": "SkinCeuticals",
+        "url": "https://adore.testpad.com.au/skinceuticals.html",
+        "logo": "https://adore.testpad.com.au/media/catalog/category/skinceuticals.png"
+      },
+      {
+        "id": 3308,
+        "name": "Dr. Hauschka",
+        "url": "https://adore.testpad.com.au/dr-hauschka.html",
+        "logo": "https://adore.testpad.com.au/media/catalog/category/Dr_H.jpg"
+      },
+      {
+        "id": 3648,
+        "name": "Thalgo",
+        "url": "https://adore.testpad.com.au/thalgo.html",
+        "logo": "https://adore.testpad.com.au/media/catalog/category/thalgo.png"
+      }
+    ],
+    "productsFilters": [
+      {
+        "code": "choices",
+        "title": "Choices",
+        "items": [
+          {
+            "id": 23908,
+            "name": "Fragrance Free"
+          },
+          {
+            "id": 23907,
+            "name": "Sulphate Free"
+          },
+          {
+            "id": 23909,
+            "name": "Australian Made"
+          },
+          {
+            "id": 23906,
+            "name": "Vegan"
+          },
+          {
+            "id": 23905,
+            "name": "Cruelty Free"
+          },
+          {
+            "id": 23904,
+            "name": "Certified Organic"
+          },
+          {
+            "id": 23910,
+            "name": "Has SPF"
+          }
+        ]
+      },
+      {
+        "code": "skin_concern",
+        "title": "Skin Concern",
+        "items": [
+          {
+            "id": 23893,
+            "name": "First signs of ageing"
+          },
+          {
+            "id": 23899,
+            "name": "Dull, dry or dehydrated skin"
+          },
+          {
+            "id": 23897,
+            "name": "Sensitivity and redness"
+          },
+          {
+            "id": 23894,
+            "name": "Wrinkles and loss of firmness"
+          },
+          {
+            "id": 23898,
+            "name": "Oiliness and shine"
+          },
+          {
+            "id": 23896,
+            "name": "Pigmentation, uneven skin tone"
+          },
+          {
+            "id": 23895,
+            "name": "Acne, breakouts and blackheads"
+          }
+        ]
+      },
+      {
+        "code": "skin_type",
+        "title": "Skin Type",
+        "items": [
+          {
+            "id": 23903,
+            "name": "Oily"
+          },
+          {
+            "id": 23902,
+            "name": "Normal to oily"
+          },
+          {
+            "id": 23901,
+            "name": "Normal to dry"
+          },
+          {
+            "id": 23900,
+            "name": "Dry"
+          }
+        ]
+      },
+      {
+        "code": "eye_concern",
+        "title": "Eye Concern",
+        "items": [
+          {
+            "id": 23860,
+            "name": "Age Prevention"
+          },
+          {
+            "id": 23862,
+            "name": "Deep Lines"
+          }
+        ]
+      },
+      {
+        "code": "coverage",
+        "title": "Coverage",
+        "items": [
+          {
+            "id": 23858,
+            "name": "Medium"
+          },
+          {
+            "id": 23859,
+            "name": "Sheer"
+          }
+        ]
+      },
+      {
+        "code": "finish_powder",
+        "title": "Finish - Powders",
+        "items": [
+          {
+            "id": 23867,
+            "name": "Glitter/sparkle"
+          },
+          {
+            "id": 23864,
+            "name": "Matte"
+          }
+        ]
+      },
+      {
+        "code": "foundation_finish",
+        "title": "Foundation Finish",
+        "items": [
+          {
+            "id": 23870,
+            "name": "Natural/Satin"
+          }
+        ]
+      },
+      {
+        "code": "hair_concern",
+        "title": "Hair Concern",
+        "items": [
+          {
+            "id": 23873,
+            "name": "Colour protection"
+          },
+          {
+            "id": 23875,
+            "name": "Dull, lacking shine"
+          },
+          {
+            "id": 23876,
+            "name": "Fine or limp hair"
+          },
+          {
+            "id": 23877,
+            "name": "Flaky scalp"
+          }
+        ]
+      },
+      {
+        "code": "hair_curl_type",
+        "title": "Hair Curl Type",
+        "items": [
+          {
+            "id": 23883,
+            "name": "Curly"
+          },
+          {
+            "id": 23884,
+            "name": "Straight"
+          },
+          {
+            "id": 23885,
+            "name": "Very curly/African/Caribbean"
+          }
+        ]
+      },
+      {
+        "code": "hair_texture",
+        "title": "Hair Texture",
+        "items": [
+          {
+            "id": 23913,
+            "name": "Coarse"
+          }
+        ]
+      }
+    ],
+    "seo-desc": "This is the Meta Description",
+    "products": [
+      {
+        "id": "667720_1",
+        "product_id": 667720,
+        "choices_facet": [
+          23908
+        ],
+        "new_index_i": 596,
+        "best_sellers_index_i": 51,
+        "score": 3.9747713,
+        "productSku": [
+          "111266"
+        ],
+        "name": "Dermalogica PreCleanse Balm ",
+        "price": "57.64",
+        "review_avg": 5,
+        "review_total": 13,
+        "product_url": "https://adore.testpad.com.au/dermalogica/dermalogica-precleanse-balm.html",
+        "productImage": "https://adore.testpad.com.au/media/product/c4b/dermalogica-precleanse-balm-by-dermalogica-431.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3170,
+        "brand_name": "Dermalogica",
+        "productType": "simple",
+        "has_special_price": 1,
+        "specialPrice": "57.64",
+        "productSalesLastWeek": 0,
+        "productSales": 444,
+        "is_consent_needed": 0,
+        "oldPrice": "65.50"
+      },
+      {
+        "id": "957706_1",
+        "product_id": 957706,
+        "new_index_i": 295,
+        "best_sellers_index_i": 161,
+        "score": 4.5921,
+        "productSku": [
+          "benefitgoofproof03medium",
+          "BM58",
+          "BM14"
+        ],
+        "name": "Benefit Goof Proof Brow Pencil - 03 Medium",
+        "price": "23.00",
+        "review_avg": 0,
+        "review_total": 0,
+        "product_url": "https://adore.testpad.com.au/benefit-cosmetics/benefit-goof-proof-brow-pencil-03-medium-range.html",
+        "productImage": "https://adore.testpad.com.au/media/product/c4b/benefit-goof-proof-brow-pencil-03-medium-by-benefit-cosmetics-431.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3165,
+        "brand_name": "Benefit Cosmetics",
+        "productType": "grouped",
+        "has_special_price": 0,
+        "specialPrice": "23.00",
+        "productSalesLastWeek": 0,
+        "productSales": 0,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "638164_1",
+        "product_id": 638164,
+        "new_index_i": 1274,
+        "score": 4.8592763,
+        "productSku": [
+          "1210119"
+        ],
+        "name": "HydroPeptide Firming Body Moisturiser",
+        "price": "145.00",
+        "review_avg": 0,
+        "review_total": 0,
+        "product_url": "https://adore.testpad.com.au/hydropeptide/hydropeptide-firming-moisturizer.html",
+        "productImage": "https://adore.testpad.com.au/media/product/5ad/hydropeptide-firming-body-moisturiser-by-hydropeptide-2d2.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3980,
+        "brand_name": "HydroPeptide",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "145.00",
+        "productSalesLastWeek": 0,
+        "productSales": 8,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "609668_1",
+        "product_id": 609668,
+        "age_facet": [
+          23853,
+          23854,
+          23855,
+          23856,
+          23852
+        ],
+        "key_ingredients_facet": [
+          23888
+        ],
+        "skin_concern_facet": [
+          23893
+        ],
+        "skin_type_facet": [
+          23903,
+          23902,
+          23901,
+          23900
+        ],
+        "choices_facet": [
+          23907
+        ],
+        "new_index_i": 1507,
+        "score": 4.5921,
+        "productSku": [
+          "51MF010000"
+        ],
+        "name": "LAB SERIES MAX LS Daily Renewing Cleanser",
+        "price": "70.00",
+        "review_avg": 0,
+        "review_total": 0,
+        "product_url": "https://adore.testpad.com.au/lab-series/lab-series-max-ls-daily-renewing-cleanser.html",
+        "productImage": "https://adore.testpad.com.au/media/product/801/lab-series-max-ls-daily-renewing-cleanser-by-lab-series-skincare-for-men-41c.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 4557,
+        "brand_name": "LAB SERIES SKINCARE FOR MEN",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "70.00",
+        "productSalesLastWeek": 0,
+        "productSales": 10,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "610967_1",
+        "product_id": 610967,
+        "age_facet": [
+          23852,
+          23853,
+          23854,
+          23855,
+          23856
+        ],
+        "key_ingredients_facet": [
+          23888
+        ],
+        "skin_concern_facet": [
+          23899,
+          23897
+        ],
+        "skin_type_facet": [
+          23900,
+          23901,
+          23902
+        ],
+        "choices_facet": [
+          23909,
+          23908,
+          23907,
+          23906
+        ],
+        "new_index_i": 1527,
+        "score": 4.4249525,
+        "productSku": [
+          "FREJ21422"
+        ],
+        "name": "Intraceuticals Rejuvenate Gentle Cleanser",
+        "price": "45.00",
+        "review_avg": 5,
+        "review_total": 2,
+        "product_url": "https://adore.testpad.com.au/intraceuticals/intraceuticals-rejuvenate-gentle-cleanser.html",
+        "productImage": "https://adore.testpad.com.au/media/product/430/intraceuticals-rejuvenate-gentle-cleanser-by-intraceuticals-743.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 4572,
+        "brand_name": "Intraceuticals",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "45.00",
+        "productSalesLastWeek": 0,
+        "productSales": 44,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "611516_1",
+        "product_id": 611516,
+        "age_facet": [
+          23852,
+          23853,
+          23854,
+          23855,
+          23856
+        ],
+        "eye_concern_facet": [
+          23860
+        ],
+        "key_ingredients_facet": [
+          23888,
+          23890
+        ],
+        "skin_concern_facet": [
+          23899,
+          23893,
+          23897,
+          23894
+        ],
+        "skin_type_facet": [
+          23900,
+          23901,
+          23902,
+          23903
+        ],
+        "choices_facet": [
+          23905,
+          23908,
+          23907,
+          23906
+        ],
+        "new_index_i": 4311,
+        "score": 3.4668255,
+        "productSku": [
+          "769915190731"
+        ],
+        "name": "The Ordinary Natural Moisturizing Factors + HA",
+        "price": "9.80",
+        "review_avg": 4.2,
+        "review_total": 49,
+        "product_url": "https://adore.testpad.com.au/the-ordinary/the-ordinary-natural-moisturizing-factors-ha-30ml.html",
+        "productImage": "https://adore.testpad.com.au/media/product/4bd/the-ordinary-natural-moisturizing-factors-ha-by-the-ordinary-0a4.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "Top Serum",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 4577,
+        "brand_name": "The Ordinary",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "9.80",
+        "productSalesLastWeek": 0,
+        "productSales": 11683,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "10527_1",
+        "product_id": 10527,
+        "age_facet": [
+          23853,
+          23854,
+          23855
+        ],
+        "eye_concern_facet": [
+          23860
+        ],
+        "key_ingredients_facet": [
+          23888
+        ],
+        "skin_concern_facet": [
+          23899,
+          23893,
+          23897,
+          23894
+        ],
+        "skin_type_facet": [
+          23900,
+          23901,
+          23902
+        ],
+        "choices_facet": [
+          23909,
+          23905,
+          23907,
+          23906
+        ],
+        "new_index_i": 11828,
+        "best_sellers_index_i": 97,
+        "score": 4.092731,
+        "productSku": [
+          "ASK34"
+        ],
+        "name": "Aesop Parsley Seed Anti-Oxidant Serum 100ml",
+        "price": "83.00",
+        "review_avg": 5,
+        "review_total": 7,
+        "product_url": "https://adore.testpad.com.au/aesop/aesop-parsley-seed-anti-oxidant-serum-100ml.html",
+        "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-parsley-seed-anti-oxidant-serum-100ml-by-aesop-431.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "Top Serum",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3173,
+        "brand_name": "Aesop",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "83.00",
+        "productSalesLastWeek": 0,
+        "productSales": 2298,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "641556_1",
+        "product_id": 641556,
+        "new_index_i": 1256,
+        "best_sellers_index_i": 46,
+        "score": 4.3030143,
+        "productSku": [
+          "1100028712"
+        ],
+        "name": "Bioderma Sensibio Foaming Gel",
+        "price": "29.99",
+        "review_avg": 5,
+        "review_total": 4,
+        "product_url": "https://adore.testpad.com.au/bioderma/bioderma-sensibio-foaming-gel.html",
+        "productImage": "https://adore.testpad.com.au/media/product/81f/bioderma-sensibio-foaming-gel-by-bioderma-961.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3215,
+        "brand_name": "Bioderma",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "29.99",
+        "productSalesLastWeek": 0,
+        "productSales": 165,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "640214_1",
+        "product_id": 640214,
+        "new_index_i": 1271,
+        "best_sellers_index_i": 331,
+        "score": 4.500886,
+        "productSku": [
+          "ABB03"
+        ],
+        "name": "Aesop Anouk Oil Burner Blend",
+        "price": "39.00",
+        "review_avg": 5,
+        "review_total": 1,
+        "product_url": "https://adore.testpad.com.au/aesop/aesop-anouk-oil-burner-blend.html",
+        "productImage": "https://adore.testpad.com.au/media/product/216/aesop-anouk-oil-burner-blend-by-aesop-247.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3173,
+        "brand_name": "Aesop",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "39.00",
+        "productSalesLastWeek": 0,
+        "productSales": 82,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "611945_1",
+        "product_id": 611945,
+        "age_facet": [
+          23852,
+          23853,
+          23854,
+          23855,
+          23856
+        ],
+        "eye_concern_facet": [
+          23860
+        ],
+        "key_ingredients_facet": [
+          23888
+        ],
+        "skin_concern_facet": [
+          23899,
+          23893,
+          23897,
+          23894
+        ],
+        "skin_type_facet": [
+          23900,
+          23901,
+          23902,
+          23903
+        ],
+        "choices_facet": [
+          23909,
+          23904,
+          23905,
+          23908,
+          23907
+        ],
+        "new_index_i": 1495,
+        "score": 4.500886,
+        "productSku": [
+          "9369999040048"
+        ],
+        "name": "Black Chicken Remedies Balm of Ages",
+        "price": "44.00",
+        "review_avg": 4,
+        "review_total": 1,
+        "product_url": "https://adore.testpad.com.au/black-chicken-remedies/black-chicken-remedies-balm-of-ages.html",
+        "productImage": "https://adore.testpad.com.au/media/product/a09/black-chicken-remedies-balm-of-ages-by-black-chicken-remedies-d9f.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 4569,
+        "brand_name": "Black Chicken Remedies",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "44.00",
+        "productSalesLastWeek": 0,
+        "productSales": 36,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "8290_1",
+        "product_id": 8290,
+        "age_facet": [
+          23852,
+          23853,
+          23854,
+          23855,
+          23856
+        ],
+        "key_ingredients_facet": [
+          23888
+        ],
+        "skin_concern_facet": [
+          23899,
+          23897
+        ],
+        "skin_type_facet": [
+          23900,
+          23901
+        ],
+        "choices_facet": [
+          23909,
+          23905,
+          23906
+        ],
+        "new_index_i": 3417,
+        "best_sellers_index_i": 315,
+        "score": 1,
+        "productSku": [
+          "B500BT13"
+        ],
+        "name": "Aesop Resurrection Aromatique Hand Wash 500ml",
+        "price": "40.00",
+        "review_avg": 5,
+        "review_total": 32,
+        "product_url": "https://adore.testpad.com.au/aesop/aesop-resurrection-aromatique-hand-wash-500ml.html",
+        "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-resurrection-aromatique-hand-wash-500ml-by-aesop-431.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3173,
+        "brand_name": "Aesop",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "40.00",
+        "productSalesLastWeek": 0,
+        "productSales": 11498,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "381_1",
+        "product_id": 381,
+        "age_facet": [
+          23851,
+          23853,
+          23855
+        ],
+        "coverage_facet": [
+          23858,
+          23859
+        ],
+        "eye_concern_facet": [
+          23860,
+          23862
+        ],
+        "finish_powder_facet": [
+          23867,
+          23864
+        ],
+        "foundation_finish_facet": [
+          23870
+        ],
+        "hair_concern_facet": [
+          23873,
+          23875,
+          23876,
+          23877
+        ],
+        "hair_curl_type_facet": [
+          23883,
+          23884,
+          23885
+        ],
+        "key_ingredients_facet": [
+          23887,
+          23890
+        ],
+        "skin_concern_facet": [
+          23898,
+          23896
+        ],
+        "skin_type_facet": [
+          23900
+        ],
+        "choices_facet": [
+          23909,
+          23905,
+          23910
+        ],
+        "hair_texture_facet": [
+          23913
+        ],
+        "new_index_i": 3373,
+        "best_sellers_index_i": 26,
+        "score": 1,
+        "productSku": [
+          "LG100"
+        ],
+        "name": "Alpha-H Liquid Gold",
+        "price": "50.96",
+        "review_avg": 4.7,
+        "review_total": 152,
+        "product_url": "https://adore.testpad.com.au/alpha-h/alpha-h-liquid-gold.html",
+        "productImage": "https://adore.testpad.com.au/media/product/340/alpha-h-liquid-gold-by-alpha-h-943.png",
+        "category_badge_name": [
+          "",
+          "",
+          "Top Serum",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3175,
+        "brand_name": "Alpha-H",
+        "productType": "simple",
+        "has_special_price": 1,
+        "specialPrice": "50.96",
+        "productSalesLastWeek": 0,
+        "productSales": 19861,
+        "is_consent_needed": 0,
+        "oldPrice": "59.95"
+      },
+      {
+        "id": "525206_1",
+        "product_id": 525206,
+        "choices_facet": [
+          23905
+        ],
+        "new_index_i": 2574,
+        "best_sellers_index_i": 10,
+        "score": 1,
+        "productSku": [
+          "12690"
+        ],
+        "name": "Dr. Bronner Hand Sanitizer Lavender",
+        "price": "8.95",
+        "review_avg": 5,
+        "review_total": 4,
+        "product_url": "https://adore.testpad.com.au/dr-bronner-s/dr-bronner-s-hand-sanitizer-lavender.html",
+        "productImage": "https://adore.testpad.com.au/media/product/9a5/dr-bronner-hand-sanitizer-lavender-by-dr-bronner-s-bed.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 4046,
+        "brand_name": "Dr. Bronner's",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "8.95",
+        "productSalesLastWeek": 0,
+        "productSales": 918,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "611940_1",
+        "product_id": 611940,
+        "age_facet": [
+          23852,
+          23853,
+          23854,
+          23855,
+          23856
+        ],
+        "key_ingredients_facet": [
+          23888
+        ],
+        "skin_type_facet": [
+          23900,
+          23901,
+          23902,
+          23903
+        ],
+        "choices_facet": [
+          23909,
+          23904,
+          23905,
+          23908,
+          23907,
+          23906
+        ],
+        "new_index_i": 1491,
+        "best_sellers_index_i": 330,
+        "score": 1,
+        "productSku": [
+          "9347246000540"
+        ],
+        "name": "Black Chicken Remedies Axilla Deodorant Paste",
+        "price": "18.50",
+        "review_avg": 4.8,
+        "review_total": 24,
+        "product_url": "https://adore.testpad.com.au/black-chicken-remedies/black-chicken-remedies-axilla-deodorant-paste.html",
+        "productImage": "https://adore.testpad.com.au/media/product/012/black-chicken-remedies-axilla-deodorant-paste-by-black-chicken-remedies-a86.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 4569,
+        "brand_name": "Black Chicken Remedies",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "18.50",
+        "productSalesLastWeek": 0,
+        "productSales": 2935,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "24253_1",
+        "product_id": 24253,
+        "age_facet": [
+          23852,
+          23853,
+          23854,
+          23855,
+          23856
+        ],
+        "skin_concern_facet": [
+          23897
+        ],
+        "new_index_i": 904,
+        "best_sellers_index_i": 13,
+        "score": 1,
+        "productSku": [
+          "1100028709"
+        ],
+        "name": "Bioderma Sensibio H2O Solution Micellaire Cleanser 500ml",
+        "price": "29.99",
+        "review_avg": 5,
+        "review_total": 27,
+        "product_url": "https://adore.testpad.com.au/bioderma-crealine-h2o-solution-micellaire-cleanser-500ml.html",
+        "productImage": "https://adore.testpad.com.au/media/product/500/bioderma-sensibio-h2o-solution-micellaire-cleanser-500ml-1c5.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "29.99",
+        "productSalesLastWeek": 0,
+        "productSales": 3021,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "4213_1",
+        "product_id": 4213,
+        "age_facet": [
+          23852,
+          23853,
+          23854,
+          23855,
+          23856
+        ],
+        "key_ingredients_facet": [
+          23888
+        ],
+        "skin_concern_facet": [
+          23899,
+          23897
+        ],
+        "skin_type_facet": [
+          23900,
+          23901
+        ],
+        "choices_facet": [
+          23909,
+          23905,
+          23907,
+          23906
+        ],
+        "new_index_i": 11862,
+        "best_sellers_index_i": 14,
+        "score": 1,
+        "productSku": [
+          "B75BM06"
+        ],
+        "name": "Aesop Resurrection Aromatique Hand Balm Tube 75ml",
+        "price": "33.00",
+        "review_avg": 4.5,
+        "review_total": 22,
+        "product_url": "https://adore.testpad.com.au/aesop/aesop-resurrection-aromatique-hand-balm-tube-75ml.html",
+        "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-resurrection-aromatique-hand-balm-tube-75ml-by-aesop-431.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3173,
+        "brand_name": "Aesop",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "33.00",
+        "productSalesLastWeek": 0,
+        "productSales": 5046,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "16550_1",
+        "product_id": 16550,
+        "new_index_i": 4209,
+        "best_sellers_index_i": 16,
+        "score": 1,
+        "productSku": [
+          "EHC50"
+        ],
+        "name": "Alpha-H Essential Hydration Cream",
+        "price": "44.16",
+        "review_avg": 4.5,
+        "review_total": 40,
+        "product_url": "https://adore.testpad.com.au/alpha-h/alpha-h-essential-hydration-cream.html",
+        "productImage": "https://adore.testpad.com.au/media/product/c4b/alpha-h-essential-hydration-cream-by-alpha-h-431.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3175,
+        "brand_name": "Alpha-H",
+        "productType": "simple",
+        "has_special_price": 1,
+        "specialPrice": "44.16",
+        "productSalesLastWeek": 0,
+        "productSales": 7151,
+        "is_consent_needed": 0,
+        "oldPrice": "51.95"
+      },
+      {
+        "id": "10396_1",
+        "product_id": 10396,
+        "age_facet": [
+          23853,
+          23854,
+          23855,
+          23856,
+          23852
+        ],
+        "skin_concern_facet": [
+          23899
+        ],
+        "new_index_i": 11874,
+        "best_sellers_index_i": 18,
+        "score": 1,
+        "productSku": [
+          "01MA030K16"
+        ],
+        "name": "L'Occitane Shea Butter Hand Cream - 30ml",
+        "price": "15.00",
+        "review_avg": 4.6,
+        "review_total": 5,
+        "product_url": "https://adore.testpad.com.au/loccitane/l-occitane-shea-hand-cream-1.html",
+        "productImage": "https://adore.testpad.com.au/media/product/9d1/l-occitane-shea-butter-hand-cream-30ml-by-l-occitane-699.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3432,
+        "brand_name": "L'Occitane",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "15.00",
+        "productSalesLastWeek": 0,
+        "productSales": 1224,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "535567_1",
+        "product_id": 535567,
+        "new_index_i": 2371,
+        "best_sellers_index_i": 69,
+        "score": 1,
+        "productSku": [
+          "ETFTW100"
+        ],
+        "name": "Eco Tan Organic Face Tan Water",
+        "price": "34.95",
+        "review_avg": 4.8,
+        "review_total": 14,
+        "product_url": "https://adore.testpad.com.au/eco-tan/eco-tan-organic-face-tan-water.html",
+        "productImage": "https://adore.testpad.com.au/media/product/c4b/eco-tan-organic-face-tan-water-by-eco-tan-431.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3881,
+        "brand_name": "Eco Tan",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "34.95",
+        "productSalesLastWeek": 0,
+        "productSales": 2519,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "610503_1",
+        "product_id": 610503,
+        "new_index_i": 1565,
+        "best_sellers_index_i": 127,
+        "score": 1,
+        "productSku": [
+          "DBMUD120"
+        ],
+        "name": "Loving Tan Deluxe Bronzing Mousse - Ultra Dark ",
+        "price": "39.95",
+        "review_avg": 4.9,
+        "review_total": 8,
+        "product_url": "https://adore.testpad.com.au/loving-tan/loving-tan-deluxe-bronzing-mousse-ultra-dark-120ml.html",
+        "productImage": "https://adore.testpad.com.au/media/product/f9f/loving-tan-deluxe-bronzing-mousse-ultra-dark-by-loving-tan-887.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 4568,
+        "brand_name": "Loving Tan",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "39.95",
+        "productSalesLastWeek": 0,
+        "productSales": 1122,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "12895_1",
+        "product_id": 12895,
+        "age_facet": [
+          23853,
+          23854,
+          23855,
+          23856,
+          23852
+        ],
+        "key_ingredients_facet": [
+          23888
+        ],
+        "skin_concern_facet": [
+          23899
+        ],
+        "choices_facet": [
+          23907
+        ],
+        "new_index_i": 4148,
+        "score": 1,
+        "productSku": [
+          "198714"
+        ],
+        "name": "Clarins Delicious Self Tanning Cream",
+        "price": "48.00",
+        "review_avg": 4.5,
+        "review_total": 6,
+        "product_url": "https://adore.testpad.com.au/clarins/clarins-delicious-self-tanning-cream.html",
+        "productImage": "https://adore.testpad.com.au/media/product/4c6/clarins-delicious-self-tanning-cream-by-clarins-a1c.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3237,
+        "brand_name": "Clarins",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "48.00",
+        "productSalesLastWeek": 0,
+        "productSales": 306,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "4361_1",
+        "product_id": 4361,
+        "age_facet": [
+          23852,
+          23853,
+          23854,
+          23855,
+          23856
+        ],
+        "eye_concern_facet": [
+          23860
+        ],
+        "skin_concern_facet": [
+          23899,
+          23893
+        ],
+        "skin_type_facet": [
+          23900,
+          23901,
+          23902
+        ],
+        "choices_facet": [
+          23908,
+          23910,
+          23907
+        ],
+        "new_index_i": 4198,
+        "score": 1,
+        "productSku": [
+          "S0780700"
+        ],
+        "name": "SkinCeuticals Ultimate UV Defense SPF30 (90ml)",
+        "price": "62.10",
+        "review_avg": 4.6,
+        "review_total": 7,
+        "product_url": "https://adore.testpad.com.au/skinceuticals/skinceuticals-ultimate-uv-defense-spf30-90ml.html",
+        "productImage": "https://adore.testpad.com.au/media/product/481/skinceuticals-ultimate-uv-defense-spf30-90ml-by-skinceuticals-677.png",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3612,
+        "brand_name": "SkinCeuticals",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "62.10",
+        "productSalesLastWeek": 0,
+        "productSales": 798,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "3144_1",
+        "product_id": 3144,
+        "age_facet": [
+          23852,
+          23853,
+          23854,
+          23855,
+          23856
+        ],
+        "skin_concern_facet": [
+          23897
+        ],
+        "choices_facet": [
+          23905
+        ],
+        "new_index_i": 4369,
+        "score": 1,
+        "productSku": [
+          "580199"
+        ],
+        "name": "Dr Hauschka After Sun Lotion 100ml",
+        "price": "32.00",
+        "review_avg": 0,
+        "review_total": 0,
+        "product_url": "https://adore.testpad.com.au/dr-hauschka/dr-hauschka-after-sun-lotion-100ml.html",
+        "productImage": "https://adore.testpad.com.au/media/product/dbc/dr-hauschka-after-sun-lotion-100ml-by-dr-hauschka-e2f.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3308,
+        "brand_name": "Dr. Hauschka",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "32.00",
+        "productSalesLastWeek": 0,
+        "productSales": 59,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "22588_1",
+        "product_id": 22588,
+        "age_facet": [
+          23853,
+          23854,
+          23855,
+          23856,
+          23852
+        ],
+        "eye_concern_facet": [
+          23860
+        ],
+        "key_ingredients_facet": [
+          23888
+        ],
+        "skin_concern_facet": [
+          23893,
+          23894,
+          23897,
+          23899
+        ],
+        "skin_type_facet": [
+          23901,
+          23900
+        ],
+        "choices_facet": [
+          23907
+        ],
+        "new_index_i": 4511,
+        "score": 1,
+        "productSku": [
+          "183985"
+        ],
+        "name": "Clarins After Sun Moisturizer Ultra-Hydrating",
+        "price": "40.00",
+        "review_avg": 0,
+        "review_total": 0,
+        "product_url": "https://adore.testpad.com.au/clarins/clarins-after-sun-moisturizer-ultra-hydrating.html",
+        "productImage": "https://adore.testpad.com.au/media/product/7f5/clarins-after-sun-moisturizer-ultra-hydrating-by-clarins-f61.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3237,
+        "brand_name": "Clarins",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "40.00",
+        "productSalesLastWeek": 0,
+        "productSales": 39,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "22587_1",
+        "product_id": 22587,
+        "age_facet": [
+          23853,
+          23854,
+          23855,
+          23856,
+          23852
+        ],
+        "eye_concern_facet": [
+          23860
+        ],
+        "key_ingredients_facet": [
+          23888
+        ],
+        "skin_concern_facet": [
+          23893,
+          23894,
+          23897,
+          23899
+        ],
+        "skin_type_facet": [
+          23903,
+          23902,
+          23901,
+          23900
+        ],
+        "choices_facet": [
+          23907
+        ],
+        "new_index_i": 4512,
+        "score": 1,
+        "productSku": [
+          "183986"
+        ],
+        "name": "Clarins After Sun Moisturizer Self Tanning",
+        "price": "40.00",
+        "review_avg": 0,
+        "review_total": 0,
+        "product_url": "https://adore.testpad.com.au/clarins/clarins-after-sun-moisturizer-self-tanning.html",
+        "productImage": "https://adore.testpad.com.au/media/product/e18/clarins-after-sun-moisturizer-self-tanning-by-clarins-4ee.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3237,
+        "brand_name": "Clarins",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "40.00",
+        "productSalesLastWeek": 0,
+        "productSales": 27,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "20264_1",
+        "product_id": 20264,
+        "new_index_i": 5224,
+        "score": 1,
+        "productSku": [
+          "15038"
+        ],
+        "name": "Thalgo Self-Tanning Cream",
+        "price": "42.00",
+        "review_avg": 4,
+        "review_total": 1,
+        "product_url": "https://adore.testpad.com.au/thalgo/thalgo-self-tanning-cream.html",
+        "productImage": "https://adore.testpad.com.au/media/product/c4b/thalgo-self-tanning-cream-by-thalgo-431.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3648,
+        "brand_name": "Thalgo",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "42.00",
+        "productSalesLastWeek": 0,
+        "productSales": 138,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "21911_1",
+        "product_id": 21911,
+        "age_facet": [
+          23852,
+          23853,
+          23854,
+          23855,
+          23856
+        ],
+        "key_ingredients_facet": [
+          23888
+        ],
+        "skin_concern_facet": [
+          23899,
+          23896
+        ],
+        "skin_type_facet": [
+          23900,
+          23901
+        ],
+        "choices_facet": [
+          23909,
+          23905,
+          23906
+        ],
+        "new_index_i": 59,
+        "best_sellers_index_i": 44,
+        "score": 1,
+        "productSku": [
+          "B500BT17"
+        ],
+        "name": "Aesop Reverence Aromatique Hand Wash",
+        "price": "40.00",
+        "review_avg": 4.9,
+        "review_total": 9,
+        "product_url": "https://adore.testpad.com.au/aesop/aesop-reverence-aromatique-hand-wash.html",
+        "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-reverence-aromatique-hand-wash-by-aesop-431.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3173,
+        "brand_name": "Aesop",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "40.00",
+        "productSalesLastWeek": 0,
+        "productSales": 3433,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "4223_1",
+        "product_id": 4223,
+        "age_facet": [
+          23852,
+          23853,
+          23854
+        ],
+        "key_ingredients_facet": [
+          23888
+        ],
+        "skin_concern_facet": [
+          23895,
+          23899,
+          23893,
+          23898
+        ],
+        "skin_type_facet": [
+          23902,
+          23903
+        ],
+        "choices_facet": [
+          23909,
+          23905,
+          23907,
+          23906
+        ],
+        "new_index_i": 11853,
+        "best_sellers_index_i": 45,
+        "score": 1,
+        "productSku": [
+          "ASK20RF"
+        ],
+        "name": "Aesop Lightweight Facial Hydrating Serum 100ml",
+        "price": "73.00",
+        "review_avg": 4.6,
+        "review_total": 11,
+        "product_url": "https://adore.testpad.com.au/aesop/aesop-lightweight-facial-hydrating-serum-100ml.html",
+        "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-lightweight-facial-hydrating-serum-100ml-by-aesop-431.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "Top Serum",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3173,
+        "brand_name": "Aesop",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "73.00",
+        "productSalesLastWeek": 0,
+        "productSales": 812,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "21915_1",
+        "product_id": 21915,
+        "age_facet": [
+          23852,
+          23853,
+          23854,
+          23855,
+          23856
+        ],
+        "key_ingredients_facet": [
+          23888
+        ],
+        "skin_concern_facet": [
+          23899,
+          23897
+        ],
+        "skin_type_facet": [
+          23900,
+          23901,
+          23902
+        ],
+        "choices_facet": [
+          23909,
+          23905,
+          23906
+        ],
+        "new_index_i": 4829,
+        "best_sellers_index_i": 48,
+        "score": 1,
+        "productSku": [
+          "APB109"
+        ],
+        "name": "Aesop Reverence Duet",
+        "price": "133.00",
+        "review_avg": 5,
+        "review_total": 1,
+        "product_url": "https://adore.testpad.com.au/aesop/aesop-reverence-duet.html",
+        "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-reverence-duet-by-aesop-431.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3173,
+        "brand_name": "Aesop",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "133.00",
+        "productSalesLastWeek": 0,
+        "productSales": 229,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "18974_1",
+        "product_id": 18974,
+        "age_facet": [
+          23852,
+          23853,
+          23854,
+          23855,
+          23856
+        ],
+        "key_ingredients_facet": [
+          23888
+        ],
+        "skin_type_facet": [
+          23900,
+          23901,
+          23902,
+          23903
+        ],
+        "choices_facet": [
+          23909,
+          23905,
+          23907,
+          23906
+        ],
+        "new_index_i": 5289,
+        "best_sellers_index_i": 54,
+        "score": 1,
+        "productSku": [
+          "B50BT16"
+        ],
+        "name": "Aesop Resurrection Rinse-Free Hand Wash 50ml",
+        "price": "10.00",
+        "review_avg": 5,
+        "review_total": 2,
+        "product_url": "https://adore.testpad.com.au/aesop/aesop-resurrection-rinse-free-hand-wash-50ml.html",
+        "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-resurrection-rinse-free-hand-wash-50ml-by-aesop-431.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3173,
+        "brand_name": "Aesop",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "10.00",
+        "productSalesLastWeek": 0,
+        "productSales": 1230,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "15278_1",
+        "product_id": 15278,
+        "age_facet": [
+          23853,
+          23854,
+          23855,
+          23856,
+          23852
+        ],
+        "key_ingredients_facet": [
+          23888
+        ],
+        "skin_concern_facet": [
+          23897,
+          23899
+        ],
+        "skin_type_facet": [
+          23901,
+          23900
+        ],
+        "choices_facet": [
+          23905,
+          23906,
+          23909
+        ],
+        "new_index_i": 11858,
+        "best_sellers_index_i": 84,
+        "score": 1,
+        "productSku": [
+          "APB73"
+        ],
+        "name": "Aesop Resurrection Duet",
+        "price": "133.00",
+        "review_avg": 5,
+        "review_total": 1,
+        "product_url": "https://adore.testpad.com.au/aesop/aesop-resurrection-duet.html",
+        "productImage": "https://adore.testpad.com.au/media/product/c4b/aesop-resurrection-duet-by-aesop-431.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3173,
+        "brand_name": "Aesop",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "133.00",
+        "productSalesLastWeek": 0,
+        "productSales": 1145,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      },
+      {
+        "id": "694712_1",
+        "product_id": 694712,
+        "age_facet": [
+          23853,
+          23854,
+          23855,
+          23856
+        ],
+        "new_index_i": 66,
+        "best_sellers_index_i": 149,
+        "score": 4.5921,
+        "productSku": [
+          "01BM150K17"
+        ],
+        "name": "L'Occitane Shea Butter Intensive Hand Balm",
+        "price": "47.00",
+        "review_avg": 0,
+        "review_total": 0,
+        "product_url": "https://adore.testpad.com.au/loccitane/l-occitane-shea-butter-intensive-hand-balm.html",
+        "productImage": "https://adore.testpad.com.au/media/product/c4b/l-occitane-shea-butter-intensive-hand-balm-by-l-occitane-431.jpg",
+        "category_badge_name": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "brand_id": 3432,
+        "brand_name": "L'Occitane",
+        "productType": "simple",
+        "has_special_price": 0,
+        "specialPrice": "47.00",
+        "productSalesLastWeek": 0,
+        "productSales": 2,
+        "is_consent_needed": 0,
+        "oldPrice": 0
+      }
+    ],
+    "related": [
+      {
+        "category_name": "Skin Care",
+        "category_id": 43,
+        "category_url": "skin-care.html",
+        "emarsys_category": "Skin Care",
+        "category_slug": "skin-care",
+        "isBrand": 0,
+        "sysId": "72Z15j37HLJYTMi9CooCyo",
+        "name": "The 9 Best Luxury Bath and Shower Products",
+        "url": "skin-care/guide/best-luxury-bath-and-shower-products",
+        "type": "guide",
+        "identifier": "best-luxury-bath-and-shower-products",
+        "feature_image": "https://images.ctfassets.net/pi28xy1s107o/QYt1OJl9zcd4LY5xhnWq6/b274a4d144fff0ffe82c6ac108193709/TheAntiAgeingBodyTreatmentYouMightWantToTryThisSummer_Sodashi_BodyBrillianceCream_0113__1_.jpg",
+        "publishDate": "2019-11-25T13:00:00Z",
+        "updatedAt": "2019-11-26T02:57:18.253Z",
+        "author_name": "Maddie Felton",
+        "author_avatar": "https://images.ctfassets.net/pi28xy1s107o/3OXaDhBTGvrnjTNLzNGxAV/296e7ec2ff92368951b64a778567de52/Staff_MaddieF_002.jpg",
+        "author_slug": "maddie-felton",
+        "author_url": "/author/maddie-felton.html",
+        "seo-desc": "Transform your bathroom into a luxury spa with our premium bath and shower products available with free express shipping.The perfect gifts.",
+        "isConsentNeeded": 0
+      },
+      {
+        "category_name": "Skin Care",
+        "category_id": 43,
+        "category_url": "skin-care.html",
+        "emarsys_category": "Skin Care",
+        "category_slug": "skin-care",
+        "isBrand": 0,
+        "sysId": "7KtdbNNOEpCVwMK3SnsEZw",
+        "name": "The 4 Best Men’s Moisturisers with SPF",
+        "url": "skin-care/guide/the-best-mens-moisturiser-with-spf",
+        "type": "guide",
+        "identifier": "the-best-mens-moisturiser-with-spf",
+        "feature_image": "https://images.ctfassets.net/pi28xy1s107o/60gRMGaFro2RfazRLkU9dH/2f9598f396817d5db4e9bba0fb13fbb2/0L3A1302_copy.jpg",
+        "publishDate": "2019-11-20T13:00:00Z",
+        "updatedAt": "2019-11-26T03:30:33.095Z",
+        "author_name": "Maddie Felton",
+        "author_avatar": "https://images.ctfassets.net/pi28xy1s107o/3OXaDhBTGvrnjTNLzNGxAV/296e7ec2ff92368951b64a778567de52/Staff_MaddieF_002.jpg",
+        "author_slug": "maddie-felton",
+        "author_url": "/author/maddie-felton.html",
+        "seo-desc": "Hydrate, nourish, and protect a man’s skin by choosing a moisturiser with SPF. Shop our top picks with free express shipping and Afterpay available. ",
+        "isConsentNeeded": 0
+      },
+      {
+        "category_name": "Skin Care",
+        "category_id": 43,
+        "category_url": "skin-care.html",
+        "emarsys_category": "Skin Care",
+        "category_slug": "skin-care",
+        "isBrand": 0,
+        "sysId": "6v6yj9ZqmRZmMxpXsGCUEf",
+        "name": "The 9 Best Pore Minimsers",
+        "url": "skin-care/guide/best-pore-minimiser",
+        "type": "guide",
+        "identifier": "best-pore-minimiser",
+        "feature_image": "https://images.ctfassets.net/pi28xy1s107o/gAQiyFVVTLp9JAZfVmmvn/b97c78af0b0f9930002e050507f0a638/AlphaH_LiquidGold_Normal_06042018_0032.jpg",
+        "publishDate": "2019-11-20T13:00:00Z",
+        "updatedAt": "2019-11-26T03:35:52.526Z",
+        "author_name": "Maddie Felton",
+        "author_avatar": "https://images.ctfassets.net/pi28xy1s107o/3OXaDhBTGvrnjTNLzNGxAV/296e7ec2ff92368951b64a778567de52/Staff_MaddieF_002.jpg",
+        "author_slug": "maddie-felton",
+        "author_url": "/author/maddie-felton.html",
+        "seo-desc": "Shop the best pore minimising products, including toners, creams, serums, masks, and exfoliators with free express shipping and Afterpay available.",
+        "isConsentNeeded": 0
+      },
+      {
+        "category_name": "Skin Care",
+        "category_id": 43,
+        "category_url": "skin-care.html",
+        "emarsys_category": "Skin Care",
+        "category_slug": "skin-care",
+        "isBrand": 0,
+        "sysId": "7ru3EMETfiZhfVdyP3bXG0",
+        "name": "The 6 Best Luxury Hand Washes and Lotions",
+        "url": "skin-care/guide/luxury-hand-wash-lotion",
+        "type": "guide",
+        "identifier": "luxury-hand-wash-lotion",
+        "feature_image": "https://images.ctfassets.net/pi28xy1s107o/1is6guMIn8gW5qrINNIjR5/c859eb8e82fed39229a3d1a3f33be83f/Jurlique_HandCream_Rose_0035.jpg",
+        "publishDate": "2019-11-18T13:00:00Z",
+        "updatedAt": "2019-11-26T03:02:22.477Z",
+        "author_name": "Maddie Felton",
+        "author_avatar": "https://images.ctfassets.net/pi28xy1s107o/3OXaDhBTGvrnjTNLzNGxAV/296e7ec2ff92368951b64a778567de52/Staff_MaddieF_002.jpg",
+        "author_slug": "maddie-felton",
+        "author_url": "/author/maddie-felton.html",
+        "seo-desc": "Nourish your hands with the best luxury washes and lotions to keep them fresh, hydrated, and soft. Shop today for free express shipping and Afterpay.",
+        "isConsentNeeded": 0
+      },
+      {
+        "category_name": "Skin Care",
+        "category_id": 43,
+        "category_url": "skin-care.html",
+        "emarsys_category": "Skin Care",
+        "category_slug": "skin-care",
+        "isBrand": 0,
+        "sysId": "7MFonKW7T1eQHUGwfEkwPv",
+        "name": "The Ultimate Guide to Antipodes Bestsellers",
+        "url": "skin-care/guide/antipodes-guide",
+        "type": "guide",
+        "identifier": "antipodes-guide",
+        "feature_image": "https://images.ctfassets.net/pi28xy1s107o/2VyLMNFkF9NsYgkdBC8EbT/b225f7a09d469441931d19f98c17ed62/Antipodes_Instagram_post_-_Brightening_Serum_and_Manuka_Honey_Day_Cream.JPG",
+        "publishDate": "2019-09-03T14:00:00Z",
+        "updatedAt": "2019-10-17T00:08:42.303Z",
+        "author_name": "Pippa Bond",
+        "author_avatar": "https://images.ctfassets.net/pi28xy1s107o/2Am2T11cpAn1GvVQP9lf0O/b1dae6b954198da5ff9c09d3372c439b/Staff_Pippa_001.jpg",
+        "author_slug": "pippa-bond",
+        "author_url": "/author/pippa-bond.html",
+        "seo-desc": "Find all the information you need on Antipodes in Adore Beauty’s Ultimate Guide. Helping you find the right products for your skin & hair.",
+        "isConsentNeeded": 0
+      },
+      {
+        "category_name": "Skin Care",
+        "category_id": 43,
+        "category_url": "skin-care.html",
+        "emarsys_category": "Skin Care",
+        "category_slug": "skin-care",
+        "isBrand": 0,
+        "sysId": "6IimOLCgV2znx2OK8EPbn4",
+        "name": "The 8 Best at Home Self Tanners to Use on Your Face in 2019",
+        "url": "skin-care/guide/best-face-tans",
+        "type": "guide",
+        "identifier": "best-face-tans",
+        "feature_image": "https://images.ctfassets.net/pi28xy1s107o/1k4Ksr4YE9eLppVBBFLrqP/b2b6e7fdd921e0dd0a8a80e793926f1e/EcoTan_OrganicFaceTanWater_HERO_.jpg",
+        "publishDate": "2019-08-28T14:00:00Z",
+        "updatedAt": "2019-09-10T04:59:26.462Z",
+        "author_name": "Maddie Felton",
+        "author_avatar": "https://images.ctfassets.net/pi28xy1s107o/3OXaDhBTGvrnjTNLzNGxAV/296e7ec2ff92368951b64a778567de52/Staff_MaddieF_002.jpg",
+        "author_slug": "maddie-felton",
+        "author_url": "/author/maddie-felton.html",
+        "seo-desc": "Shop our 8 best self tanners for your face online at Adore Beauty. As chosen by experts. Free express shipping & Afterpay available.",
+        "isConsentNeeded": 0
+      },
+      {
+        "category_name": "Skin Care",
+        "category_id": 43,
+        "category_url": "skin-care.html",
+        "emarsys_category": "Skin Care",
+        "category_slug": "skin-care",
+        "isBrand": 0,
+        "sysId": "1U8eu0kNmXdPAchLuClPNR",
+        "name": "The 11 Best Vitamin A Serums Chosen By Experts 2019",
+        "url": "skin-care/guide/vitamin-a-serums",
+        "type": "guide",
+        "identifier": "vitamin-a-serums",
+        "feature_image": "https://images.ctfassets.net/pi28xy1s107o/3QFQkAfJCLpl1kyqVEH9UI/1f9938dc2f7b517733170b0de9902047/SkinCeuticals_Retinol_HERO_.jpg",
+        "publishDate": "2019-08-28T14:00:00Z",
+        "updatedAt": "2019-10-24T03:33:28.336Z",
+        "author_name": "Maddie Felton",
+        "author_avatar": "https://images.ctfassets.net/pi28xy1s107o/3OXaDhBTGvrnjTNLzNGxAV/296e7ec2ff92368951b64a778567de52/Staff_MaddieF_002.jpg",
+        "author_slug": "maddie-felton",
+        "author_url": "/author/maddie-felton.html",
+        "seo-desc": "Shop our top 11 picks for Vitamin A serums as chosen by experts online at Adore Beauty. Free express shipping & Afterpay available.",
+        "isConsentNeeded": 0
+      },
+      {
+        "category_name": "Skin Care",
+        "category_id": 43,
+        "category_url": "skin-care.html",
+        "emarsys_category": "Skin Care",
+        "category_slug": "skin-care",
+        "isBrand": 0,
+        "sysId": "7ygiGQWKgmBstDIwM03Oal",
+        "name": " The 5 Best Glycolic Acid Body Scrubs & Exfoliators in 2019",
+        "url": "skin-care/guide/glycolic-acid-body-scrubs",
+        "type": "guide",
+        "identifier": "glycolic-acid-body-scrubs",
+        "feature_image": "https://images.ctfassets.net/pi28xy1s107o/63LY1QwicDcrWYhaGjeVdb/489b17b83dcd660c9d05fa2352d1accc/Skinstitut_GlycolicScrub_HERO_.jpg",
+        "publishDate": "2019-08-28T14:00:00Z",
+        "updatedAt": "2019-10-24T03:36:09.215Z",
+        "author_name": "Maddie Felton",
+        "author_avatar": "https://images.ctfassets.net/pi28xy1s107o/3OXaDhBTGvrnjTNLzNGxAV/296e7ec2ff92368951b64a778567de52/Staff_MaddieF_002.jpg",
+        "author_slug": "maddie-felton",
+        "author_url": "/author/maddie-felton.html",
+        "seo-desc": "Shop our top 5 picks for Glycolic Acid Body Scrubs online at Adore Beauty. As chosen by experts. Free express shipping & Afterpay available.",
+        "isConsentNeeded": 0
+      },
+      {
+        "category_name": "Skin Care",
+        "category_id": 43,
+        "category_url": "skin-care.html",
+        "emarsys_category": "Skin Care",
+        "category_slug": "skin-care",
+        "isBrand": 0,
+        "sysId": "rk7wxx0j1vxmYeqxpEc5d",
+        "name": "The 9 Best Hydrating Serums for Dry Skin in 2019",
+        "url": "skin-care/guide/best-hydrating-serum-for-dry-skin",
+        "type": "guide",
+        "identifier": "best-hydrating-serum-for-dry-skin",
+        "feature_image": "https://images.ctfassets.net/pi28xy1s107o/4V32euj7KCZmn7O4WO5PdL/b693b8fa35e755e9041775ec5639160f/AspectHydratingSerum_SkinCare_HERO_.jpg",
+        "publishDate": "2019-08-21T14:00:00Z",
+        "updatedAt": "2019-10-24T01:44:38.196Z",
+        "author_name": "India Williams",
+        "author_avatar": "https://images.ctfassets.net/pi28xy1s107o/3Ytv0lz9h3CB1Gzgyk0VK6/aea05d7cbcffcc5cede6d508228acef7/Staff_India_001.jpg",
+        "author_slug": "india-williams",
+        "author_url": "/author/india-williams.html",
+        "seo-desc": "Shop our favourite hydrating serums for dry sensitive skin at Adore Beauty. As chosen by experts. Free express shipping & Afterpay available.",
+        "isConsentNeeded": 0
+      },
+      {
+        "category_name": "Skin Care",
+        "category_id": 43,
+        "category_url": "skin-care.html",
+        "emarsys_category": "Skin Care",
+        "category_slug": "skin-care",
+        "isBrand": 0,
+        "sysId": "4zqIiPiR74MJzCRgdIl2KN",
+        "name": "The 8 Best Affordable Skincare Products to Try in 2019",
+        "url": "skin-care/guide/best-affordable-skin-care",
+        "type": "guide",
+        "identifier": "best-affordable-skin-care",
+        "feature_image": "https://images.ctfassets.net/pi28xy1s107o/2zJxUFyghgrsK36qU7KSsQ/cdf70139d456915e565e058ef50aff98/LaRochePosay_EffaclarAntiAcneStarterKit_HERO_.jpg",
+        "publishDate": "2019-08-21T14:00:00Z",
+        "updatedAt": "2019-10-24T03:14:07.700Z",
+        "author_name": "Maddie Felton",
+        "author_avatar": "https://images.ctfassets.net/pi28xy1s107o/3OXaDhBTGvrnjTNLzNGxAV/296e7ec2ff92368951b64a778567de52/Staff_MaddieF_002.jpg",
+        "author_slug": "maddie-felton",
+        "author_url": "/author/maddie-felton.html",
+        "seo-desc": "Shop our top 8 picks for affordable skincare online at Adore Beauty. As chosen by experts. Free express shipping & Afterpay available.",
+        "isConsentNeeded": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RichTextPTag renders P tag 1`] = `
+<Text
+  allowFontScaling={false}
+  style={
+    Array [
+      Object {
+        "fontFamily": "Montserrat-Regular",
+      },
+      Array [
+        Object {
+          "fontSize": 16,
+          "letterSpacing": 0.1,
+          "lineHeight": 24,
+        },
+        undefined,
+        Object {
+          "color": undefined,
+          "textAlign": "left",
+        },
+      ],
+    ]
+  }
+>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Montserrat-Regular",
+        },
+        undefined,
+      ]
+    }
+  >
+    You can read our full 
+  </Text>
+  <Text
+    allowFontScaling={false}
+    onPress={[Function]}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Montserrat-Regular",
+        },
+        undefined,
+      ]
+    }
+  >
+     
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": "#404040",
+            "fontFamily": "Montserrat-Regular",
+            "textDecorationLine": "underline",
+          },
+          Array [
+            Object {
+              "fontSize": 16,
+              "letterSpacing": 0.1,
+              "lineHeight": 24,
+            },
+            undefined,
+          ],
+        ]
+      }
+    >
+      if you want to learn more.
+    </Text>
+     
+  </Text>
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "fontFamily": "Montserrat-Regular",
+        },
+        undefined,
+      ]
+    }
+  >
+     if you want to learn more.
+  </Text>
+</Text>
+`;

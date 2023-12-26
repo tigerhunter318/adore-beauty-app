@@ -1,0 +1,132 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShopPromoItemTypePromotions renders content 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": undefined,
+      "height": 325,
+      "marginBottom": 10,
+      "opacity": 1,
+      "paddingBottom": 10,
+      "paddingLeft": 5,
+      "paddingRight": 5,
+      "shadowColor": "#000000",
+      "shadowOffset": Object {
+        "height": 1,
+        "width": 2,
+      },
+      "shadowOpacity": 0.1,
+      "shadowRadius": 5,
+    }
+  }
+  testID="ShopPromoItem"
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "space-between",
+        },
+        Object {
+          "backgroundColor": "#FFFFFF",
+          "height": 202,
+          "marginTop": 5,
+          "width": "100%",
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "marginTop": 15,
+          },
+          Object {
+            "height": 44,
+          },
+        ]
+      }
+    >
+      <Text
+        allowFontScaling={false}
+        numberOfLines={2}
+        ph={2.2}
+        style={
+          Array [
+            Object {
+              "fontFamily": "Montserrat-Bold",
+              "fontSize": 14,
+              "lineHeight": 22,
+              "paddingLeft": 22,
+              "paddingRight": 22,
+              "textAlign": "center",
+              "textTransform": "uppercase",
+            },
+            undefined,
+          ]
+        }
+      />
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "marginTop": 13,
+          },
+          Object {
+            "height": 130,
+            "width": 130,
+          },
+        ]
+      }
+    />
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "paddingTop": 10,
+        },
+        Object {},
+      ]
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      numberOfLines={4}
+      ph={2.1}
+      pt={0.5}
+      style={
+        Array [
+          Object {
+            "fontFamily": "Montserrat-Regular",
+            "fontSize": 13,
+            "letterSpacing": 0.09,
+            "lineHeight": 20,
+            "paddingLeft": 21,
+            "paddingRight": 21,
+            "paddingTop": 5,
+            "textAlign": "left",
+          },
+          undefined,
+        ]
+      }
+    />
+  </View>
+</View>
+`;
